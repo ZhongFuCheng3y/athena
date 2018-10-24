@@ -2,7 +2,7 @@
 
 
 
-| :memo: 精美Java知识点脑图 | 💾海量视频资源 | 居中对齐标题 |
+| :memo: 精美Java知识点脑图 | 💾海量视频资源 | ![](https://i.imgur.com/IESBXyl.png)居中对齐标题 |
 | :------| ------: | :------: |
 | [精美Java知识点脑图](mindmap.md) | [海量视频资源](resource.md)  | 稍微长一点的文本 |
 
