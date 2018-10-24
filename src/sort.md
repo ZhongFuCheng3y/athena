@@ -1,14 +1,25 @@
 ## 八大基础排序 ##
 
 
-- [src/冒泡排序就这么简单](https://segmentfault.com/a/1190000013794446)
-- [src/选择排序就这么简单](https://segmentfault.com/a/1190000013814458)
-- [src/快速排序就这么简单](https://segmentfault.com/a/1190000013888583)
-- [src/插入排序就这么简单](https://segmentfault.com/a/1190000013897777)
-- [src/希尔排序就这么简单](https://segmentfault.com/a/1190000013967025)
-- [src/归并排序就这么简单](https://segmentfault.com/a/1190000013946967)
-- [src/基数排序就这么简单](https://segmentfault.com/a/1190000013986116)
-- [src/堆排序就这么简单](https://segmentfault.com/a/1190000013960582)
-- [src/八大基础排序总结](https://segmentfault.com/a/1190000014008568)
+- [冒泡排序就这么简单](https://segmentfault.com/a/1190000013794446)
+- [选择排序就这么简单](https://segmentfault.com/a/1190000013814458)
+- [快速排序就这么简单](https://segmentfault.com/a/1190000013888583)
+- [插入排序就这么简单](https://segmentfault.com/a/1190000013897777)
+- [希尔排序就这么简单](https://segmentfault.com/a/1190000013967025)
+- [归并排序就这么简单](https://segmentfault.com/a/1190000013946967)
+- [基数排序就这么简单](https://segmentfault.com/a/1190000013986116)
+- [堆排序就这么简单](https://segmentfault.com/a/1190000013960582)
+- [八大基础排序总结](https://segmentfault.com/a/1190000014008568)
 
-![src/](https://i.imgur.com/gkgKzh3.jpg)
+![](https://i.imgur.com/gkgKzh3.jpg)
+
+# 如果觉得还不错： #
+
+
+关注公众号：Java3y推送最新的**原创**技术文章
+
+![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
+
+加入qq群一起交流技术
+
+![](https://i.imgur.com/uCYTsFK.png)
