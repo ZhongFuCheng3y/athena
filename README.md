@@ -1,10 +1,19 @@
-# 前言 #
+# 说明 #
 
-
+可能感兴趣的资源：
 
 | :art: 精美Java知识点脑图 | :computer:海量视频资源 | 
 | :------| ------: | 
 | [精美Java知识点脑图](mindmap.md) | [海量视频资源](resource.md)  | 
+
+
+
+### :coffee:Java基础 ###
+
+| :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO等等 | :guitar:设计模式 |
+| :------| ------: | :------: |:------: |
+| [Java集合](collection.md) | [Java多线程](thread.md) | [JVM/NIO等等](javabasic.md) |[设计模式](designmode.md) |
+
 
 
 [面试工作与总结](interview.md)
@@ -34,85 +43,6 @@
 - [两个月的Java实习结束，继续努力](https://segmentfault.com/a/1190000016215193)
 
 
-# Java基础 #
-
-## 集合 ##
-
-- [集合Collection总览](https://segmentfault.com/a/1190000014176577)
-- [List集合就这么简单【源码剖析】](https://segmentfault.com/a/1190000014240704)
-- [Map集合、散列表、红黑树介绍](https://segmentfault.com/a/1190000014262640)
-- [HashMap就是这么简单【源码剖析】](https://segmentfault.com/a/1190000014293372)
-- [LinkedHashMap就这么简单【源码剖析】](https://segmentfault.com/a/1190000014319445)
-- [TreeMap就这么简单【源码剖析】](https://segmentfault.com/a/1190000014345983)
-- [ConcurrentHashMap基于JDK1.8源码剖析](https://segmentfault.com/a/1190000014380257)
-- [3分钟搞掂Set集合](https://segmentfault.com/a/1190000014391402)
-- [Java集合总结【面试题+脑图】，将知识点一网打尽！](https://segmentfault.com/a/1190000014403696)
-
-
-Java集合：
-
-![](https://i.imgur.com/0vUgF0B.png)
-
-
-## 多线程 ##
-
-- [多线程三分钟就可以入个门了！](https://segmentfault.com/a/1190000014428190)
-- [Thread源码剖析](https://segmentfault.com/a/1190000014463417)
-- [多线程基础必要知识点！看了学习多线程事半功倍](https://segmentfault.com/a/1190000014546223)
-- [Java锁机制了解一下](https://segmentfault.com/a/1190000014571149)
-- [AQS简简单单过一遍](https://segmentfault.com/a/1190000014595928)
-- [Lock锁子类了解一下](https://segmentfault.com/a/1190000014632334)
-- [线程池你真不来了解一下吗？](https://segmentfault.com/a/1190000014741369)
-- [多线程之死锁就是这么简单](https://segmentfault.com/a/1190000014747667)
-- [ThreadLocal就是这么简单](https://segmentfault.com/a/1190000014152795)
-- [Java多线程打辅助的三个小伙子](https://segmentfault.com/a/1190000015785789)
-
-多线程：
-
-![](https://i.imgur.com/OlaOgLf.jpg)
-
-
-
-
-## Java基础零碎知识点 ##
-
-- [泛型就这么简单](https://segmentfault.com/a/1190000014120746)
-- [注解就这么简单](https://segmentfault.com/a/1190000014131722)
-- [Druid数据库连接池就这么简单](https://segmentfault.com/a/1190000013997259)
-- [Object对象你真理解了吗？](https://segmentfault.com/a/1190000014710646)
-- [JDK10都发布了，nio你了解多少？](https://segmentfault.com/a/1190000014850886)
-- [学习JVM是如何从入门到放弃的？](https://segmentfault.com/a/1190000015605327)
-
-
-泛型：
-
-![](https://i.imgur.com/E3JilMy.png)
-
-注解：
-
-
-![](https://i.imgur.com/FrvrE4L.png)
-
-Object：
-
-![](https://i.imgur.com/1LIn9zA.jpg)
-
-nio:
-
-![](https://i.imgur.com/gZ5D12K.jpg)
-
-
-## 设计模式 ##
-
-- [给女朋友讲解什么是代理模式](https://segmentfault.com/a/1190000014764125)
-- [包装模式就是这么简单啦](https://segmentfault.com/a/1190000014771830)
-- [单例模式你会几种写法？](https://segmentfault.com/a/1190000014888431)
-- [工厂模式理解了没有？](https://segmentfault.com/a/1190000014949595)
-
-此部分未完待续....
-
-
-![](https://i.imgur.com/cWnmGYD.jpg)
 
 # 数据结构与算法 #
 
