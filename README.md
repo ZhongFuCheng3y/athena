@@ -44,7 +44,7 @@
 
 | :fish_cake:关系型数据库(MySQL/Oracle) | :lollipop:Redis | 
 | :------:| :------: | 
-| [关系型数据库(MySQL/Oracle)](database.md) | [敬请期待](xxx.md) | 
+| [关系型数据库(MySQL/Oracle)](database.md) | [敬请期待]() | 
 
 
 
