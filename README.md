@@ -3,128 +3,32 @@
 可能感兴趣的资源：
 
 | :art: 精美Java知识点脑图 | :computer:海量视频资源 | 
-| :------| ------: | 
+| :------:| :------: | 
 | [精美Java知识点脑图](mindmap.md) | [海量视频资源](resource.md)  | 
 
 
-
-### :coffee:Java基础 ###
+## :coffee:Java基础 ##
 
 | :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO等等 | :guitar:设计模式 |
-| :------| ------: | :------: |:------: |
+| :------:| :------: | :------: |:------: |
 | [Java集合](collection.md) | [Java多线程](thread.md) | [JVM/NIO等等](javabasic.md) |[设计模式](designmode.md) |
 
 
+## :tophat:数据结构与算法 ##
 
-[面试工作与总结](interview.md)
-
-之前已经做过了一个关于微信公众号文章的导航了，但由于微信公众号的代码也好、格式也好，如果是在PC端上看的话体验并不是那么好。
-
-而我又准备去面试了，所以想把自己写过的东西刷一遍，复习一下~~
-
-我这次采用的是SegementFault，我觉得这个markdown渲染还是相对好看，也支持toc目录导航~~
-
-单纯看也觉得没啥意思，比较重要的知识点我就画画思维导图吧~~~
-
-
-可能想看的链接：
-
-- [微信公众号端的文章导航](https://zhongfucheng.bitcron.com/post/shou-ji/wen-zhang-dao-hang)
-- [视频网盘](https://zhongfucheng.bitcron.com/post/shou-ji/shi-pin-wang-pan)
-- [脑图大全](https://zhongfucheng.bitcron.com/post/shou-ji/nao-tu-da-quan)
-
-
-# 面试与工作总结 #
-
-- [广州三本找Java实习经历](https://segmentfault.com/a/1190000015349795)
-- [Java面试前需要了解的东西](https://segmentfault.com/a/1190000015373033)
-- [【Java】几道让你拿offer的面试题](https://segmentfault.com/a/1190000015854646)
-- [【Java】留下没有基础眼泪的面试题](https://segmentfault.com/a/1190000016014444)
-- [两个月的Java实习结束，继续努力](https://segmentfault.com/a/1190000016215193)
+| :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | 
+| :------:| :------: | :------: |
+| [八大基础排序](sort.md) | [数据结构基础](datastruct.md) | [基础算法](algorithm.md) |
 
 
 
-# 数据结构与算法 #
+## :page_facing_up:JavaWeb技术 ##
 
-## 八大基础排序 ##
-
-
-- [冒泡排序就这么简单](https://segmentfault.com/a/1190000013794446)
-- [选择排序就这么简单](https://segmentfault.com/a/1190000013814458)
-- [快速排序就这么简单](https://segmentfault.com/a/1190000013888583)
-- [插入排序就这么简单](https://segmentfault.com/a/1190000013897777)
-- [希尔排序就这么简单](https://segmentfault.com/a/1190000013967025)
-- [归并排序就这么简单](https://segmentfault.com/a/1190000013946967)
-- [基数排序就这么简单](https://segmentfault.com/a/1190000013986116)
-- [堆排序就这么简单](https://segmentfault.com/a/1190000013960582)
-- [八大基础排序总结](https://segmentfault.com/a/1190000014008568)
-
-## 数据结构基础 ##
+| :ledger:Servlet+Tomcat | :microscope:JSP | :ring:JDBC | :tshirt:XML和JSON |:ribbon:过滤器和监听器 |:rice:Web前端 |:ramen:AJAX |:hamburger:Web小项目 |
+| :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |
+| [Servlet+Tomcat](servlet.md) | [JSP](jsp.md) | [JDBC](jdbc.md) |[XML和JSON](xml&json.md) |[过滤器和监听器](filter&listener.md) |[Web前端](web.md) |[AJAX](ajax.md) |[Web小项目](javawebproject.md) |
 
 
-
-- [递归就这么简单](https://segmentfault.com/a/1190000013861208)
-- [Java实现单向链表基本功能](https://segmentfault.com/a/1190000014045776)
-- [二叉树就是这么简单](https://segmentfault.com/a/1190000013954269)
-- [【Java实现】栈和队列就是这么简单](https://segmentfault.com/a/1190000014069263)
-
-
-![](https://i.imgur.com/gkgKzh3.jpg)
-
-## 小算法题 ##
-
-- [十道简单算法题](https://segmentfault.com/a/1190000014082596)
-- [十道简单算法题【二】](https://segmentfault.com/a/1190000014231566)
-
-
-![](https://i.imgur.com/9FogtXx.jpg)
-
-
-
-# Servlet+Tomcat #
-
-
-- [Tomcat就是这么简单](https://segmentfault.com/a/1190000013122831)
-- [Servlet第一篇【介绍Servlet、HTTP协议、WEB目录结构、编写入门Servlet程序、Servlet生命周期】](https://segmentfault.com/a/1190000013124026)
-- [Servlet第二篇【Servlet调用图、Servlet细节、ServletConfig、ServletContext】](https://segmentfault.com/a/1190000013124143)
-- [Servlet第三篇【request和response简介、response的常见应用】](https://segmentfault.com/a/1190000013126031)
-- [Servlet第四篇【request对象常用方法、应用】](https://segmentfault.com/a/1190000013162330)
-- [Servlet第五篇【介绍会话技术、Cookie的API、详解、应用】](https://segmentfault.com/a/1190000013129480)
-- [Servlet第六篇【Session介绍、API、生命周期、应用、与Cookie区别】](https://segmentfault.com/a/1190000013130309)
-- [Tomcat+Servlet面试题都在这里](https://segmentfault.com/a/1190000013119518)
-
-Servlet：
-
-![](https://i.imgur.com/vD2n7fB.png)
-
-
-# JSP #
-
-
-- [JSP第一篇【JSP介绍、工作原理、生命周期、语法、指令、行为】](https://segmentfault.com/a/1190000013152739)
-- [JSP第二篇【内置对象的介绍、4种属性范围、应用场景】](https://segmentfault.com/a/1190000013153007)
-- [JSP第三篇【JavaBean的介绍、JSP的行为--JavaBean】](https://segmentfault.com/a/1190000013165165)
-- [JSP第四篇【EL表达式介绍、获取各类数据、11个内置对象、执行运算、回显数据、自定义函数、fn方法库】](https://segmentfault.com/a/1190000013167138)
-- [JSP第五篇【JSTL的介绍、core标签库、fn方法库、fmt标签库】](https://segmentfault.com/a/1190000013176141)
-- [JSP第六篇【自定义标签之传统标签】](https://segmentfault.com/a/1190000013177495)
-- [JSP自定义标签就是如此简单](https://segmentfault.com/a/1190000013180568)
-- [JSP面试题都在这里](https://segmentfault.com/a/1190000013185611)
-
-
-JSP:
-
-![](https://i.imgur.com/ZwAV4pE.png)
-
-# JDBC #
-
-- [JDBC【介绍JDBC、使用JDBC连接数据库、简单的工具类】](https://segmentfault.com/a/1190000013293202)
-- [JDBC【PreparedStatment、批处理、处理二进制、自动主键、调用存储过程、函数】](https://segmentfault.com/a/1190000013297610)
-- [JDBC【事务、元数据、改造JDBC工具类】](https://segmentfault.com/a/1190000013303310)
-- [JDBC【数据库连接池、DbUtils框架、分页】](https://segmentfault.com/a/1190000013308078)
-- [JDBC常见面试题](https://segmentfault.com/a/1190000013312766)
-
-
-![](https://i.imgur.com/tw9h8mW.png)
 
 # 数据库 #
 
@@ -143,7 +47,6 @@ JSP:
 ![](https://i.imgur.com/LUNCmYJ.png)
 
 
-
 # HTTP #
 
 - [HTTP就是这么简单](https://segmentfault.com/a/1190000013175647)
@@ -154,64 +57,6 @@ HTTP：
 
 ![](https://i.imgur.com/b4J22vD.jpg)
 
-
-
-# XML和JSON #
-
-- [XML就是这么简单](https://segmentfault.com/a/1190000013252686)
-- [JSON入门看这一篇就够了](https://segmentfault.com/a/1190000013279256)
-- [XML+JSON面试题都在这里](https://segmentfault.com/a/1190000013285207)
-
-
-# 过滤器与监听器 #
-
-- [过滤器入门看这一篇就够了](https://segmentfault.com/a/1190000013211245)
-- [过滤器应用【编码、敏感词、压缩、转义过滤器】](https://segmentfault.com/a/1190000013221240)
-- [监听器入门看这篇就够了](https://segmentfault.com/a/1190000013240470)
-- [监听器应用【统计网站人数、自定义session扫描器、踢人小案例】](https://segmentfault.com/a/1190000013252595)
-- [过滤器监听器面试题都在这里](https://segmentfault.com/a/1190000013263161)
-
-过滤器与监听器：
-
-![](https://i.imgur.com/pl6DZTN.png)
-
-# AJAX #
-
-- [AJAX入门这一篇就够了](https://segmentfault.com/a/1190000013286987)
-- [AJAX应用【股票案例、验证码校验】](https://segmentfault.com/a/1190000013289576)
-- [AJAX跨域完全讲解](https://segmentfault.com/a/1190000013473001)
-- [AJAX面试题都在这里](https://segmentfault.com/a/1190000013291898)
-
-
-![](https://i.imgur.com/XBy5hr7.jpg)
-
-# Web小项目 #
-
-- [Java文件上传细讲](https://segmentfault.com/a/1190000013200994)
-- [Web开发模式【Mode I 和Mode II的介绍、应用案例】](https://segmentfault.com/a/1190000013325456)
-- [用户登陆注册【JDBC版】](https://segmentfault.com/a/1190000013342925)
-- [购物车【JavaWeb小项目、简单版】](https://segmentfault.com/a/1190000013364931)
-- [【JavaWeb】客户关系管理系统](https://segmentfault.com/a/1190000013375250)
-- [【JavaWeb】权限管理系统](https://segmentfault.com/a/1190000013390920)
-- [图书管理系统【JavaWeb:部署开发环境、解决分类、图书、前台页面模块】](https://segmentfault.com/a/1190000013404022)
-- [图书管理系统【用户、购买、订单模块、添加权限】](https://segmentfault.com/a/1190000013423452)
-- [【JavaWeb】图书管理系统【总结】](https://segmentfault.com/a/1190000013450079)
-
-# Web前端 #
-
-
-- [JavaScript面向对象入门](https://segmentfault.com/a/1190000013460704)
-- [DOM【介绍、HTML中的DOM、XML中的DOM】](https://segmentfault.com/a/1190000013485565)
-- [Jquery就是这么简单](https://segmentfault.com/a/1190000013495067)
-- [浅谈CDN、SEO、XSS、CSRF](https://segmentfault.com/a/1190000013505397)
-- [常用的CSS框架](https://segmentfault.com/a/1190000013507931)
-- [JsChart组件使用](https://segmentfault.com/a/1190000013508050)
-- [WebSocket就是这么简单](https://segmentfault.com/a/1190000013353808)
-
-
-![](https://i.imgur.com/6Lqdj2C.png)
-
-![](https://i.imgur.com/2GXuAhg.png)
 
 
 
@@ -370,3 +215,31 @@ Hibernate：
 加入qq群一起交流技术
 
 ![](https://i.imgur.com/uCYTsFK.png)
+
+
+
+[面试工作与总结](interview.md)
+
+之前已经做过了一个关于微信公众号文章的导航了，但由于微信公众号的代码也好、格式也好，如果是在PC端上看的话体验并不是那么好。
+
+而我又准备去面试了，所以想把自己写过的东西刷一遍，复习一下~~
+
+我这次采用的是SegementFault，我觉得这个markdown渲染还是相对好看，也支持toc目录导航~~
+
+单纯看也觉得没啥意思，比较重要的知识点我就画画思维导图吧~~~
+
+
+可能想看的链接：
+
+- [微信公众号端的文章导航](https://zhongfucheng.bitcron.com/post/shou-ji/wen-zhang-dao-hang)
+- [视频网盘](https://zhongfucheng.bitcron.com/post/shou-ji/shi-pin-wang-pan)
+- [脑图大全](https://zhongfucheng.bitcron.com/post/shou-ji/nao-tu-da-quan)
+
+
+# 面试与工作总结 #
+
+- [广州三本找Java实习经历](https://segmentfault.com/a/1190000015349795)
+- [Java面试前需要了解的东西](https://segmentfault.com/a/1190000015373033)
+- [【Java】几道让你拿offer的面试题](https://segmentfault.com/a/1190000015854646)
+- [【Java】留下没有基础眼泪的面试题](https://segmentfault.com/a/1190000016014444)
+- [两个月的Java实习结束，继续努力](https://segmentfault.com/a/1190000016215193)
