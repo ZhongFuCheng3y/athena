@@ -7,11 +7,11 @@
 | [精美Java知识点脑图](mindmap.md) | [海量视频资源](resource.md)  | 
 
 
-## :envelope:找工作经历 ##
+## :envelope:工作经历 ##
 
-| :file_folder:找工作经历|
+| :file_folder:工作经历|
 | :------:| 
-| [work](work.md) | 
+| [找实习/实习/秋招经历](work.md) | 
 
 
 ## :coffee:Java基础 ##
