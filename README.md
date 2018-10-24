@@ -1,5 +1,9 @@
 # 说明 #
 
+> 到目前为止，已经写了将近170篇文章了。以下的文章均为原创，记录了我学习编程的点点滴滴，希望可以帮助到大家，共同进步
+
+
+
 可能感兴趣的资源：
 
 | :art: 精美Java知识点脑图 | :computer:海量视频资源 | 
@@ -9,12 +13,16 @@
 
 ## :envelope:工作经历 ##
 
+> 广州三本找实习/秋招的经历
+
 | :file_folder:工作经历|
 | :------:| 
 | [找实习/实习/秋招经历](src/work.md) | 
 
 
 ## :coffee:Java基础 ##
+
+> Java基础文章：没写系列文章的都放在了《JVM/NIO等等》链接中。Java面试题则是一些零散但常见的面试题
 
 | :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO等等 | :guitar:设计模式 |:dollar:Java面试题 |
 | :------:| :------: | :------: |:------: |:------: |
@@ -24,6 +32,8 @@
 
 
 ## :tophat:数据结构与算法 ##
+
+> 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
 
 | :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | 
 | :------:| :------: | :------: |
@@ -42,6 +52,8 @@
 ## :pencil:数据库 ##
 
 
+> 关系型数据库文章以MySQL为主
+
 | :fish_cake:关系型数据库(MySQL/Oracle) | :lollipop:Redis | 
 | :------:| :------: | 
 | [关系型数据库(MySQL/Oracle)](src/database.md) | [敬请期待]() | 
@@ -50,7 +62,7 @@
 
 ## :seat:HTTP ##
 
-> HTTP作为Web的传输协议，我单独将其抽取出来做一个模块！
+> HTTP系列
 
 
 | :clipboard:HTTP|
@@ -60,6 +72,8 @@
 
 
 ## :mega:JavaEE框架 ##
+
+> 常用的框架包括SpringBoot、SpringDataJPA、SpringCloud、Shiro、Activiti等等。下面的列出项目源码都可以在我的GitHub仓库里找到
 
 | :jack_o_lantern:Hibernate | :gift_heart:Struts2 | :bamboo:Mybatis | :tv:Spring&SpringMVC |:vhs:SSH和SSM项目 |:ghost:常用JavaEE框架 |:minidisc:个人项目 |
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |
@@ -84,7 +98,8 @@
 
 
 
-# 欢迎来一波 #
+# 如果觉得还不错： #
+
 
 关注公众号：Java3y推送最新的**原创**技术文章
 
