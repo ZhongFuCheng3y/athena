@@ -27,7 +27,7 @@
 - 面试：[https://github.com/crossoverJie/Java-Interview](https://github.com/crossoverJie/Java-Interview)
 - 2018校园招聘笔经面经合集：后端开发-Java方向:[https://zhuanlan.zhihu.com/p/40961352?utm_medium=social&utm_source=wechat_session?utm_medium=social&utm_source=wechat_session](https://zhuanlan.zhihu.com/p/40961352?utm_medium=social&utm_source=wechat_session?utm_medium=social&utm_source=wechat_session)
 - javadoop博客：[https://javadoop.com/](https://javadoop.com/)
-
+- 2019考研计算机操作系统（可配王道天勤 ，适合基础薄弱er）[https://www.bilibili.com/video/av18273642/?p=19](https://www.bilibili.com/video/av18273642/?p=19)
 
 
 # 直接引用的博文 #

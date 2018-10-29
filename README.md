@@ -59,7 +59,7 @@
 
 | :fish_cake:关系型数据库(MySQL/Oracle) | :lollipop:Redis | 
 | :------:| :------: | 
-| [关系型数据库(MySQL/Oracle)](src/database.md) | [敬请期待]() | 
+| [关系型数据库(MySQL/Oracle)](src/database.md) | [Redis从零单排](src/redis.md) | 
 
 
 
