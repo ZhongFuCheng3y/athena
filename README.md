@@ -4,7 +4,7 @@
 
 
 
-在双十一之前，如果想要优惠买Linux服务器的话，可通过我的链接：https://link.juejin.im/?target=https%3A%2F%2Fm.aliyun.com%2Fact%2Fteam1111%2F%23%2Fshare%3Fparams%3DN.FF7yxCciiM.pfn5xpli
+**在双十一之前，如果想要优惠买Linux服务器的话，可通过我的链接**：https://link.juejin.im/?target=https%3A%2F%2Fm.aliyun.com%2Fact%2Fteam1111%2F%23%2Fshare%3Fparams%3DN.FF7yxCciiM.pfn5xpli
 
 给博主加个鸡腿~
 
