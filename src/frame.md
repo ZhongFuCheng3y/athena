@@ -3,6 +3,7 @@
 - [WebService就是这么简单](https://segmentfault.com/a/1190000013806509)
 - [Lucene就是这么简单](https://segmentfault.com/a/1190000013822385)
 	- 比较好的资料：[Lucene学习笔记](http://wangnan.tech/post/lucene-study-note/)
+- [WebSocket就是这么简单](https://segmentfault.com/a/1190000013353808)	
 - [Activiti就是这么简单](https://segmentfault.com/a/1190000013839729)
 - [SpringBoot就是这么简单](https://segmentfault.com/a/1190000013849884)
 - [SpringDataJPA入门就这么简单](https://segmentfault.com/a/1190000013869585)
