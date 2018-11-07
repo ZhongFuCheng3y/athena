@@ -1,12 +1,23 @@
+
+
+# :sparkling_heart:福利 #
+
+
+现在临近双十一买阿里云服务器就特别省钱！之前我买**学生机也要9.8**块钱一个月，现在最低价只需要**8.3**一个月！
+
+
+**如果想要优惠买Linux服务器的话，可通过我的链接**：https://link.juejin.im/?target=https%3A%2F%2Fm.aliyun.com%2Fact%2Fteam1111%2F%23%2Fshare%3Fparams%3DN.FF7yxCciiM.pfn5xpli
+
+
+
+
 # :sparkling_heart:说明 #
 
 > 这里作为我的文章导航页面，发布博文时会同步更新~文章均为**原创**，记录了我学习编程的点点滴滴，希望可以帮助到大家，共同进步!
 
 
 
-**在双十一之前，如果想要优惠买Linux服务器的话，可通过我的链接**：https://link.juejin.im/?target=https%3A%2F%2Fm.aliyun.com%2Fact%2Fteam1111%2F%23%2Fshare%3Fparams%3DN.FF7yxCciiM.pfn5xpli
 
-给博主加个鸡腿~
 
 
 
