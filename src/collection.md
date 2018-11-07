@@ -9,7 +9,7 @@
 - [ConcurrentHashMap基于JDK1.8源码剖析](https://segmentfault.com/a/1190000014380257)
 - [3分钟搞掂Set集合](https://segmentfault.com/a/1190000014391402)
 - [Java集合总结【面试题+脑图】，将知识点一网打尽！](https://segmentfault.com/a/1190000014403696)
-
+- [CopyOnWriteArrayList你都不知道，怎么拿offer？](https://segmentfault.com/a/1190000016931825)
 
 Java集合：
 
