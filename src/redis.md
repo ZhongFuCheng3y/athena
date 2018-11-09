@@ -2,7 +2,7 @@
 
 - [从零单排学Redis【青铜】](https://segmentfault.com/a/1190000016837791)
 - [从零单排学Redis【白银】](https://segmentfault.com/a/1190000016951866)
-
+- [从零单排学Redis【黄金】](https://segmentfault.com/a/1190000016964511)
 # 如果觉得还不错： #
 
 
