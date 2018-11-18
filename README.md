@@ -1,24 +1,6 @@
-
-
-# :sparkling_heart:福利 #
-
-
-现在临近双十一买阿里云服务器就特别省钱！之前我买**学生机也要9.8**块钱一个月，现在最低价只需要**8.3**一个月！
-
-
-**如果想要优惠买Linux服务器的话，可通过我的链接直接享受最低价**：https://link.juejin.im/?target=https%3A%2F%2Fm.aliyun.com%2Fact%2Fteam1111%2F%23%2Fshare%3Fparams%3DN.FF7yxCciiM.pfn5xpli
-
-
-
-
 # :sparkling_heart:说明 #
 
 > 这里作为我的文章导航页面，发布博文时会同步更新~文章均为**原创**，记录了我学习编程的点点滴滴，希望可以帮助到大家，共同进步!
-
-
-
-
-
 
 
 
@@ -115,15 +97,30 @@
 | [工具使用](src/tool.md) |
 
 
-
 # 如果觉得还不错： #
 
-
-关注公众号：Java3y推送最新的**原创**技术文章
+关注公众号：Java3y推送最新的**原创**技术文章，进入公众号回复“1”加入**Java交流群**！
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
 
-加入qq群一起交流技术
 
-![](https://i.imgur.com/uCYTsFK.png)
+# :sparkling_heart:给博主加鸡腿 #
 
+**坚持原创不易**
+
+
+如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵)
+
+- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
+
+
+支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
+
+
+![](https://user-gold-cdn.xitu.io/2018/11/18/167260a56c4fd917?w=2165&h=3000&f=png&s=3846620)
+
+
+如果你还没注册过苏宁易购的话(新人)，可以领取满30-30的卷(可以买些零食啥的)
+
+
+![](https://user-gold-cdn.xitu.io/2018/11/18/167260c979e2ea85?w=750&h=1204&f=jpeg&s=120180)

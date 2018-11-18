@@ -7,6 +7,8 @@
 - [JDK10都发布了，nio你了解多少？](https://segmentfault.com/a/1190000014850886)
 - [学习JVM是如何从入门到放弃的？](https://segmentfault.com/a/1190000015605327)
 - [COW奶牛！Copy On Write机制了解一下](https://segmentfault.com/a/1190000016865958)
+- [《阿里巴巴 Java开发手册》读后感](https://segmentfault.com/a/1190000017039261)
+
 
 泛型：
 
