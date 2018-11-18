@@ -113,6 +113,11 @@
 
 - https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
 
+如果要买腾讯云服务的，不妨通过这个链接去购买(可以领劵)
+
+- https://cloud.tencent.com/redirect.php?redirect=10172&cps_key=f8ac0c8972d74a56fa7f5403d24188b2&from=activity
+
+
 
 支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
 
