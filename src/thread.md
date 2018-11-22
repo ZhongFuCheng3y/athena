@@ -10,6 +10,7 @@
 - [多线程之死锁就是这么简单](https://segmentfault.com/a/1190000014747667)
 - [ThreadLocal就是这么简单](https://segmentfault.com/a/1190000014152795)
 - [Java多线程打辅助的三个小伙子](https://segmentfault.com/a/1190000015785789)
+- [还在用Synchronized？Atomic你了解不？](https://segmentfault.com/a/1190000017102460)
 
 多线程：
 
