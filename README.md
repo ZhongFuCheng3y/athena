@@ -6,18 +6,18 @@
 
 除了文章导航，还可能感兴趣的资源：
 
-| :art: 精美Java知识点脑图 | :computer:海量视频资源 | 
-| :------:| :------: | 
-| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md)  | 
+| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :computer:海量视频资源 | 
+| :------:| :------: | :------: | 
+| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | 
 
 
-## :envelope:工作经历 ##
+## :envelope:成长历程 ##
 
-> 找实习/秋招的经历
+> 找实习/秋招的经历/成长历程
 
-| :file_folder:工作经历|
+| :file_folder:成长历程|
 | :------:| 
-| [找实习/实习/秋招经历](src/work.md) | 
+| [成长历程](src/work.md) | 
 
 
 ## :coffee:Java基础 ##
