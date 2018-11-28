@@ -3,6 +3,7 @@
 - [从零单排学Redis【青铜】](https://segmentfault.com/a/1190000016837791)
 - [从零单排学Redis【白银】](https://segmentfault.com/a/1190000016951866)
 - [从零单排学Redis【黄金】](https://segmentfault.com/a/1190000016964511)
+- [从零单排学Redis【铂金一】](https://segmentfault.com/a/1190000017170690)
 # 如果觉得还不错： #
 
 关注公众号：Java3y推送最新的**原创**技术文章，进入公众号回复“1”加入**Java交流群**！
