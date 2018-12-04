@@ -107,17 +107,9 @@
 # :sparkling_heart:坚持原创不易，给博主加鸡腿 #
 
 
-如果要买腾讯云服务的(**现在活动优惠挺大的**)
-
-- 热门云产品1折起，送13000元续费/升级大礼包
-    - https://cloud.tencent.com/redirect.php?redirect=1034&cps_key=f8ac0c8972d74a56fa7f5403d24188b2&from=console
-- 新客户无门槛领取总价值高达2775元代金券，每种代金券限量500张，先到先得。
-    - https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=f8ac0c8972d74a56fa7f5403d24188b2&from=console
-
-如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵)
+如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，有优惠！)
 
 - https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
-
 
 
 

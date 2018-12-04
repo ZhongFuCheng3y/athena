@@ -340,3 +340,19 @@ JDBC这项技术并不难呀，就是模板代码，来来去去就几个步骤�
 3y所有的原创文章：
 
 - **文章的目录导航(脑图+海量视频资源)**：[https://github.com/ZhongFuCheng3y/3y](https://github.com/ZhongFuCheng3y/3y)
+
+# :sparkling_heart:坚持原创不易，给博主加鸡腿 #
+
+
+如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，有优惠！)
+
+- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
+
+
+
+支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
+
+
+![](https://user-gold-cdn.xitu.io/2018/11/18/16726109849ec9ec?w=567&h=852&f=jpeg&s=76745)
+
+
