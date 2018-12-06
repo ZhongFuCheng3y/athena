@@ -7,6 +7,9 @@
 - [Oracle总结【PLSQL学习】](https://segmentfault.com/a/1190000013560860)
 - [数据库面试题(开发者必看)](https://segmentfault.com/a/1190000013517914)
 - [数据库两个神器【索引和锁】](https://segmentfault.com/a/1190000015738121)
+- [面试前必须知道的MySQL命令【explain】](https://segmentfault.com/a/1190000017278335)
+
+
 
 ![](https://i.imgur.com/VIvCniZ.png)
 
