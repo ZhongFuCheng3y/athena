@@ -107,9 +107,9 @@
 # :sparkling_heart:坚持原创不易，给博主加鸡腿 #
 
 
-如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，有优惠！)
+**阿里云双十二活动有优惠**！有兴趣的可以去看看！
 
-- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
+- https://m.aliyun.com/act/team1212/?params=N.BmZd43Oo2Y
 
 
 
