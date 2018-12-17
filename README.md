@@ -22,11 +22,11 @@
 
 ## :coffee:Java基础 ##
 
-> Java基础文章：没写系列文章的都放在了《JVM/NIO等等》链接中。Java面试题则是一些零散但常见的面试题
+> Java基础文章：没写系列文章的都放在了《Java基础》链接中。Java面试题则是一些零散但常见的面试题
 
 | :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO等等 | :guitar:设计模式 |:dollar:Java面试题 |
 | :------:| :------: | :------: |:------: |:------: |
-| [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [JVM/NIO等等](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
+| [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 
 
 
@@ -97,9 +97,10 @@
 | [工具使用](src/tool.md) |
 
 
+
 # 如果觉得还不错： #
 
-关注公众号：Java3y推送最新的**原创**技术文章，进入公众号回复“1”加入**Java交流群**！
+关注公众号：Java3y推送最新的**干货**技术文章，进入公众号回复“1”加入**Java交流群**！
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
 
