@@ -24,7 +24,7 @@
 
 > Java基础文章：没写系列文章的都放在了《Java基础》链接中。Java面试题则是一些零散但常见的面试题
 
-| :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO等等 | :guitar:设计模式 |:dollar:Java面试题 |
+| :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO/...等等 | :guitar:设计模式 |:dollar:Java面试题 |
 | :------:| :------: | :------: |:------: |:------: |
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 
@@ -35,9 +35,9 @@
 
 > 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
 
-| :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | 
+| :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | :bow:机器学习 | 
 | :------:| :------: | :------: |
-| [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) |
+| [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) |  [机器学习](src/machinelearning.md) |
 
 
 
