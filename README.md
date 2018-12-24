@@ -36,7 +36,7 @@
 > 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
 
 | :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | :bow:机器学习 | 
-| :------:| :------: | :------: |
+| :------:| :------: | :------: | :------: |
 | [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) |  [机器学习](src/machinelearning.md) |
 
 
