@@ -4,6 +4,8 @@
 - [包装模式就是这么简单啦](https://segmentfault.com/a/1190000014771830)
 - [单例模式你会几种写法？](https://segmentfault.com/a/1190000014888431)
 - [工厂模式理解了没有？](https://segmentfault.com/a/1190000014949595)
+- [策略模式原来这么简单！](https://segmentfault.com/a/1190000017549609)
+
 
 未完待续....
 
