@@ -110,7 +110,7 @@
 
 **阿里云双十二活动有优惠**！有兴趣的可以去看看！
 
-- https://m.aliyun.com/act/team1212/?params=N.BmZd43Oo2Y
+- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
 
 
 
