@@ -1,94 +1,91 @@
 # 前言 #
 
+> 只有光头才能变强。
+
+> 文本已收录至我的GitHub仓库，欢迎Star：[https://github.com/ZhongFuCheng3y/3y](https://github.com/ZhongFuCheng3y/3y)
+
+
+
+
 在学习的过程中画了几份脑图，都是我认认真真画的，现在放出来给大家参考一下。脑图很有利于我们整理知识点，一张图就可以把知识点全部概括了，有兴趣的同学也可以去画画。觉得是挺好的~
 
 我使用的是ProcessOn来画的，可以到这里注册：[https://www.processon.com/i/5815483ce4b0baccb2d1f8c6](https://www.processon.com/i/5815483ce4b0baccb2d1f8c6)
 
-**想要获取最新原创的技术文章欢迎关注我的公众号：Java3y**
+> 之前已经画过不少了，但一直没更新和补充。今天周六闲着，于是就**更新了一波**(Java集合增添COW，Java多线程增添Atomic，设计模式增添...)
 
-为了大家方便，刚新建了一下qq群：742919422，大家可以去交流交流。
+
+(文末提供网盘下载思维导图地址，提供两种格式`.png`和`.xmind`)
+
+
 
 
 # Java基础 #
 
 **Java集合:**
 
-![](https://i.imgur.com/kA5gAiw.png)
+![Java集合](https://user-gold-cdn.xitu.io/2019/1/19/168642529daec2cd?w=4224&h=1716&f=png&s=741080)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951556becdef?w=3899&h=1490&f=png&s=671787](https://user-gold-cdn.xitu.io/2018/4/15/162c951556becdef?w=3899&h=1490&f=png&s=671787)
-- 在线预览地址：[https://www.processon.com/view/link/5ad34097e4b0b74a6dd86243](https://www.processon.com/view/link/5ad34097e4b0b74a6dd86243)
+
 
 **JDBC：**
 
-![](https://i.imgur.com/xMY5hRK.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642529dcd8b07?w=3693&h=1469&f=png&s=811473)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951551009052?w=3693&h=1469&f=png&s=811494](https://user-gold-cdn.xitu.io/2018/4/15/162c951551009052?w=3693&h=1469&f=png&s=811494)
-- 在线预览地址：[https://www.processon.com/view/link/5ad404c7e4b0b74a6dd954bb](https://www.processon.com/view/link/5ad404c7e4b0b74a6dd954bb)
+
 
 **多线程：**
 
 
-![](https://i.imgur.com/8y4TnPw.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642529d777584?w=3248&h=3184&f=jpeg&s=833544)
 
-- 原图：[http://on-img.com/chart_image/5b0950c8e4b0b0a47abea770.png?_=1532566352094](http://on-img.com/chart_image/5b0950c8e4b0b0a47abea770.png?_=1532566352094)
-- 在线预览地址：[https://www.processon.com/view/link/5b591b60e4b0f8477d9465b7](https://www.processon.com/view/link/5b591b60e4b0f8477d9465b7)
+
 
 **泛型：**
 
-![](https://i.imgur.com/E3JilMy.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642529b67bbbb?w=4622&h=1203&f=png&s=644841)
 
-- 原图：[http://on-img.com/chart_image/5b0a9ec4e4b01b348fbf4da8.png?_=1527917418061](http://on-img.com/chart_image/5b0a9ec4e4b01b348fbf4da8.png?_=1527917418061)
-- 在线预览地址：[https://www.processon.com/view/link/5b122b52e4b03f9d2509bbd6](https://www.processon.com/view/link/5b122b52e4b03f9d2509bbd6)
+
 
 
 **注解：**
 
-![](https://i.imgur.com/FrvrE4L.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642529dbe0df5?w=5114&h=1469&f=png&s=801562)
 
-- 原图：[http://on-img.com/chart_image/5b0aa8afe4b07febcd1b6b50.png?_=1527917678759](http://on-img.com/chart_image/5b0aa8afe4b07febcd1b6b50.png?_=1527917678759)
-- 在线预览地址：[https://www.processon.com/view/link/5b122b91e4b03f9d2509bc0b](https://www.processon.com/view/link/5b122b91e4b03f9d2509bc0b)
+
 
 **Object：**
 
-![](https://i.imgur.com/1LIn9zA.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642529debdfdb?w=5563&h=2061&f=jpeg&s=687055)
 
-- 原图：[http://on-img.com/chart_image/5b0ab66de4b01b348fbf84e6.png?_=1527917502971](http://on-img.com/chart_image/5b0ab66de4b01b348fbf84e6.png?_=1527917502971)
-- 在线预览地址：[https://www.processon.com/view/link/5b122bc4e4b07596cf3987ff](https://www.processon.com/view/link/5b122bc4e4b07596cf3987ff)
+
 
 **nio:**
 
-![](https://i.imgur.com/gZ5D12K.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642586267aa4e?w=4747&h=2644&f=jpeg&s=734137)
 
-- 原图：[http://on-img.com/chart_image/5b0b6359e4b0b0a47ac122f4.png?_=1527917708689](http://on-img.com/chart_image/5b0b6359e4b0b0a47ac122f4.png?_=1527917708689)
-- 在线预览地址：[https://www.processon.com/view/link/5b122c94e4b00490ac82755a](https://www.processon.com/view/link/5b122c94e4b00490ac82755a)
+
 
 
 **设计模式(未完)：**
 
-![](https://i.imgur.com/cWnmGYD.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864258628808ab?w=4682&h=3438&f=jpeg&s=1014821)
 
-- 原图：[http://on-img.com/chart_image/5b11f080e4b00490ac8231e6.png?_=1527917804100](http://on-img.com/chart_image/5b11f080e4b00490ac8231e6.png?_=1527917804100)
-- 在线预览地址：[https://www.processon.com/view/link/5b122ceee4b00490ac8275c5](https://www.processon.com/view/link/5b122ceee4b00490ac8275c5)
 
 
 # 数据结构与算法 #
 
 **排序+数据结构：**
 
-![](https://i.imgur.com/gkgKzh3.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425469036fb7?w=4285&h=3547&f=jpeg&s=973982)
 
 
-- 原图：[http://on-img.com/chart_image/5b0f8b3ae4b001a14d227a84.png?_=1527917941723](http://on-img.com/chart_image/5b0f8b3ae4b001a14d227a84.png?_=1527917941723)
-- 在线预览地址：[https://www.processon.com/view/link/5b122d7de4b00490ac82766b](https://www.processon.com/view/link/5b122d7de4b00490ac82766b)
+
 
 
 **小算法(未完)：**
 
-![](https://i.imgur.com/9FogtXx.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642542a5075ef?w=6111&h=2110&f=jpeg&s=904253)
 
-
-- 原图：[http://on-img.com/chart_image/5b10a3dee4b00490ac805479.png?_=1527917967038](http://on-img.com/chart_image/5b10a3dee4b00490ac805479.png?_=1527917967038)
-- 在线预览地址：[https://www.processon.com/view/link/5b122d97e4b03f9d2509be42](https://www.processon.com/view/link/5b122d97e4b03f9d2509be42)
 
 
 
@@ -96,61 +93,40 @@
 
 **HTTP：**
 
-![](https://i.imgur.com/b4J22vD.jpg)
-
-- 原图：[http://on-img.com/chart_image/5b0cf162e4b055e64b0f4ead.png?_=1527918156964](http://on-img.com/chart_image/5b0cf162e4b055e64b0f4ead.png?_=1527918156964)
-- 在线预览地址：[https://www.processon.com/view/link/5b122e55e4b0a838a07baf96](https://www.processon.com/view/link/5b122e55e4b0a838a07baf96)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642546d93f4c8?w=4604&h=2879&f=jpeg&s=878332)
 
 **Servlet：**
 
-![](https://i.imgur.com/ulB44j0.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642542d17ece1?w=4593&h=2024&f=png&s=833941)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951556d2f051?w=4593&h=2024&f=png&s=833962](https://user-gold-cdn.xitu.io/2018/4/15/162c951556d2f051?w=4593&h=2024&f=png&s=833962)
-- 在线预览地址：[https://www.processon.com/view/link/5ad404f6e4b02dfcf9a62063](https://www.processon.com/view/link/5ad404f6e4b02dfcf9a62063)
 
 **JSP：**
 
-![](https://i.imgur.com/f632Rm3.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642546e0c4bff?w=5160&h=2819&f=png&s=1044096)
 
-
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951556e22c7d?w=5160&h=2819&f=png&s=1049944](https://user-gold-cdn.xitu.io/2018/4/15/162c951556e22c7d?w=5160&h=2819&f=png&s=1049944)
-- 在线预览地址：[https://www.processon.com/view/link/5ad40507e4b0b74a6dd95605](https://www.processon.com/view/link/5ad40507e4b0b74a6dd95605)
 
 **监听器和过滤器：**
 
-![](https://i.imgur.com/WtpKKGW.png)
-
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c95137114cc6b?w=4093&h=1988&f=png&s=1036712](https://user-gold-cdn.xitu.io/2018/4/15/162c95137114cc6b?w=4093&h=1988&f=png&s=1036712)
-- 在线预览地址：[https://www.processon.com/view/link/5ad40516e4b0b74a6dd9564c](https://www.processon.com/view/link/5ad40516e4b0b74a6dd9564c)
-
-
-
-
-
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864254a4f8a335?w=4093&h=1988&f=png&s=1037201)
 
 
 # Jquery和AJAX #
 
 **Juqery（1）：**
 
-![](https://i.imgur.com/icFdIGR.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425557d8d425?w=3225&h=2053&f=png&s=633639)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951370a06634?w=3225&h=2053&f=png&s=637488](https://user-gold-cdn.xitu.io/2018/4/15/162c951370a06634?w=3225&h=2053&f=png&s=637488)
-- 在线预览地址：[https://www.processon.com/view/link/5ad40524e4b0f5fa24d8cc70](https://www.processon.com/view/link/5ad40524e4b0f5fa24d8cc70)
 
 **Juqery（2）：**
 
-![](https://i.imgur.com/iuFANo0.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425586ffedc4?w=3406&h=2189&f=png&s=694497)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951370beef4d?w=3406&h=2189&f=png&s=687085](https://user-gold-cdn.xitu.io/2018/4/15/162c951370beef4d?w=3406&h=2189&f=png&s=687085)
-- 在线预览地址：[https://www.processon.com/view/link/5ad40535e4b0b74a6dd956ce](https://www.processon.com/view/link/5ad40535e4b0b74a6dd956ce)
+
 
 **AJAX：**
 
-![](https://i.imgur.com/XBy5hr7.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864255972bc2eb?w=5513&h=2018&f=jpeg&s=742970)
 
-- 原图：[http://on-img.com/chart_image/5b0e0bdde4b02dd420710191.png?_=1527918361428](http://on-img.com/chart_image/5b0e0bdde4b02dd420710191.png?_=1527918361428)
-- 在线预览地址：[https://www.processon.com/view/link/5b122f20e4b02e4b26f07729](https://www.processon.com/view/link/5b122f20e4b02e4b26f07729)
 
 
 # 框架相关 #
@@ -158,35 +134,25 @@
 **Hibernate：**
 
 
-![](https://i.imgur.com/XYGMOfi.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864255b5d453a9?w=4491&h=3880&f=jpeg&s=905731)
 
-- 原图：[http://on-img.com/chart_image/5b0b754ce4b0df73a7f06763.png?_=1527918486535](http://on-img.com/chart_image/5b0b754ce4b0df73a7f06763.png?_=1527918486535)
-- 在线预览地址：[https://www.processon.com/view/link/5b122f8be4b03f9d2509c0a0](https://www.processon.com/view/link/5b122f8be4b03f9d2509c0a0)
 
 **Mybatis：**
 
-![](https://i.imgur.com/bqe92eF.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864255e11b466a?w=5545&h=2613&f=jpeg&s=854746)
 
-- 原图：[http://on-img.com/chart_image/5b0bdad2e4b0fccf723d148b.png?_=1527918531819](http://on-img.com/chart_image/5b0bdad2e4b0fccf723d148b.png?_=1527918531819)
-- 在线预览地址：[https://www.processon.com/view/link/5b122fcce4b001a14d266bd5](https://www.processon.com/view/link/5b122fcce4b001a14d266bd5)
+
 
 
 **SpringIOC和AOP：**
 
-![](https://i.imgur.com/Mp40CYf.jpg)
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425611988122?w=5114&h=3465&f=jpeg&s=925304)
 
-
-- 原图：[http://on-img.com/chart_image/5b0407cfe4b0da6de337308c.png?_=1527918584069](http://on-img.com/chart_image/5b0407cfe4b0da6de337308c.png?_=1527918584069)
-- 在线预览地址：[https://www.processon.com/view/link/5b123000e4b03f9d2509c128](https://www.processon.com/view/link/5b123000e4b03f9d2509c128)
 
 
 **常用框架(未完)：**
 
-![](https://i.imgur.com/fQWHX1l.jpg)
-
-
-- 原图：[http://on-img.com/chart_image/5b0e47cfe4b07596cf32e24f.png?_=1527918760043](http://on-img.com/chart_image/5b0e47cfe4b07596cf32e24f.png?_=1527918760043)
-- 在线预览地址：[https://www.processon.com/view/link/5b1230ace4b00490ac827a53](https://www.processon.com/view/link/5b1230ace4b00490ac827a53)
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864256192e5481?w=3894&h=2867&f=jpeg&s=945441)
 
 
 
@@ -194,68 +160,66 @@
 
 **纳税服务系统：**
 
-![](https://i.imgur.com/DWcsc9R.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642561b51e128?w=3374&h=1253&f=png&s=394549)
 
-- 原图：[http://on-img.com/chart_image/5b0e1709e4b0e5f3aa6ddd64.png?_=1527918665956](http://on-img.com/chart_image/5b0e1709e4b0e5f3aa6ddd64.png?_=1527918665956)
-- 在线预览地址：[https://www.processon.com/view/link/5b123053e4b001a14d266c90](https://www.processon.com/view/link/5b123053e4b001a14d266c90)
 
 **SSM移动商城项目：**
 
-![](https://i.imgur.com/56nxdCL.png)
-
-- 原图：[http://on-img.com/chart_image/5b0f5ddae4b001a14d21e821.png?_=1527918710851](http://on-img.com/chart_image/5b0f5ddae4b001a14d21e821.png?_=1527918710851)
-- 在线预览地址：[https://www.processon.com/view/link/5b12307fe4b00490ac827a29](https://www.processon.com/view/link/5b12307fe4b00490ac827a29)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642562ba4e2c5?w=4038&h=1514&f=png&s=662633)
 
 
 **910便利网和无忧日志网：**
 
-![](https://i.imgur.com/PtWjHTo.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642563c3a2a01?w=3535&h=1499&f=png&s=498142)
 
-- 原图：[http://on-img.com/chart_image/5b120238e4b02e4b26f044d3.png?_=1527918821302](http://on-img.com/chart_image/5b120238e4b02e4b26f044d3.png?_=1527918821302)
-- 在线预览地址：[https://www.processon.com/view/link/5b1230e8e4b001a14d266d8d](https://www.processon.com/view/link/5b1230e8e4b001a14d266d8d)
+
 
 # 数据库相关 #
 
-![](https://i.imgur.com/C4hLe7O.png)
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951550cec943?w=3395&h=2100&f=png&s=478656](https://user-gold-cdn.xitu.io/2018/4/15/162c951550cec943?w=3395&h=2100&f=png&s=478656)
-- 在线预览地址：[https://www.processon.com/view/link/5ad4048de4b04721d61b7a0f](https://www.processon.com/view/link/5ad4048de4b04721d61b7a0f)
+**MySQL命令：**
+
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425648a06167?w=3395&h=2100&f=png&s=478975)
 
 
-![](https://i.imgur.com/eN5cQ3Y.png)
+**SQL知识点：**
 
-- 原图：[https://user-gold-cdn.xitu.io/2018/4/15/162c951550f5b9e5?w=3034&h=1825&f=png&s=541559](https://user-gold-cdn.xitu.io/2018/4/15/162c951550f5b9e5?w=3034&h=1825&f=png&s=541559)
-- 在线预览地址：[https://www.processon.com/view/link/5ad404abe4b0b74a6dd9542b](https://www.processon.com/view/link/5ad404abe4b0b74a6dd9542b)
+![](https://user-gold-cdn.xitu.io/2019/1/19/1686425685314e2c?w=3034&h=1825&f=png&s=543184)
+
+
 
 # Linux #
 
 **Linux常用命令：**
 
-![](https://i.imgur.com/cK7zJWl.png)
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642566103584f?w=3315&h=2924&f=png&s=987850)
 
-- 原图：[https://www.processon.com/view/link/5b1231e2e4b00490ac827c13](https://www.processon.com/view/link/5b1231e2e4b00490ac827c13)
-- 在线预览地址：[http://on-img.com/chart_image/5af800a6e4b0ee8894b154c2.png?_=1529582078909](http://on-img.com/chart_image/5af800a6e4b0ee8894b154c2.png?_=1529582078909)
+# Docker #
 
+> **此脑图非我个人所作，来源于网络**
 
-# 如果觉得还不错： #
-
-关注公众号：Java3y推送最新的**原创**技术文章，进入公众号回复“1”加入**Java交流群**！
-
-![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
-
-
-# :sparkling_heart:坚持原创不易，给博主加鸡腿 #
-
-
-如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，有优惠！)
-
-- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
+![](https://user-gold-cdn.xitu.io/2019/1/19/16864256862c0134?w=1880&h=10000&f=jpeg&s=1035190)
 
 
 
-支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
+
+# 最后 #
+
+网盘下载地址：
+
+- https://pan.baidu.com/s/1a_FDzsSzUKrGnkbu5thaUw 
+- 提取码：3b58 
 
 
-![](https://user-gold-cdn.xitu.io/2018/11/18/16726109849ec9ec?w=567&h=852&f=jpeg&s=76745)
+
+> 乐于输出**干货**的Java技术公众号：Java3y。公众号内有200多篇**原创**技术文章、海量视频资源、精美脑图，不妨来**关注**一下！
+
+
+如果觉得我这个公众号不错，不妨帮博主分享海报到朋友圈(广而告之)！
+
+![](https://user-gold-cdn.xitu.io/2019/1/19/168642569e186441?w=750&h=1334&f=png&s=116790)
+
+
+
 
 
