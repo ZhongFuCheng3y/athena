@@ -3,22 +3,6 @@
 > 该仓库作为我的文章导航页面，文章均为**原创**，记录了我学习编程的点点滴滴，希望可以帮助到大家，共同进步 !
 
 
-除了技术文章，还可能感兴趣的资源：
-
-| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | 
-| :------:| :------: | :------: |  :------: | 
-| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [程序员应该选择哪个技术博客平台](src/blogplatform.md)  | 
-
-
-## :envelope:成长历程 ##
-
-> 找实习/秋招的经历/成长历程
-
-| :file_folder:成长历程|
-| :------:| 
-| [成长历程](src/work.md) | 
-
-
 ## :coffee:Java基础 ##
 
 > Java基础文章：没写系列文章的都放在了《Java基础》链接中。Java面试题则是一些零散但常见的面试题
@@ -28,8 +12,6 @@
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 
 
-
-
 ## :tophat:数据结构与算法 ##
 
 > 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
@@ -37,8 +19,6 @@
 | :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | :bow:机器学习 | 
 | :------:| :------: | :------: | :------: |
 | [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) |  [机器学习](src/machinelearning.md) |
-
-
 
 ## :page_facing_up:JavaWeb技术 ##
 
@@ -94,6 +74,20 @@
 | :sound:工具使用|
 | :------:| 
 | [工具使用](src/tool.md) |
+
+## :envelope:成长历程 ##
+
+> 找实习/秋招的经历/成长历程
+
+| :file_folder:成长历程|
+| :------:| 
+| [成长历程](src/work.md) | 
+
+除了技术文章，还可能感兴趣的资源：
+
+| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | 
+| :------:| :------: | :------: |  :------: | 
+| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [程序员应该选择哪个技术博客平台](src/blogplatform.md)  | 
 
 
 
