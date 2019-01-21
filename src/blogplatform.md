@@ -243,7 +243,7 @@
 
 - 如果不嫌弃`博客园`的风格，可以选择`博客园`。否则建议选择：`掘金`/`SegmentFault`。
 - 只想管理自己写过的文章，选择：`GitHub/GitBook`
-- 喜欢折腾：`Hexo+GitHub`或者`WordPress`
+- 喜欢折腾：`Hexo+GitHub`或者`WordPress`。
 
 # 最后 #
 
