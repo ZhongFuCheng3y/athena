@@ -5,9 +5,9 @@
 
 除了技术文章，还可能感兴趣的资源：
 
-| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :star:应该选择哪个技术博客平台 | 
+| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | 
 | :------:| :------: | :------: |  :------: | 
-| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [应该选择哪个技术博客平台](src/blogplatform.md)  | 
+| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [程序员应该选择哪个技术博客平台](src/blogplatform.md)  | 
 
 
 ## :envelope:成长历程 ##
