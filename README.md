@@ -83,6 +83,8 @@
 | :------:| 
 | [成长历程](src/work.md) | 
 
+## :lollipop:其他 ##
+
 除了技术文章，还可能感兴趣的资源：
 
 | :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | 
