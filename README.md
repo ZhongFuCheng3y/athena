@@ -85,7 +85,7 @@
 
 | :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | :bell:微信文章导航 | 
 | :------:| :------: | :------: |  :------: | :------: | 
-| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [微信文章导航](src/weixin.md)  | 
+| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [技术博客平台](src/blogplatform.md)  | [微信文章导航](src/weixin.md)  | 
 
 
 
