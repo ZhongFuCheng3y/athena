@@ -6,6 +6,8 @@
 - [Spring【DAO模块】就是这么简单](https://segmentfault.com/a/1190000013751902)
 - [Spring IOC知识点一网打尽！【总结篇】](https://segmentfault.com/a/1190000014979704)
 - [Spring AOP就是这么简单啦【总结篇】](https://segmentfault.com/a/1190000015018888)
+- [SpringBoot自动配置原理](https://segmentfault.com/a/1190000018011535)
+- [一文带你认识Spring事务](https://segmentfault.com/a/1190000018075069)
 
 ![](https://i.imgur.com/Mp40CYf.jpg)
 
