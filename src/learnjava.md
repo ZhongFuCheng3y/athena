@@ -123,7 +123,7 @@ emmmm，我一般都是**比较简单**的回复一下：让他们多做笔记�
 
 我在学习Java的时候也收集了很多的视频资源，并不是每个都有看过。只是在混群的时候发现有人发了，就复制下来整理一下罢了。
 
-- [https://github.com/ZhongFuCheng3y/3y/blob/master/src/resource.md](https://github.com/ZhongFuCheng3y/3y/blob/master/src/resource.md)
+**关注我的公众号，回复“视频”即可免费领取全部资源！**
 
 ![视频资源](https://user-gold-cdn.xitu.io/2018/11/5/166e21cd155c6b03?w=1227&h=826&f=png&s=66178)
 
