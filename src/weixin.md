@@ -41,7 +41,7 @@
 - [线程池你真不来了解一下吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484214&idx=1&sn=9b5c977e0f8329b2bf4c29d230c678fb&chksm=ebd74237dca0cb212f4505935f9905858b9166beddd4603c3d3b5386b5dd8cf240c460a8e7c4&scene=21#wechat_redirect)
 - [多线程之死锁就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484218&idx=1&sn=5e5d7859627ed2c30ee517cb64e0a930&chksm=ebd7423bdca0cb2d55528781e9d3d12cfb94bc566946069293d1fad3c788a7e617879ba66b9e&scene=21#wechat_redirect)
 - [Java多线程打辅助的三个小伙子](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484296&idx=1&sn=6bc82072500dda2798f567f1442f25ab&chksm=ebd74289dca0cb9fece89bedeede895b6058c46289b05b918ef5115b3204fbef2e38ac47d7b3&scene=21#wechat_redirect)
-
+- [还在用Synchronized？Atomic你了解不？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484416&idx=1&sn=540c0714263f8ee8b80ba90535162657&chksm=ebd74501dca0cc179e66c34cf3fa647f18860c670b47b0612fac0cb2c26b6cb17ad6824f0808&token=465096859&lang=zh_CN#rd)
   
 
 # **设计模式** #
@@ -240,6 +240,7 @@
 - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484335&idx=1&sn=a871bf871fcaffda0be40e1388a69d7d&chksm=ebd742aedca0cbb8e22138fa7488cb80ee09a5b5d7aa065679904005c609e92a0d9ad755a913&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [SpringBoot自动配置原理！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484637&idx=1&sn=956c14daacc3e09367d9c27458b09f7f&chksm=ebd745dcdca0ccca6c173d32b6f8299f61d950990ee7c6eb2ec676f5ce0ad9b0ba306306a952#rd)
 - [一文带你看懂Spring事务！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=5&sn=67467f35a9e9314aa3d1c07ff250af6b&chksm=ebd74430dca0cd26c94daf2d3e34806c29d05583de2255b98d20d34cd86e12ae94624d33be1b#rd)
+- [Synchronized锁在Spring事务管理下，为啥还线程不安全？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484822&idx=2&sn=24096250dbe30ce6fb73a52e9aa4d056&chksm=ebd74497dca0cd81d09c1e20b2a1ea59a8f00dabc8c2e05fae058750452607a28c7d776efd7c#rd)
 
 # **SSM** #
 
@@ -361,8 +362,8 @@
 - [【Java】几道让你拿offer的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484306&idx=1&sn=a305e8e7da212c44c233a04ec328cdd2&chksm=ebd74293dca0cb856896abe4d729c15dc4c328699c543b7a60b8650d7c3ed52a418d7103ab13&scene=21#wechat_redirect)
 - [【Java】留下没有基础眼泪的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484328&idx=1&sn=044a7bc43c9a9f4ad43d23f9fcb248ff&chksm=ebd742a9dca0cbbff7a6314c83543a528c74a54d3e7e7ece60f258016c37723c024a72e2f9f2&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN#rd)
+- [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b#rd)
 
- 
 
 # **个人** #
 
@@ -373,6 +374,7 @@
 - [写博客的一些感想和想对读者说的话](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484424&idx=1&sn=2acbe1a65a93755bd368bd02c5c8a21e&chksm=ebd74509dca0cc1fb9f2ae96d76cbfdb8ff12303c574e77bc036cfc6d2c1ab0220f5f6f92bb2&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [2018再见，2019你好](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484564&idx=1&sn=2390075154749f89e85f4d410309cbd1&chksm=ebd74595dca0cc8357c4acc62c1f7f3c7f2198c320e8d5ca39df3e12dc5604ce6a029d6bd003&token=1712662964&lang=zh_CN#rd)
 - [过年了，给亲朋好友解释「啥是程序员」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484732&idx=1&sn=2f478a802024b648a2814ff2bd77c6f9&chksm=ebd7443ddca0cd2bb28bf6f923a6d96a54b491790bfa18d98dea67c4172b2a0bc36d29ce89d1&token=1676899695&lang=zh_CN#rd)
+- [嗯，我来杭州了。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484879&idx=1&sn=d048367a8fefdddb860d832a96bdbb0a&chksm=ebd744cedca0cdd8818c4bd6bf47244f67cdbd1587793245a21306c95541c5ee713b2a74d120#rd)
 
 
 
@@ -391,3 +393,14 @@
 - [RPC太太太太太太太容易理解啦！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484662&idx=1&sn=2f5834f81fd6d43264d6623be9ca16f9&chksm=ebd745f7dca0cce194910232f45334939d3a68eeb0494117e71259015bfbee69f9281ab597bc&token=1676899695&lang=zh_CN#rd)
 - [如何判断一个元素在亿级数据中是否存在？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484678&idx=1&sn=b96c29b0117d952174e85b3b132b202d&chksm=ebd74407dca0cd11cce0b1c2b6f18ee207c61ddef495def8b6a7fdf15fee3d2adfc7893d2edf#rd)
 - [负载均衡太太太太太太容易理解啦！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484694&idx=1&sn=26a49d30a60c46f5224cf27f61d86bcf&chksm=ebd74417dca0cd01552d51e7b4ec869c1439969db68e8f76fb40fff2e99b970078b6e021b635#rd)
+- [还在使用SimpleDateFormat？你的项目崩没？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484827&idx=1&sn=0771eb8fa1f5754a88056ec34c7f746c&chksm=ebd7449adca0cd8c85191bbb212bb9baa864467918b6a9068872546e113554e475d8595ff275#rd)
+- [程序员「在知乎装逼被怼」，决定用『面试』证明自己](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484873&idx=1&sn=9932aef82c2916cdc036a00c96ef044d&chksm=ebd744c8dca0cdde98fc690a801c9507edf40bcd286cfe6269517616dc795eb0b79edb5374f5#rd)
+- [漫话：如何给女朋友解释什么是HTTP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484898&idx=1&sn=0bbb33b65a46cc8bcfb74f55a6d45047&chksm=ebd744e3dca0cdf513234797a35a23b1c073558a6555327a2873972b3345091e05ba466b816d#rd)
+- [这是我看过最好的「机器学习」科普文章了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484911&idx=1&sn=fc2172d52ac306fab19f7c69c0e11718&chksm=ebd744eedca0cdf8012186adb1b4996802e5ba7eac058f50ca2f9184b1ca9e42c8a14e82096f#rd)
+- [神经网络浅讲：从神经元到深度学习](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484923&idx=1&sn=1c3637726478be04db55a91ba238e174&chksm=ebd744fadca0cdec7588e1886ea95ace662eacb0a59b149a3b34e8b79afa5b0e9208aca55e5f#rd)
+- [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484938&idx=1&sn=ccfcf32e38b863f44500e5ab7540d95f&chksm=ebd7470bdca0ce1dfb0b5a9e56cc2faaf74e96e3f431ce0001c18e93cbf020a6c2b9f9cc684d#rd)
+
+
+# TensorFlow #
+
+- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)

@@ -1,6 +1,7 @@
 # 机器学习 #
 
 - [机器学习入门](https://segmentfault.com/a/1190000017432200)
+- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://segmentfault.com/a/1190000018362783)
 
 
 # 如果觉得还不错： #
