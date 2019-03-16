@@ -6,7 +6,6 @@
 - [Spring【DAO模块】就是这么简单](https://segmentfault.com/a/1190000013751902)
 - [Spring IOC知识点一网打尽！【总结篇】](https://segmentfault.com/a/1190000014979704)
 - [Spring AOP就是这么简单啦【总结篇】](https://segmentfault.com/a/1190000015018888)
-- [SpringBoot自动配置原理](https://segmentfault.com/a/1190000018011535)
 - [一文带你认识Spring事务](https://segmentfault.com/a/1190000018075069)
 - [Synchronized锁在Spring事务管理下，为啥还线程不安全？](https://segmentfault.com/a/1190000018182340)
 
@@ -18,6 +17,13 @@
 - [SpringMVC【开发Controller】详解](https://segmentfault.com/a/1190000013770006)
 - [SpringMVC【参数绑定、数据回显、文件上传】](https://segmentfault.com/a/1190000013800290)
 - [SpringMVC【校验器、统一处理异常、RESTful、拦截器】](https://segmentfault.com/a/1190000013803677)
+
+进阶：
+
+- [SpringBoot就是这么简单](https://segmentfault.com/a/1190000013849884)
+- [SpringBoot自动配置原理](https://segmentfault.com/a/1190000018011535)
+- [SpringDataJPA入门就这么简单](https://segmentfault.com/a/1190000013869585)
+- [外行人都能看懂的SpringCloud，错过了血亏！](https://segmentfault.com/a/1190000016157665)
 
 
 # 如果觉得还不错： #
