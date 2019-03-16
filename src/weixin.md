@@ -67,48 +67,48 @@
 
 # **HTTP+JSON+XML** #
 
-- [HTTP就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483733&idx=2&sn=93b359af4397cd4afa791fdb5f51f0b5&chksm=ebd74054dca0c942be5180cdf0f460ed7f534ca51230147fe0081df15adac76dac9e61d97761&scene=21#wechat_redirect)
-- [HTTP常见面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483733&idx=1&sn=f9ab8d07d2151bd40cdcd9a290317346&chksm=ebd74054dca0c942a36e6e63c783e9b1f414a16e2c702ae4b371a204960a50c7ae89af207139&scene=21#wechat_redirect)
-- [XML就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483749&idx=1&sn=905445362705b3ca20a8e6b2ec67edbe&chksm=ebd74064dca0c9720190fec3b4ddd5b8c6beb5553755d7d6c24b1c77be6748100ba00578911b&scene=21#wechat_redirect)
-- [JSON就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483754&idx=1&sn=3f1c9aa9739547bacbc5c79bf44f449a&chksm=ebd7406bdca0c97dc7e856f9910fd96699fdf3764b3682480e86536ffe93aefb1ac866991422&scene=21#wechat_redirect)
-- [XML+JSON面试题都在这里](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483758&idx=1&sn=1dc428abb8a08eee7a28a4f56c31c933&chksm=ebd7406fdca0c979dffde755eb726791312eed065eab470f87588b52d1837afda56eb9973ae1&scene=21#wechat_redirect)
+- [HTTP就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484979&idx=2&sn=abe78c7ce58c15cb8b2e26602802e096&chksm=ebd74732dca0ce24b00b10ed3948801bc1ab0fdfa3cdb478b21d1048a4e5564bbda2316b31bb#rd)
+- [HTTP常见面试题](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484979&idx=3&sn=37528f67d16315e5d49ad48ebf6bd53d&chksm=ebd74732dca0ce2446aa4a66e22f082d48b49f63301be748e61ce652b3a00de53d4f15cef3a7#rd)
+- [XML就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=2&sn=6f811188eb489d6a3737032e043aadd4&chksm=ebd74709dca0ce1f98e2ef78680a323d3848e08cf65f1ad9550b6f860a19b732c8803c880761#rd)
+- [JSON就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=3&sn=264ee1f0fa88d5b3d5f9edd0903a73cb&chksm=ebd74709dca0ce1f163d51065539f1dcf7376836787c2e845416bfc545d836d6b6f8582d51c3#rd)
+- [XML+JSON面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=4&sn=be318e764c90f978d9935430c96f7f45&chksm=ebd74709dca0ce1f493d36423da7b1e276cf55146276df12c29a66852fc9d6264bc2b6abfbbc#rd)
 - [HTTP2和HTTPS来不来了解一下？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484302&idx=1&sn=5fafcb988463b5b2df9120552b6dc3f8&chksm=ebd7428fdca0cb99d5ed60296100b315c4ecaefc901fb5bb5448f902c6f41b0fa0dc18d5ee06&scene=21#wechat_redirect)
 
   
 
 # **Servlet+Tomcat** #
 
-- [Tomcat就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=2&sn=873e1e213b1284a894bbbca20da41ea4&chksm=ebd74021dca0c937f79364fc8ad8f62606880f8dc442224e86fe1c4099d83dfebbaba048454d&scene=21#wechat_redirect)
-- [Servlet第一篇【介绍Servlet、HTTP协议、WEB目录结构、编写入门Servlet程序、Servlet生命周期】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=3&sn=d5380ff58c5077271ac9c43d2d96f6c1&chksm=ebd74021dca0c93733255324df8c1e522dbe36ccaf8c2c4bcca4765113a120eb9851ca0e2442&scene=21#wechat_redirect)
-- [Servlet第二篇【Servlet调用图、Servlet细节、ServletConfig、ServletContext】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=4&sn=2fdf4d0075d093389c03697ebdb9f47d&chksm=ebd74021dca0c937a240f47578b9c5f40093a307f6537d79d5a2fd12721c5311a9d89d5c5583&scene=21#wechat_redirect)
+- [Tomcat就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=2&sn=b09e747bd0af5e1899a47911f92d1afe&chksm=ebd74452dca0cd44ebbcdacab7373a72d0c769746eaa2bfa454d1dbc8295e3f93b0645c0ac58#rd)
+- [Servlet第一篇【介绍Servlet、HTTP协议、WEB目录结构、编写入门Servlet程序、Servlet生命周期】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=3&sn=109e71815ba6474a1e0f5120ab7e0d10&chksm=ebd74452dca0cd449e12c3bd6b8bb59b917f2c26c2e028c80e416e9eef2e9badf76a3f33e3ee#rd)
+- [Servlet第二篇【Servlet调用图、Servlet细节、ServletConfig、ServletContext】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=4&sn=01aa36130bc5b2d5ff5b9f67375d9ac5&chksm=ebd74452dca0cd447ed0845e12746e4c8828ec858ce24db0cd890c7e2fc95f8569f729e1fb36#rd)
 - [Servlet第三篇【request和response简介、response的常见应用】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484081&idx=2&sn=06d118f2976a1f2cf98e5fca47af252a&chksm=ebd743b0dca0caa6895f25f0eaaac66bec5f5f8141e1a869bfc8562f8c4e933ef8c1fe807dfd&scene=21#wechat_redirect)
-- [Servlet第四篇【request对象常用方法、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=6&sn=d3004d502e18f86f0028b38e45074d56&chksm=ebd74021dca0c937d4c05f8a9b078ffa46102f23529bcb6ed95dc835276a79c71bc0dfc2fabe&scene=21#wechat_redirect)
-- [Servlet第五篇【介绍会话技术、Cookie的API、详解、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=7&sn=0b03859e06cc3e68bc106f34bb695db1&chksm=ebd74021dca0c937d50915513228343ca8906a751dba3401de772c76aa4f4f7bc768cae670b0&scene=21#wechat_redirect)
-- [Servlet第六篇【Session介绍、API、生命周期、应用、与Cookie区别】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=8&sn=af69e00635662a54b539d00bbfea0777&chksm=ebd74021dca0c937eee5c1c2453e271c63e3c019db12368655af8e8bb5520ca137b0b6175d79&scene=21#wechat_redirect)
-- [Tomcat+Servlet面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483680&idx=1&sn=66e5a42852ff2acfbd055749f0e42f37&chksm=ebd74021dca0c93778c2f3a129b889f052dba01e5465fc5e98237356f43237cf6d0df3252fd0&scene=21#wechat_redirect)
+- [Servlet第四篇【request对象常用方法、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=5&sn=cf96abda9fe364ba2ac90d5d786d78d7&chksm=ebd74452dca0cd44c9e76525a43dda2dff4fd8c730843da7e587733ea5d129a88e489fecead6#rd)
+- [Servlet第五篇【介绍会话技术、Cookie的API、详解、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=6&sn=3a370551b0ee800f3bcad8ff37a72b9d&chksm=ebd74452dca0cd44f454ca8aa006d352c6994bb7ea955b5ca5f2ec2b227792010939bfa25532#rd)
+- [Servlet第六篇【Session介绍、API、生命周期、应用、与Cookie区别】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=7&sn=fb35232f3c15e2b4336498ac9f8804f1&chksm=ebd74452dca0cd44942721a159088a2f286d4e5c5f2bcdc7e264f0dccc8f9928d66858e475d4#rd)
+- [Tomcat+Servlet面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=8&sn=cc121c65aebe4f8403cab99017180cd3&chksm=ebd74452dca0cd44dcbabac26e82d1db6280abc6aef8c7347bd4502e925ccb0b61a48edd229d#rd)
 
   
 
 # **JSP** #
 
-- [JSP第一篇【JSP介绍、工作原理、生命周期、语法、指令、行为】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=1&sn=17242dffdc2af2b279ab81c9780013d9&chksm=ebd74038dca0c92e644d37c5032caf632ff4738d821321fd9b66c0c9a1639dd712d81e8321fa&scene=21#wechat_redirect)
-- [JSP第二篇【内置对象的介绍、4种属性范围、应用场景】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=2&sn=4d48de8b1e5ffd6458e559acf1c3540b&chksm=ebd74038dca0c92e931edc93662efd28e14eb37e8aeaee3986ed47be8a5a986520ca3a5529c4&scene=21#wechat_redirect)
-- [JSP第三篇【JavaBean的介绍、JSP的行为--JavaBean】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=3&sn=eb1888084d7cb1e46b061220d812337e&chksm=ebd74038dca0c92e4d1c592badb57e18da49b5bb35eebf3b3518e7fa7d46965ed3511f7bcdc6&scene=21#wechat_redirect)
-- [JSP第四篇【EL表达式介绍、获取各类数据、11个内置对象、执行运算、回显数据、自定义函数、fn方法库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=4&sn=fac045bdf7a8174558767413073deb09&chksm=ebd74038dca0c92ead3e8b252ad1ca5d7b0976aa622ec6dd7b464d9733a1b86478d4efb7449f&scene=21#wechat_redirect)
-- [JSP第五篇【JSTL的介绍、core标签库、fn方法库、fmt标签库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=5&sn=a7329831e19b34ea4ee538fb81ed060e&chksm=ebd74038dca0c92e5b8ddfacb9e6be88fe5bdcc2c7e00111335cbaa2d7c2df368c484e8581d4&scene=21#wechat_redirect)
-- [JSP第六篇【自定义标签之传统标签】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=6&sn=01acef99a7bba5ed688fb578ebeeb862&chksm=ebd74038dca0c92e31f0090e85ff6216ff9f8f8b480fb24ac29db40818b4a34d5d6399152b11&scene=21#wechat_redirect)
-- [JSP第七篇【简单标签、应用、DynamicAttribute接口】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483705&idx=7&sn=3f4e2fbbf1dbbd274c72437acfe13016&chksm=ebd74038dca0c92ef641ac0e38e671627eee07437cd5a53c80fc30a0182b4a234fc557eb9191&scene=21#wechat_redirect)
-- [JSP面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483683&idx=1&sn=5fde096c806e00d2bfade59c5284dded&chksm=ebd74022dca0c93480563d0f56708bf50729a46741e6b29e150e23c67adc903a34a9cdb06ed9&scene=21#wechat_redirect)
+- [JSP第一篇【JSP介绍、工作原理、生命周期、语法、指令、行为】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=2&sn=b32e2d5160b952522e1b1ebd1705821f&chksm=ebd74498dca0cd8e2448a048136bee1bb3aba9c0b57407b06764803d581a359a1e21829104c6#rd)
+- [JSP第二篇【内置对象的介绍、4种属性范围、应用场景】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=3&sn=9f6e750b83ebe2e73eed9c4a4b75114b&chksm=ebd74498dca0cd8e948da9b61aa299e8817fd8503e21f5a6acce38c90cf4faa59c27514bb1b9#rd)
+- [JSP第三篇【JavaBean的介绍、JSP的行为--JavaBean】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=4&sn=0ed63ec461cd8d0246c5c9cdb470e0ee&chksm=ebd74498dca0cd8eaffaf90fd4b05949702d28679fbb7696802c12519220eef7660fa5c5cc2f#rd)
+- [JSP第四篇【EL表达式介绍、获取各类数据、11个内置对象、执行运算、回显数据、自定义函数、fn方法库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=5&sn=f040dd4bc1c47e28607fb8e8f61f09df&chksm=ebd74498dca0cd8e80b9986b687535f25f0be0bcd6b219e0f39bf011ae0b0c58529b15afe006#rd)
+- [JSP第五篇【JSTL的介绍、core标签库、fn方法库、fmt标签库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=6&sn=0303f8be4cdbafc550bd4aad73178f1b&chksm=ebd74498dca0cd8e88c31a852fb1a6cd9591cc5179a0f821070262ff722115b82d826ddbe3ab#rd)
+- [JSP第六篇【自定义标签之传统标签】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=7&sn=61b094aea4613458571f1faa147d2406&chksm=ebd74498dca0cd8ea6d8ff42b93180ab94becafd11b3275813ec6e9222ded0c96bd0441dba25#rd)
+- [JSP第七篇【简单标签、应用、DynamicAttribute接口】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=8&sn=bf190004c90acf18c511619ae535805b&chksm=ebd74498dca0cd8e9e9059fb9447abcb904f336f1c63ed48d988966be33a2f5ea2666f04cf44#rd)
+- [JSP面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484873&idx=3&sn=95099551f6cea7718287e5083d165491&chksm=ebd744c8dca0cddeb04c4c8bdef3370819db6772391aef06ecb9007d6dfd6f24e15309c15d95#rd)
 
   
 
 # **监听器和过滤器** #
 
-- [过滤器第一篇【介绍、入门、简单应用】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483718&idx=2&sn=cf6438820f100fd638dd8f1951c299d6&chksm=ebd74047dca0c9510e6ec3e0b44c713c94cb18750caf42cec0e6761085b3792645c0010361d2&scene=21#wechat_redirect)
-- [过滤器第二篇【编码、敏感词、压缩、转义过滤器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483718&idx=3&sn=d63a56a3bdafa2df90178503e4d16d9d&chksm=ebd74047dca0c951eb72b5eb85553e513bd005318ee8c6ff9777d382581f0b352b2acdecf6fe&scene=21#wechat_redirect)
-- [监听器第一篇【基本概念、Servlet各个监听器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483718&idx=4&sn=db83cb25afde89e3b1abbeee11cb92b7&chksm=ebd74047dca0c951bee2d97998c5b5259e386245c90d27be5aa05715908927215441a9db8e9a&scene=21#wechat_redirect)
-- [监听器第二篇【统计网站人数、自定义session扫描器、踢人小案例】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483718&idx=5&sn=8e50541ce13f5587c820cefb327fc3e3&chksm=ebd74047dca0c95192418dcfc981d3ebecd66b2e78e9b697186056ae476fab5bd0e64a177240&scene=21#wechat_redirect)
-- [过滤器监听器面试题都在这里](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483718&idx=1&sn=a6273f13e4a191a8ecd48f211462ba3e&chksm=ebd74047dca0c9514b9c239b81094006c32a991fc42aec1d9e443828ef7e5b031736d963a9a1&scene=21#wechat_redirect)
+- [过滤器第一篇【介绍、入门、简单应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=2&sn=6fed09e5d4cf2e243965053238541a28&chksm=ebd744bfdca0cda91b57b5db82193efd7407aeca87fe6a9e07e794e162bca463e37675a56bfe#rd)
+- [过滤器第二篇【编码、敏感词、压缩、转义过滤器】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=3&sn=f53c22e52dae6a0b315d84fdc4553c05&chksm=ebd744bfdca0cda9c29a60d052b71edcaf0b7b5d0e23630af045a36f8927776504cc85338737#rd)
+- [监听器第一篇【基本概念、Servlet各个监听器】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=4&sn=14cbb3bc2d91696adc5d5ba7318c19c2&chksm=ebd744bfdca0cda90cf1753c2aca06fd78012698e016fd6fb5ea26d24f2faac6772e223f05e3#rd)
+- [监听器第二篇【统计网站人数、自定义session扫描器、踢人小案例】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=5&sn=e4547d42de48c3d562cd97cc437879f2&chksm=ebd744bfdca0cda9dabc6c4d9083a73a4630cfe376c4e84dcbab1f1e1ff3106084cb17d51178#rd)
+- [过滤器监听器面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=6&sn=c192dd27d42ca59a17f07164882d1d26&chksm=ebd744bfdca0cda926af724aa8d45423be71f9c52354b78017f3d08daa821d38e8a26a020112#rd)
 
   
 
@@ -129,11 +129,11 @@
 
 # **JDBC** #
 
-- [JDBC【介绍JDBC、使用JDBC连接数据库、简单的工具类】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483745&idx=2&sn=87b3b5d3b8d44b89743e9e15d3c3a80c&chksm=ebd74060dca0c97616b24b36bd053704ff88b241f11bc0914f9ed4b97f32f346af283d7a04b1&scene=21#wechat_redirect)
-- [JDBC【PreparedStatment、批处理、处理二进制、自动主键、调用存储过程、函数】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483745&idx=3&sn=26cc7194bca0f460f900176156b1795d&chksm=ebd74060dca0c97674f0ff43d7d9d831f7c773d8e5675e5d488356f5f3eb14283bd3be0faaba&scene=21#wechat_redirect)
-- [JDBC【事务、元数据、改造JDBC工具类】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483745&idx=4&sn=7b0fd81becfea2aae9ecbf4bc0c10c35&chksm=ebd74060dca0c976a1cd5c36acb14e2da6bea6a7b1ac3673e5c54a2160026535cc6b31f025dd&scene=21#wechat_redirect)
-- [JDBC【数据库连接池、DbUtils框架、分页】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483745&idx=5&sn=a3010d60de8afe16bb1367ab45ab257e&chksm=ebd74060dca0c97677aa069b74a8427a63fd4ede563e36d6b8ddd0f3f5db1e43f79145100cce&scene=21#wechat_redirect)
-- [JDBC面试题都在这里](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483745&idx=1&sn=c5e8d9ad63878aa5bc3dcdbb903d8899&chksm=ebd74060dca0c976345e93c1304b1d1d609e804665a3c2c338cbaa6903eee01477ca47c9645b&scene=21#wechat_redirect)
+- [JDBC【介绍JDBC、使用JDBC连接数据库、简单的工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=2&sn=1de97cc6680fbb04a464cbfe37a000ce&chksm=ebd744e1dca0cdf7b8bcda78ec516f3873f72fe62af593c9abfb60cccdbf0d11250db822d573#rd)
+- [JDBC【PreparedStatment、批处理、处理二进制、自动主键、调用存储过程、函数】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=3&sn=ebe11114c8e75108bae2b7454c36e96f&chksm=ebd744e1dca0cdf7387328260e886a67ee563ee4303504caaee581df97c2a6f086e8d0ac031b#rd)
+- [JDBC【事务、元数据、改造JDBC工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=4&sn=6cd7718e6d630247ed0b532efecae996&chksm=ebd744e1dca0cdf7484a802d729bae21a6fef0d7fa4a8188335529f94eae9c24dabba8ade8a3#rd)
+- [JDBC【数据库连接池、DbUtils框架、分页】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=5&sn=69d043db785086bb309145f074d9e9e6&chksm=ebd744e1dca0cdf705ebc6c5c1ec98d30e1cafb37f67ab93013a8ae43b4a1c74eb5a8ff0211e#rd)
+- [JDBC面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=6&sn=538737998a28571e18ec1ac3b8c3d3d7&chksm=ebd744e1dca0cdf7b5f327f9c9d8d81496763c8ab8e789d39892b85d131b897a06a921cd7eba#rd)
 
   
 
@@ -399,8 +399,15 @@
 - [这是我看过最好的「机器学习」科普文章了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484911&idx=1&sn=fc2172d52ac306fab19f7c69c0e11718&chksm=ebd744eedca0cdf8012186adb1b4996802e5ba7eac058f50ca2f9184b1ca9e42c8a14e82096f#rd)
 - [神经网络浅讲：从神经元到深度学习](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484923&idx=1&sn=1c3637726478be04db55a91ba238e174&chksm=ebd744fadca0cdec7588e1886ea95ace662eacb0a59b149a3b34e8b79afa5b0e9208aca55e5f#rd)
 - [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484938&idx=1&sn=ccfcf32e38b863f44500e5ab7540d95f&chksm=ebd7470bdca0ce1dfb0b5a9e56cc2faaf74e96e3f431ce0001c18e93cbf020a6c2b9f9cc684d#rd)
-
+- [漫话：如何给女朋友解释什么是反向代理？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484948&idx=1&sn=404d188f01b0bf1b35805886001ad2dd&chksm=ebd74715dca0ce0376ac48248744a58e2c7937143eb6f914c2e125720cbb00a3c48435be07d3#rd)
+- [一文读懂一台计算机是如何把数据发送给另一台计算机的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484964&idx=1&sn=263a86011c8151bd4df84a77a199ed57&chksm=ebd74725dca0ce33ef0354fb2da6270a68b0bffe7cf3302090e216c1dcc3bfed513a8f669195#rd)
+- [研发应该懂的binlog知识！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484966&idx=1&sn=b2ecec2d7215c4589136674263e2e3aa&chksm=ebd74727dca0ce31ecfe4f0ce104c115604b0a27b74e9b642842877fe94a79c7c8bff11e33ad#rd)
+- [为什么有些网站域名不以www开头？什么是二级域名？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484968&idx=1&sn=af9d31c0ed6e4b972af08be7b57bb451&chksm=ebd74729dca0ce3fd02abfe47534b3c77ede43ce3032e737426cd7f07e26f3780f542b098851#rd)
+- [【漫画】什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484986&idx=1&sn=cbf3c6fcbcca304c177a328f4a8d7043&chksm=ebd7473bdca0ce2d5fd254f967d873b6b3e4f8feba637835a3fa58e47b8205f5b94634a34751#rd)
+- [Java锁？分布式锁？乐观锁？行锁？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484989&idx=1&sn=7beaa0db8b29cc8758c7846fe04dfbd2&chksm=ebd7473cdca0ce2a7aea8e6e2a22a5c183b8be3f1cdc93f8d7c3842a560eb5668071cebe5e37#rd)
 
 # TensorFlow #
 
 - [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
+- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
+- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
