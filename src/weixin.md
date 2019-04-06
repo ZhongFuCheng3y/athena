@@ -302,7 +302,6 @@
 - [栈和队列就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484090&idx=1&sn=d46205eed74e9b253ec08796124192c1&chksm=ebd743bbdca0caad2129f0d76f002b7e14e125900ecac1fa9a3a433e3a9bcd2831275a1e260c&scene=21#wechat_redirect)
 - [十道简单算法题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484095&idx=1&sn=cf19213517599f45e57dbe783b4d3249&chksm=ebd743bedca0caa85df3d29896fbcc1bfbf8191ad671cceab319180dbf56a0df4d1cfe1eefea&scene=21#wechat_redirect)
 - [十道算法题【二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484126&idx=1&sn=109d868fa7bd108af97e8e77dbab3b34&chksm=ebd743dfdca0cac9245a41194ca2b0c8a35f41825a15cb185f883b7b4fdd38b61d74a99ed897&scene=21#wechat_redirect)
-- [外行人都能看得懂的机器学习，错过了血亏！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484534&idx=1&sn=813981af9fb77c9dee1b399bbde84846&chksm=ebd74577dca0cc617cf326f3f589794eace2dd87a932e7e4a958dc462d45b159a13d286a751a&token=1712662964&lang=zh_CN#rd)
 
 
   
@@ -383,7 +382,24 @@
 
 
 
-# **推荐阅读** #
+
+
+# 消息队列
+
+- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN#rd)
+
+
+
+
+
+# TensorFlow #
+
+- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
+- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
+- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
+- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN#rd)
+
+# 推荐阅读 #
 
   
 
@@ -418,20 +434,3 @@
 - [地址栏中输入网址后发生了什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485074&idx=1&sn=db1c122d5aedae4d342b5adc415fa607&chksm=ebd74793dca0ce85f747f114b83a1400847d6d39ee9c05190f0e868b21b8239cfcd73aed88c0&token=1755043505&lang=zh_CN#rd)
 - [为什么我玩游戏那么卡？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485082&idx=1&sn=7844aab2dec93abbb2083dbde2cb07aa&chksm=ebd7479bdca0ce8d217008008c313d8cfeaabe7d78f78802799e714fa660d2c42cd2971961b9&token=1755043505&lang=zh_CN#rd)
 - [IDEA看源码的几个小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485087&idx=1&sn=94a546749e44133844678234cc1f52be&chksm=ebd7479edca0ce882b0883e42629ed8f2e5f7152e557194214b7c86d30d7b8676ed8797cd421&token=1755043505&lang=zh_CN#rd)
-
-
-# 消息队列
-
-- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN#rd)
-
-
-
-
-
-# TensorFlow #
-
-- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
-- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
-- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
-- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN#rd)
-
