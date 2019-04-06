@@ -151,12 +151,12 @@
 
 # **AJAX** #
 
-- [AJAX入门这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483763&idx=1&sn=c900360bc8cee80ff8e992654815c8a4&chksm=ebd74072dca0c96445b7dbda1a067fa1a09e95de0d5f3aea7c7d219656bca57f8a469f966cf0&scene=21#wechat_redirect)
-- [AJAX应用【股票案例、验证码校验】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483767&idx=1&sn=f83a8f899cb5423d95b4c828648ba841&chksm=ebd74076dca0c960daae47b7757fe3bf875e1c73e057e9d8e502f680d79224d02c5fb7ae4419&scene=21#wechat_redirect)
-- [AJAX跨域完全讲解](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483811&idx=1&sn=38ccebbda92813e91689f0b96cdfc45a&chksm=ebd740a2dca0c9b416059337b39a5d0f245680ae48e98c1fd24bb29911aa425c5e53688649da&scene=21#wechat_redirect)
-- [AJAX常见面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483771&idx=1&sn=1fb58c9144f5c2aebfa8a6267c69173c&chksm=ebd7407adca0c96cb54523f51479e6fdd40c64efe65da90cef9c04d72dd17a36fb5558f1d3c4&scene=21#wechat_redirect)
 
-  
+- [AJAX入门！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485024&idx=2&sn=1727dad233e5da3957ed0f496b2c8c80&chksm=ebd74761dca0ce776514141bc737358f10a9fead00cf396e131273785f746bfd2c7f73dd3675&token=1755043505&lang=zh_CN#rd)
+- [AJAX应用！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485024&idx=3&sn=53d4ec6791c9a59cf829ae3747347479&chksm=ebd74761dca0ce771f4b8589c818462b33e32b20eddb5430539b8a95c61057c097b86b0044d0&token=1755043505&lang=zh_CN#rd)
+- [AJAX常见面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485060&idx=2&sn=67a00a0eb12169b452cd5a4f01b11634&chksm=ebd74785dca0ce932fe4883fbfc930e0c5896e7e46bdc1ba0c4195e2d3824b597ac3cc399f72&token=1755043505&lang=zh_CN#rd)
+- [AJAX跨域完全讲解](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485060&idx=3&sn=2fb60dea9ca3fde0aa53004f70ed7f6e&chksm=ebd74785dca0ce93cc1c2177bf6637106f3de13d9c0437b269f7dd594cc49e01e4c87dc63e6f&token=1755043505&lang=zh_CN#rd)
+
 
 # **JavaWeb小项目** #
 
@@ -241,6 +241,10 @@
 - [SpringBoot自动配置原理！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484637&idx=1&sn=956c14daacc3e09367d9c27458b09f7f&chksm=ebd745dcdca0ccca6c173d32b6f8299f61d950990ee7c6eb2ec676f5ce0ad9b0ba306306a952#rd)
 - [一文带你看懂Spring事务！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=5&sn=67467f35a9e9314aa3d1c07ff250af6b&chksm=ebd74430dca0cd26c94daf2d3e34806c29d05583de2255b98d20d34cd86e12ae94624d33be1b#rd)
 - [Synchronized锁在Spring事务管理下，为啥还线程不安全？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484822&idx=2&sn=24096250dbe30ce6fb73a52e9aa4d056&chksm=ebd74497dca0cd81d09c1e20b2a1ea59a8f00dabc8c2e05fae058750452607a28c7d776efd7c#rd)
+- [带你搭一个SpringBoot+SpringData JPA的Demo](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484997&idx=1&sn=96bf73ae24307aa800faeb71769d675c&chksm=ebd74744dca0ce525a24af4fd2bb3d975346a0c90c0f36af6ffc6f540f6462384cf678f74b6a#rd)
+- [【极简版】SpringBoot+SpringData JPA 管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485046&idx=1&sn=5b4e5f6f4123b11ccdc021905f64f1f5&chksm=ebd74777dca0ce61fc54b9d0183550f75dffc27f1f495c25cfadaa2b3512821c7b78e0d2f10a&token=1755043505&lang=zh_CN#rd)
+
+
 
 # **SSM** #
 
@@ -357,7 +361,7 @@
 # **面试** #
 
   
-
+- [能不能好好写简历？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485072&idx=1&sn=cf642163420fc9d29fb480723d60aed9&chksm=ebd74791dca0ce873639c2478cd723536d6c623b4d3ca6040ac649f4491d8f36f9833695a159&token=1755043505&lang=zh_CN#rd)
 - [面试前需要了解的东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484283&idx=1&sn=f76ac6442633c4d5fa3a2cad6a1faf9b&chksm=ebd7427adca0cb6c29db475ed1bfdef9d7d768615f1b8ab02da7fc08c7807476dce7d55b32cf&scene=21#wechat_redirect)
 - [【Java】几道让你拿offer的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484306&idx=1&sn=a305e8e7da212c44c233a04ec328cdd2&chksm=ebd74293dca0cb856896abe4d729c15dc4c328699c543b7a60b8650d7c3ed52a418d7103ab13&scene=21#wechat_redirect)
 - [【Java】留下没有基础眼泪的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484328&idx=1&sn=044a7bc43c9a9f4ad43d23f9fcb248ff&chksm=ebd742a9dca0cbbff7a6314c83543a528c74a54d3e7e7ece60f258016c37723c024a72e2f9f2&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
@@ -406,9 +410,28 @@
 - [为什么有些网站域名不以www开头？什么是二级域名？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484968&idx=1&sn=af9d31c0ed6e4b972af08be7b57bb451&chksm=ebd74729dca0ce3fd02abfe47534b3c77ede43ce3032e737426cd7f07e26f3780f542b098851#rd)
 - [【漫画】什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484986&idx=1&sn=cbf3c6fcbcca304c177a328f4a8d7043&chksm=ebd7473bdca0ce2d5fd254f967d873b6b3e4f8feba637835a3fa58e47b8205f5b94634a34751#rd)
 - [Java锁？分布式锁？乐观锁？行锁？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484989&idx=1&sn=7beaa0db8b29cc8758c7846fe04dfbd2&chksm=ebd7473cdca0ce2a7aea8e6e2a22a5c183b8be3f1cdc93f8d7c3842a560eb5668071cebe5e37#rd)
+- [Java 8的Stream代码，你能看懂吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485026&idx=1&sn=8a99acd180aab1f5984f8b5eae8eab9f&chksm=ebd74763dca0ce758862de9453f155f9efdd28e39725b2067c54a5486449e8a14a1d5decb6c2&token=1755043505&lang=zh_CN#rd)
+- [一个二本大佬的成长之路](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485028&idx=1&sn=54c12f46e37f33ddfa2b19ee3f4039ca&chksm=ebd74765dca0ce736d47bc553a319e235593aa00acd11db7ab0187038bede75ba33e45a09d92&token=1755043505&lang=zh_CN#rd)
+- [系统盘为啥往往是C盘？软件为啥希望把自己装在C盘上？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485031&idx=1&sn=1efd3c682ce5ec4db4e9ff9fe1a2fe88&chksm=ebd74766dca0ce70a59dc7f03843bcc0227a69cb48e64861e2833302a71192b6c9c9767003fe&token=1755043505&lang=zh_CN#rd)
+- [用简单代码实现IOC容器](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485041&idx=1&sn=2015599ce3231bd4dce32dd7b2947243&chksm=ebd74770dca0ce66bfb98ec380d1ed8fd946602c75077b4533e0b08fb6914bb2a575c988a143&token=1755043505&lang=zh_CN#rd)
+- [线程池是怎样工作的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485062&idx=1&sn=561c812a635457ab85abb52f36d44aae&chksm=ebd74787dca0ce91b105a5bfc3efe9fe7a5c583f76817733a0b74be6f3481bee1f553fdb4463&token=1755043505&lang=zh_CN#rd)
+- [地址栏中输入网址后发生了什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485074&idx=1&sn=db1c122d5aedae4d342b5adc415fa607&chksm=ebd74793dca0ce85f747f114b83a1400847d6d39ee9c05190f0e868b21b8239cfcd73aed88c0&token=1755043505&lang=zh_CN#rd)
+- [为什么我玩游戏那么卡？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485082&idx=1&sn=7844aab2dec93abbb2083dbde2cb07aa&chksm=ebd7479bdca0ce8d217008008c313d8cfeaabe7d78f78802799e714fa660d2c42cd2971961b9&token=1755043505&lang=zh_CN#rd)
+- [IDEA看源码的几个小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485087&idx=1&sn=94a546749e44133844678234cc1f52be&chksm=ebd7479edca0ce882b0883e42629ed8f2e5f7152e557194214b7c86d30d7b8676ed8797cd421&token=1755043505&lang=zh_CN#rd)
+
+
+# 消息队列
+
+- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN#rd)
+
+
+
+
 
 # TensorFlow #
 
 - [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
 - [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
 - [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
+- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN#rd)
+

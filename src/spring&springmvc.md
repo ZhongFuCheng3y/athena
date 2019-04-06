@@ -25,6 +25,14 @@
 - [SpringDataJPA入门就这么简单](https://segmentfault.com/a/1190000013869585)
 - [外行人都能看懂的SpringCloud，错过了血亏！](https://segmentfault.com/a/1190000016157665)
 
+搭建SpringBoot+SpringData JPA环境：
+
+- [带你搭一个SpringBoot+SpringData JPA的环境](https://segmentfault.com/a/1190000018624231)
+- [【极简版】SpringBoot+SpringData JPA 管理系统](https://segmentfault.com/a/1190000018776594)
+
+
+
+
 
 # 如果觉得还不错： #
 
