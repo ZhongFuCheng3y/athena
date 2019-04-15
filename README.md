@@ -67,14 +67,6 @@
 
 
 
-## :envelope:成长历程 ##
-
-> 3y的个人成长经历
-
-| :file_folder:成长历程|
-| :------:| 
-| [成长历程](src/work.md) | 
-
 ## :lollipop:其他 ##
  
 
