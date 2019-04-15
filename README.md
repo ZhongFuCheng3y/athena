@@ -12,14 +12,6 @@
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 
 
-## :tophat:数据结构与算法 ##
-
-> 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
-
-| :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 | :bow:机器学习 | 
-| :------:| :------: | :------: | :------: |
-| [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) |  [机器学习](src/machinelearning.md) |
-
 ## :page_facing_up:JavaWeb技术 ##
 
 | :ledger:Servlet+Tomcat | :microscope:JSP | :ring:JDBC | :tshirt:XML和JSON |:ribbon:过滤器和监听器 |:rice:Web前端 |:ramen:AJAX |:hamburger:Web小项目 |
@@ -39,14 +31,6 @@
 
 
 
-## :seat:HTTP ##
-
-| :clipboard:HTTP|
-| :------:| 
-| [HTTP](src/http.md) | 
-
-
-
 ## :mega:JavaEE框架 ##
 
 > 常用的框架包括SpringBoot、SpringDataJPA、SpringCloud、Shiro、Activiti等等。下面的列出项目源码都可以在我的GitHub仓库里找到
@@ -56,24 +40,36 @@
 | [Hibernate](src/hibernate.md) | [Struts2](src/struts2.md) | [Mybatis](src/mybatis.md) |[Spring&SpringMVC](src/spring&springmvc.md) |[SSH和SSM项目](src/ssh&ssmproject.md) |[常用JavaEE框架](src/frame.md) |[个人项目](src/personalproject.md) |
 
 
+## :microscope:进阶 ##
+
+| :flags:ZooKeeper | :lollipop:消息队列 |  :bow:机器学习 | 
+| :------:| :------: |  :------: | 
+| [ZooKeeper](src/zk.md) | [消息队列](src/mq.md) | [机器学习](src/machinelearning.md) |
+
+
+
+## :tophat:数据结构与算法 ##
+
+> 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
+
+| :beer:八大基础排序 | :cherries:数据结构基础 | :egg:算法 |
+| :------:| :------: | :------: | 
+| [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) | 
+
+
 ## :christmas_tree:计算机基础 ##
 
-| :video_camera:Linux | :bell:计算机网络 | :flags:操作系统 | 
-| :------:| :------: | :------: |
-| [Linux](src/linux.md) | [计算机网络](src/net.md) | [操作系统](src/os.md) |
+> 工具使用：包括Docker、IDEA、Maven、UML、SVN、以及一些其他工具
+
+| :video_camera:Linux | :bell:计算机网络 | :flags:操作系统 | :clipboard:HTTP| :sound:工具使用|
+| :------:| :------: | :------: |:------:| :------:| 
+| [Linux](src/linux.md) | [计算机网络](src/net.md) | [操作系统](src/os.md) |[HTTP](src/http.md) | [工具使用](src/tool.md) |
 
 
-## :low_brightness:工具使用 ##
-
-> 包括Docker、IDEA、Maven、UML、SVN、以及一些其他工具
-
-| :sound:工具使用|
-| :------:| 
-| [工具使用](src/tool.md) |
 
 ## :envelope:成长历程 ##
 
-> 找实习/秋招的经历/成长历程
+> 3y的个人成长经历
 
 | :file_folder:成长历程|
 | :------:| 
@@ -81,13 +77,10 @@
 
 ## :lollipop:其他 ##
  
-除了技术文章，还可能感兴趣的资源：
 
-| :art: 精美Java知识点脑图 | :computer:海量视频资源 | :star:2018快速学Java | :clipboard:程序员应该选择哪个技术博客平台 | :bell:微信文章导航 | 
-| :------:| :------: | :------: |  :------: | :------: | 
-| [精美Java知识点脑图](src/mindmap.md) | [海量视频资源](src/resource.md) | [2018快速学Java](src/learnjava.md)  | [技术博客平台](src/blogplatform.md)  | [微信文章导航](src/weixin.md)  | 
-
-
+| :file_folder:成长历程| :art: 资源分享(视频、脑图、路线等等) | :bell:微信文章导航 | 
+| :------:| :------:|  :------:| 
+| [成长历程](src/work.md) | [资源分享(视频、脑图、路线等等)](src/resources.md) | [微信文章导航](src/weixin.md)  | 
 
 # 如果觉得还不错： #
 

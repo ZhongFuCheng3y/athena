@@ -1,4 +1,4 @@
-# **Java基础** #
+# Java基础 #
 
 - [2018年如何快速学Java](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21#wechat_redirect)
 - [泛型就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484109&idx=1&sn=ed48fa9216c260fb9b622d9f383d8c25&chksm=ebd743ccdca0cadad9e8e4a5cd9a7ce96b595ddaf6fb2e817a9a0d49d4d54c50bb93a97e56eb&scene=21#wechat_redirect)
@@ -367,8 +367,28 @@
 - [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN#rd)
 - [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b#rd)
 
+# ZooKeeper
 
-# **个人** #
+- [什么是ZooKeeper？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485115&idx=1&sn=5d269f40f820c82b460993669ca6242e&chksm=ebd747badca0ceac9953f82e08b1d1a49498ebd4af77ec5d628a0682bb9f0ac5ab347411f654&token=1741918942&lang=zh_CN#rd)
+
+
+# 消息队列
+
+- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN#rd)
+
+
+# TensorFlow #
+
+- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
+- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
+- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
+- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN#rd)
+
+
+
+
+
+# 个人 #
 
   
 
@@ -383,21 +403,6 @@
 
 
 
-
-# 消息队列
-
-- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN#rd)
-
-
-
-
-
-# TensorFlow #
-
-- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN#rd)
-- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f#rd)
-- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e#rd)
-- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN#rd)
 
 # 推荐阅读 #
 
@@ -434,3 +439,9 @@
 - [地址栏中输入网址后发生了什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485074&idx=1&sn=db1c122d5aedae4d342b5adc415fa607&chksm=ebd74793dca0ce85f747f114b83a1400847d6d39ee9c05190f0e868b21b8239cfcd73aed88c0&token=1755043505&lang=zh_CN#rd)
 - [为什么我玩游戏那么卡？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485082&idx=1&sn=7844aab2dec93abbb2083dbde2cb07aa&chksm=ebd7479bdca0ce8d217008008c313d8cfeaabe7d78f78802799e714fa660d2c42cd2971961b9&token=1755043505&lang=zh_CN#rd)
 - [IDEA看源码的几个小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485087&idx=1&sn=94a546749e44133844678234cc1f52be&chksm=ebd7479edca0ce882b0883e42629ed8f2e5f7152e557194214b7c86d30d7b8676ed8797cd421&token=1755043505&lang=zh_CN#rd)
+- [原来这就是MapReduce！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485090&idx=1&sn=76b3d85e594e0a8a89dfb93b4b3e4ca6&chksm=ebd747a3dca0ceb52408474d4da0963e0e58e54f54414feb996c65673d6eea834637a5bc1d56&token=1741918942&lang=zh_CN#rd)
+- [Java阻塞队列学起来！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485103&idx=1&sn=4cdf75b5d72eee60deb41d47b517cb25&chksm=ebd747aedca0ceb83526d60a3e7f72b78a62c3037122a9315d3fa6165311b78350fd9649d10d&token=1741918942&lang=zh_CN#rd)
+- [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485107&idx=1&sn=8903b905bc4e8df927ea1ad543f1afeb&chksm=ebd747b2dca0cea416308355a20306428c293a8f3c5304cf746631a1077f6be5d59990c7de6a&token=1741918942&lang=zh_CN#rd)
+
+
+
