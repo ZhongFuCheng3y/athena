@@ -55,15 +55,6 @@
 - [一分钟学会《模板方法模式》](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484572&idx=1&sn=29b09d74a30afe8df29bfb19990f3fb2&chksm=ebd7459ddca0cc8b410bb1bd91a967aed86b68257ab1b4983ec4999c33bb8edee7d5eb7d1540&token=1712662964&lang=zh_CN#rd)
 
 
-# **Linux** #
-
-- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21#wechat_redirect)              
-- [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
-- [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21#wechat_redirect)
-- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21#wechat_redirect)[Linux](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
-
-  
-  
 
 # **HTTP+JSON+XML** #
 
@@ -137,16 +128,8 @@
 
   
 
-# **Web前端** #
 
-- [Javascript面向对象入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483815&idx=1&sn=e8bba1c65e6e453e4d943743216ff254&chksm=ebd740a6dca0c9b08ab916d0fed8929da216c4207ce54988b59e2241b738676b9e61256dcce0&scene=21#wechat_redirect)
-- [DOM编程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483819&idx=1&sn=7f51fa1be54aee5ea51defe878f43972&chksm=ebd740aadca0c9bcb50877b09cbb17d7a31692c698d42d500935b569ce707b254420a6b383af&scene=21#wechat_redirect)
-- [Jquery就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483828&idx=1&sn=bd65360054de4f9ba2f05aec00dbab62&chksm=ebd740b5dca0c9a3e0c31a6ca2b4f865ecc9ce67160ac200db493413713674b9674c5991f617&scene=21#wechat_redirect)
-- [WebSocket就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483830&idx=1&sn=d6fb2e37e11eeb6461845508f428777f&chksm=ebd740b7dca0c9a13d20eb095a074714b7dbe93ad14a314c01f49071c39c65703154f7ac8af8&scene=21#wechat_redirect)
-- [常用的CSS框架](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=3&sn=45cd68dc769cdcf098d1baf41811fdaa&chksm=ebd740c3dca0c9d5fe014cef49236189af699a6b6e7ecf1d21895625c6672d30948421da99a0&scene=21#wechat_redirect)
-- [JsChart组件使用](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=2&sn=cb4552227c5de2091250eb2b9373b92f&chksm=ebd740c3dca0c9d543ba0b418f35132ac56b3d2322603754cecb9a32febe18b0e47c186472ca&scene=21#wechat_redirect)
-- [浅谈CDN、SEO、XSS、CSRF](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=1&sn=40fd0b86f0fda4db4f55584fa4f82cb9&chksm=ebd740c3dca0c9d503a494638a959ef2c5cffb7fedd57954f510fdd13e00a1980eebaa69b7ae&scene=21#wechat_redirect)
-
+  
   
 
 # **AJAX** #
@@ -331,32 +314,6 @@
 - [从零单排学Redis【铂金二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484451&idx=1&sn=5495b1165954cd6b84b011489e04a66b&chksm=ebd74522dca0cc3416ab0ccd3a4ddb4ddd28290c9769596a069d81df3b03f4bad72e27d30a6d&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9#rd)
 
-# **操作系统** #
-
-- [操作系统第一篇【引论】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=2&sn=e272d8e95a5677c75c21b058a064f0f8&chksm=ebd7421bdca0cb0d9d15da009894c8d1b503acbeb601af180ad7408bf2ff191de4995cccf0aa&scene=21#wechat_redirect)
-- [操作系统第二篇【进程管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=3&sn=cefa7781f34e2244b5eea83b7e242c3e&chksm=ebd7421bdca0cb0de76d3f1705f43cbdd41d0c9eb58cf4b55f32793d4f9f8ae2efbd539c8c30&scene=21#wechat_redirect)
-- [操作系统第三篇【线程】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=4&sn=c8d83a508f7a87ad49dcfd6965779129&chksm=ebd7421bdca0cb0d309a3c444240b3677755c7b3083e9dce5e7d70d8d5dbb6e57bd14a7f38fc&scene=21#wechat_redirect)
-- [操作系统第四篇【处理机调度】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=5&sn=54bda03c277af5283c9daff07fff4246&chksm=ebd7421bdca0cb0da6de8e2211049a7b9e95b0d4f5a76b9f6c68682d8648ecc71d92b12bcde3&scene=21#wechat_redirect)
-- [操作系统第五篇【死锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=6&sn=fbe59571e8469fe953404cc632723646&chksm=ebd7421bdca0cb0d85c3a6651e765821d8e0b8aba43e2358d6f3be550a10e0b3ef02bc603715&scene=21#wechat_redirect)
-- [操作系统第六篇【存储器管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=7&sn=3e027ee134e65c5cfae67218ce69a06a&chksm=ebd7421bdca0cb0d29437cad1483f5f59cf1ea9da57bf64900e52a2cd3d63e8fbaaeef9f2c51&scene=21#wechat_redirect)
-- [操作系统第七篇【设备管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=8&sn=01562e2dee725260460898e31edd8d29&chksm=ebd7421bdca0cb0d9011b0e63154b0052ede92030537c9be3fcf3a34dac059f79926bdaf98ca&scene=21#wechat_redirect)
-
-  
-
-# **计算机网络** #
-
-  
-
-- [计算机网络【开山篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=1&sn=3b5502e5ce0cad773a595360705e8d56&chksm=ebd742a3dca0cbb5e61f1140876f7a8d12b500914881ef0911d38837e58f337eb757a6233d3f&scene=21#wechat_redirect)
-- [物理层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=2&sn=a746183ab24e28a9219dc3a93855933e&chksm=ebd742a3dca0cbb5b71f0b8a5b05d0f029262feb03dfec59de8013639c54d544b55a93e645cf&scene=21#wechat_redirect)
-- [数据链路层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=3&sn=1d9efb28f6535a78ab7c3b2f5e850d2d&chksm=ebd742a3dca0cbb5d46fe381cbedb7204e3837be0821c1625b8762620d4cfb7efdd4429ef441&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-- [网络层【第一篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=4&sn=e173d048444d0dc36f948d57a603859e&chksm=ebd742a3dca0cbb564cc12a8de5243b32679ab13d5333781db9acbe297088f7ff36461b4eaf2&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-- [网络层【第二篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=5&sn=c5dc305c782314a238c91e1058a664c7&chksm=ebd742a3dca0cbb581a4dacf520178e9ccb89b573fecc6131f43dec0a041a4bc714af0c62583&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-- [网络层【第三篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=6&sn=bb77dadb64282f9d579ec97806525a00&chksm=ebd742a3dca0cbb5b4e926987f0f889a1684f833b3364d277329b18d6af046dbda20d96563e8&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-- [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-- [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
-
-
 # **面试** #
 
   
@@ -387,6 +344,49 @@
 
 
 
+# **Web前端** #
+
+- [Javascript面向对象入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483815&idx=1&sn=e8bba1c65e6e453e4d943743216ff254&chksm=ebd740a6dca0c9b08ab916d0fed8929da216c4207ce54988b59e2241b738676b9e61256dcce0&scene=21#wechat_redirect)
+- [DOM编程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483819&idx=1&sn=7f51fa1be54aee5ea51defe878f43972&chksm=ebd740aadca0c9bcb50877b09cbb17d7a31692c698d42d500935b569ce707b254420a6b383af&scene=21#wechat_redirect)
+- [Jquery就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483828&idx=1&sn=bd65360054de4f9ba2f05aec00dbab62&chksm=ebd740b5dca0c9a3e0c31a6ca2b4f865ecc9ce67160ac200db493413713674b9674c5991f617&scene=21#wechat_redirect)
+- [WebSocket就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483830&idx=1&sn=d6fb2e37e11eeb6461845508f428777f&chksm=ebd740b7dca0c9a13d20eb095a074714b7dbe93ad14a314c01f49071c39c65703154f7ac8af8&scene=21#wechat_redirect)
+- [常用的CSS框架](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=3&sn=45cd68dc769cdcf098d1baf41811fdaa&chksm=ebd740c3dca0c9d5fe014cef49236189af699a6b6e7ecf1d21895625c6672d30948421da99a0&scene=21#wechat_redirect)
+- [JsChart组件使用](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=2&sn=cb4552227c5de2091250eb2b9373b92f&chksm=ebd740c3dca0c9d543ba0b418f35132ac56b3d2322603754cecb9a32febe18b0e47c186472ca&scene=21#wechat_redirect)
+- [浅谈CDN、SEO、XSS、CSRF](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=1&sn=40fd0b86f0fda4db4f55584fa4f82cb9&chksm=ebd740c3dca0c9d503a494638a959ef2c5cffb7fedd57954f510fdd13e00a1980eebaa69b7ae&scene=21#wechat_redirect)
+
+  
+
+# **Linux** #
+
+- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21#wechat_redirect)              
+- [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
+- [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21#wechat_redirect)
+- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21#wechat_redirect)[Linux](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
+
+# **操作系统** #
+
+- [操作系统第一篇【引论】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=2&sn=e272d8e95a5677c75c21b058a064f0f8&chksm=ebd7421bdca0cb0d9d15da009894c8d1b503acbeb601af180ad7408bf2ff191de4995cccf0aa&scene=21#wechat_redirect)
+- [操作系统第二篇【进程管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=3&sn=cefa7781f34e2244b5eea83b7e242c3e&chksm=ebd7421bdca0cb0de76d3f1705f43cbdd41d0c9eb58cf4b55f32793d4f9f8ae2efbd539c8c30&scene=21#wechat_redirect)
+- [操作系统第三篇【线程】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=4&sn=c8d83a508f7a87ad49dcfd6965779129&chksm=ebd7421bdca0cb0d309a3c444240b3677755c7b3083e9dce5e7d70d8d5dbb6e57bd14a7f38fc&scene=21#wechat_redirect)
+- [操作系统第四篇【处理机调度】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=5&sn=54bda03c277af5283c9daff07fff4246&chksm=ebd7421bdca0cb0da6de8e2211049a7b9e95b0d4f5a76b9f6c68682d8648ecc71d92b12bcde3&scene=21#wechat_redirect)
+- [操作系统第五篇【死锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=6&sn=fbe59571e8469fe953404cc632723646&chksm=ebd7421bdca0cb0d85c3a6651e765821d8e0b8aba43e2358d6f3be550a10e0b3ef02bc603715&scene=21#wechat_redirect)
+- [操作系统第六篇【存储器管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=7&sn=3e027ee134e65c5cfae67218ce69a06a&chksm=ebd7421bdca0cb0d29437cad1483f5f59cf1ea9da57bf64900e52a2cd3d63e8fbaaeef9f2c51&scene=21#wechat_redirect)
+- [操作系统第七篇【设备管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=8&sn=01562e2dee725260460898e31edd8d29&chksm=ebd7421bdca0cb0d9011b0e63154b0052ede92030537c9be3fcf3a34dac059f79926bdaf98ca&scene=21#wechat_redirect)
+
+  
+
+# **计算机网络** #
+
+  
+
+- [计算机网络【开山篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=1&sn=3b5502e5ce0cad773a595360705e8d56&chksm=ebd742a3dca0cbb5e61f1140876f7a8d12b500914881ef0911d38837e58f337eb757a6233d3f&scene=21#wechat_redirect)
+- [物理层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=2&sn=a746183ab24e28a9219dc3a93855933e&chksm=ebd742a3dca0cbb5b71f0b8a5b05d0f029262feb03dfec59de8013639c54d544b55a93e645cf&scene=21#wechat_redirect)
+- [数据链路层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=3&sn=1d9efb28f6535a78ab7c3b2f5e850d2d&chksm=ebd742a3dca0cbb5d46fe381cbedb7204e3837be0821c1625b8762620d4cfb7efdd4429ef441&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [网络层【第一篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=4&sn=e173d048444d0dc36f948d57a603859e&chksm=ebd742a3dca0cbb564cc12a8de5243b32679ab13d5333781db9acbe297088f7ff36461b4eaf2&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [网络层【第二篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=5&sn=c5dc305c782314a238c91e1058a664c7&chksm=ebd742a3dca0cbb581a4dacf520178e9ccb89b573fecc6131f43dec0a041a4bc714af0c62583&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [网络层【第三篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=6&sn=bb77dadb64282f9d579ec97806525a00&chksm=ebd742a3dca0cbb5b4e926987f0f889a1684f833b3364d277329b18d6af046dbda20d96563e8&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 
 # 个人 #
 
@@ -399,9 +399,6 @@
 - [2018再见，2019你好](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484564&idx=1&sn=2390075154749f89e85f4d410309cbd1&chksm=ebd74595dca0cc8357c4acc62c1f7f3c7f2198c320e8d5ca39df3e12dc5604ce6a029d6bd003&token=1712662964&lang=zh_CN#rd)
 - [过年了，给亲朋好友解释「啥是程序员」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484732&idx=1&sn=2f478a802024b648a2814ff2bd77c6f9&chksm=ebd7443ddca0cd2bb28bf6f923a6d96a54b491790bfa18d98dea67c4172b2a0bc36d29ce89d1&token=1676899695&lang=zh_CN#rd)
 - [嗯，我来杭州了。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484879&idx=1&sn=d048367a8fefdddb860d832a96bdbb0a&chksm=ebd744cedca0cdd8818c4bd6bf47244f67cdbd1587793245a21306c95541c5ee713b2a74d120#rd)
-
-
-
 
 
 # 推荐阅读 #
