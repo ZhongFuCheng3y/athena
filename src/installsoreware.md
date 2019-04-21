@@ -69,6 +69,18 @@ processon:https://www.processon.com/i/5815483ce4b0baccb2d1f8c6
 
 #### 6 Mac软件相关
 
+
+
+Mac原生的快捷键：https://jingyan.baidu.com/article/08b6a591aac09614a909224f.html
+
+
+
+Mac终端快捷键：https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac
+
+
+
+
+
 如果Mac下的软件是付费的，**不妨先去这个网站看看有没有对应的破解版**：https://xclient.info/s/c/dev/
 
 - 包括文章提的sublimeText3
@@ -170,5 +182,8 @@ source ~/.zshrc
 
 
 
-更多的工具：https://python-web-guide.readthedocs.io/zh/latest/codingtools/codingtools.html
+更多的工具：
+
+- https://python-web-guide.readthedocs.io/zh/latest/codingtools/codingtools.html
+- [https://zhuanlan.zhihu.com/p/37042090](https://zhuanlan.zhihu.com/p/37042090)
 
