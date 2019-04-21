@@ -105,16 +105,16 @@
 
 # **数据库** #
 
-- [Mysql免安装配置教程（图文版)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=2&sn=d894e869f574201bddc88add79808a33&chksm=ebd740d1dca0c9c7ac76f62b721711b471d7cd9ef1ba3ff539e2f4bafe45186e4c6278002b1f&scene=21#wechat_redirect)
-- [Oracle11安装和卸载教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=3&sn=eaf0503a06b96edc8368f5190d33637a&chksm=ebd740d1dca0c9c79eeb70dc2612cc8542d90ba0f0b3967fc5505c6364b09f8557de913835a8&scene=21#wechat_redirect)
-- [SqlServer安装和连接JDBC资料](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=4&sn=03e55de6586f8ac749995c288742fbf0&chksm=ebd740d1dca0c9c74fb455b33f97bec0c8c5836802e5bedb463cc3651ded45b945726aa198d8&scene=21#wechat_redirect)
+- [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=1&sn=ea1c06f0852d3bca3b98b64d8589598e&chksm=ebd740d1dca0c9c77ed1bb07a96bd0fbe147a13515797cf71597de821dbe3357e3eef5f741dc&scene=21#wechat_redirect)
+- [数据库两大神器【索引和锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=1&sn=410dea1863ba823bec802769e1e6fe8a&chksm=ebd74430dca0cd265a9a91dcb2059e368f43a25f3de578c9dbb105e1fba0947e1fd0b9c2f4ef&token=1676899695&lang=zh_CN#rd)
+- [面试前必须知道的MySQL命令【expalin】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484461&idx=2&sn=5469534e2f370aba86c3a24a2ff52b70&chksm=ebd7452cdca0cc3ad456d695a78f48e72c245f85b4afb210fb7b62218e89785d964d72ec4891&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [数据库原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=4&sn=5c0522bdc0f0ea8946354c9c633fe1d7&chksm=ebd740dbdca0c9cd6ba6b332f753b6472c4e32d9f79b3d8a062b8b2ddab650bd21b616bf3a99&scene=21#wechat_redirect)
 - [Oracle总结【SQL细节、多表查询、分组查询、分页】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=1&sn=e54943e5abbbe1b98ee7aeaf12c685ad&chksm=ebd740dbdca0c9cdd3f943f6b28efb70603f84b9bc2af0aa8a4143468a0a325cac58b319b52f&scene=21#wechat_redirect)
 - [Oracle总结【视图、索引、事务、用户权限、批量操作】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=2&sn=875f073fe972cef7e1f02d111f1dfc96&chksm=ebd740dbdca0c9cdfc84a483134f7ad99d6dc8ebb15ddaa8e04ac37025417cf3f84c3169a248&scene=21#wechat_redirect)
 - [Oracle总结【PLSQL学习】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=3&sn=dfaf9fe2eb2675fa0873548f95105fad&chksm=ebd740dbdca0c9cdf2e77187fa86f24b785208ce197d80eb3abe9ea952e9f40b9c780a31a950&scene=21#wechat_redirect)
-- [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=1&sn=ea1c06f0852d3bca3b98b64d8589598e&chksm=ebd740d1dca0c9c77ed1bb07a96bd0fbe147a13515797cf71597de821dbe3357e3eef5f741dc&scene=21#wechat_redirect)
-- [数据库两大神器【索引和锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=1&sn=410dea1863ba823bec802769e1e6fe8a&chksm=ebd74430dca0cd265a9a91dcb2059e368f43a25f3de578c9dbb105e1fba0947e1fd0b9c2f4ef&token=1676899695&lang=zh_CN#rd)
-- [面试前必须知道的MySQL命令【expalin】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484461&idx=2&sn=5469534e2f370aba86c3a24a2ff52b70&chksm=ebd7452cdca0cc3ad456d695a78f48e72c245f85b4afb210fb7b62218e89785d964d72ec4891&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
+- [Mysql免安装配置教程（图文版)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=2&sn=d894e869f574201bddc88add79808a33&chksm=ebd740d1dca0c9c7ac76f62b721711b471d7cd9ef1ba3ff539e2f4bafe45186e4c6278002b1f&scene=21#wechat_redirect)
+- [Oracle11安装和卸载教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=3&sn=eaf0503a06b96edc8368f5190d33637a&chksm=ebd740d1dca0c9c79eeb70dc2612cc8542d90ba0f0b3967fc5505c6364b09f8557de913835a8&scene=21#wechat_redirect)
+- [SqlServer安装和连接JDBC资料](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=4&sn=03e55de6586f8ac749995c288742fbf0&chksm=ebd740d1dca0c9c74fb455b33f97bec0c8c5836802e5bedb463cc3651ded45b945726aa198d8&scene=21#wechat_redirect)
 
   
 
@@ -143,8 +143,8 @@
 
 # **JavaWeb小项目** #
 
-- [文件上传和下载](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483727&idx=1&sn=87db212ac7e2590c57749a9857028f14&chksm=ebd7404edca0c9583fb3074d6827952bbfb5335c13e236719cde573e52bfe89e85e133755ab3&scene=21#wechat_redirect)
-- [Web开发模式【Mode I 和Mode II的介绍、应用案例】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483775&idx=1&sn=c9d7ead744c6e0c3ab2fe55c09bbe61f&chksm=ebd7407edca0c9688f3870d895b760836101271b912899821fb35c5704fe215da2fc5daff2f9&scene=21#wechat_redirect)
+- [【JavaWeb基础】文件上传和下载](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485101&idx=2&sn=e738f334ced7497393ef56bcbad21d21&chksm=ebd747acdca0ceba2a543347f93c112f0993fa3358751cb0c281f88d6f29dc66a972093f2038&token=1741918942&lang=zh_CN#rd)
+- [【JavaWeb基础】Web开发模式](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485101&idx=3&sn=2ff12012cd184e92b09d448637a8f85e&chksm=ebd747acdca0ceba68d5ce9ea66f2da5821491f411a3ef839cf17f6f308aa6663db783e85f46&token=1741918942&lang=zh_CN#rd)
 - [用户登陆注册【JDBC版】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483779&idx=1&sn=e23e68e96123b9e218c95f808b8a8237&chksm=ebd74082dca0c994255135fbd39e955a53101dbc3c3ecc9ee2f5d9862a76ad6caadb0a840414&scene=21#wechat_redirect)
 - [购物车案例【简单版】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483784&idx=1&sn=415e61a892a2f50086256fc5823bee28&chksm=ebd74089dca0c99f87a35776273bcd19ee41679a901b5172b066a89a91d279686c6683c03dac&scene=21#wechat_redirect)
 - [客户关系管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483788&idx=1&sn=09b9039f602217cd1a780fe1e5016e5e&chksm=ebd7408ddca0c99bb2c43b8a26f8074abfeb5b1aeae6d4d9a2b14e9222bf42ef63c38334243c&scene=21#wechat_redirect)
