@@ -140,5 +140,35 @@ source ~/.zshrc
 
 
 
+**自动提示命令**：
+
+
+
+```bash
+// 下载插件
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+// 打开~/.zshrc
+vim ~/.zshrc
+
+// 在插件一栏加入插件
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions )
+
+// 另配置生效：
+source ~/.zshrc
+```
+
+
+
+最后配置文件的样子；
+
+
+
+![](https://ws2.sinaimg.cn/large/006tNc79ly1g2a9nkedynj313m0ei774.jpg)
+
+
+
+
+
 更多的工具：https://python-web-guide.readthedocs.io/zh/latest/codingtools/codingtools.html
 
