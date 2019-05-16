@@ -4,6 +4,7 @@
 - [思维导图](mindmap.md)
 - [2018快速学Java](learnjava.md)
 - [程序员可技术博客平台](blogplatform.md)
+- [可以提高程序员效率的工具！](https://segmentfault.com/a/1190000018993259)
 
 
 # 如果觉得还不错： #

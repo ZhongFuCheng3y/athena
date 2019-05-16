@@ -42,9 +42,9 @@
 
 ## :microscope:进阶 ##
 
-| :flags:ZooKeeper | :lollipop:消息队列 |  :bow:机器学习 | 
-| :------:| :------: |  :------: | 
-| [ZooKeeper](src/zk.md) | [消息队列](src/mq.md) | [机器学习](src/machinelearning.md) |
+| :flags:ZooKeeper | :lollipop:消息队列 |  :bow:机器学习 |  :art:单点登录 | 
+| :------:| :------: |  :------: | :------: | 
+| [ZooKeeper](src/zk.md) | [消息队列](src/mq.md) | [机器学习](src/machinelearning.md) |[单点登录](https://segmentfault.com/a/1190000019205135) |
 
 
 

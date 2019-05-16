@@ -9,6 +9,7 @@
 - [Shiro入门这篇就够了【Shiro的基础知识、回顾URL拦截】](https://segmentfault.com/a/1190000013875092)
 - [Shiro【授权、整合Spirng、Shiro过滤器】](https://segmentfault.com/a/1190000013895436)
 - [Shiro【授权过滤器、与ehcache整合、验证码、记住我】](https://segmentfault.com/a/1190000013906006)
+- [什么是单点登录(SSO)](https://segmentfault.com/a/1190000019205135)
 
 
 ![](https://i.imgur.com/fQWHX1l.jpg)
