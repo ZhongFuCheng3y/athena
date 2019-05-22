@@ -4,7 +4,6 @@
 - 分库分表：[https://zhuanlan.zhihu.com/p/31848634](https://zhuanlan.zhihu.com/p/31848634)
 - mycat分库分表：[https://zhuanlan.zhihu.com/p/36575036](https://zhuanlan.zhihu.com/p/36575036)
 - 大众点评订单系统分库分表实践[https://zhuanlan.zhihu.com/p/24036067](https://zhuanlan.zhihu.com/p/24036067)
-- 数据库主从复制，读写分离，负载均衡，分库分表分别表达的什么概念？：[https://www.zhihu.com/question/64597252/answer/223085526](https://www.zhihu.com/question/64597252/answer/223085526)
 - 分布式事务1：[https://www.cnblogs.com/wuyoucao/p/9362974.html](https://www.cnblogs.com/wuyoucao/p/9362974.html)
 - git使用：[https://www.cnblogs.com/running-runtu/p/9399612.html](https://www.cnblogs.com/running-runtu/p/9399612.html)
 - IOC循环依赖：[https://www.cnblogs.com/nullllun/p/9154133.html](https://www.cnblogs.com/nullllun/p/9154133.html)
