@@ -8,7 +8,7 @@
 # Java基础 #
 
 - Java马士兵：链接：[https://pan.baidu.com/s/1jJRvxGi](https://pan.baidu.com/s/1jJRvxGi)密码：v3xb
-- Java毕向东：到往B站找，已上传到B站(Java3y)
+- Java毕向东：可以到往B站找，已上传到B站
 - Java刘意：链接：[https://pan.baidu.com/s/1kVZQCqr](https://pan.baidu.com/s/1kVZQCqr)密码：34lw
 - JavaSE基础：链接：[https://pan.baidu.com/s/1FGUKwY30T_A3cmAikIzPQQ](https://pan.baidu.com/s/1FGUKwY30T_A3cmAikIzPQQ) 密码：st7h
 - Java数据结构：链接：[https://pan.baidu.com/s/1mjv3ovu](https://pan.baidu.com/s/1mjv3ovu)密码：bx0s 
