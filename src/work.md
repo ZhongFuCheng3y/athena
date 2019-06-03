@@ -5,6 +5,7 @@
 - [【Java】广州三本秋招经历](https://segmentfault.com/a/1190000016764514)
 - [2018再见|2019你好](https://segmentfault.com/a/1190000017709800)
 - [嗯，我来杭州了。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484879&idx=1&sn=d048367a8fefdddb860d832a96bdbb0a&chksm=ebd744cedca0cdd8818c4bd6bf47244f67cdbd1587793245a21306c95541c5ee713b2a74d120#rd)
+- [近况](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485265&idx=1&sn=ac4c4b6c854991b963e9acb65b664ef0&chksm=ebd74650dca0cf46cbe7f7cd40b2fc617eab686a8feffbd7074e230dc202988fefd64cf2250a&token=1424412820&lang=zh_CN#rd)
 
 
 
