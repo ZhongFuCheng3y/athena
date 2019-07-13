@@ -1,9 +1,9 @@
-# :sparkling_heart:说明 #
+## :sparkling_heart:说明 ##
 
 > 该仓库作为我的文章导航页面，文章均为**原创**，记录了我学习编程的点点滴滴，希望可以帮助到大家，共同进步 !
 
 
-## :coffee:Java基础 ##
+### :coffee:Java基础 ###
 
 > Java基础文章：没写系列文章的都放在了《Java基础》链接中。Java面试题则是一些零散但常见的面试题
 
@@ -12,7 +12,7 @@
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 
 
-## :page_facing_up:JavaWeb技术 ##
+### :page_facing_up:JavaWeb技术 ###
 
 | :ledger:Servlet+Tomcat | :microscope:JSP | :ring:JDBC | :tshirt:XML和JSON |:ribbon:过滤器和监听器 |:rice:Web前端 |:ramen:AJAX |:hamburger:Web小项目 |
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |
@@ -20,7 +20,7 @@
 
 
 
-## :pencil:数据库 ##
+### :pencil:数据库 ###
 
 
 > 关系型数据库文章以MySQL为主
@@ -31,7 +31,7 @@
 
 
 
-## :mega:JavaEE框架 ##
+### :mega:JavaEE框架 ###
 
 > 常用的框架包括SpringBoot、SpringDataJPA、SpringCloud、Shiro、Activiti等等。下面的列出项目源码都可以在我的GitHub仓库里找到
 
@@ -40,15 +40,15 @@
 | [Hibernate](src/hibernate.md) | [Struts2](src/struts2.md) | [Mybatis](src/mybatis.md) |[Spring&SpringMVC](src/spring&springmvc.md) |[SSH和SSM项目](src/ssh&ssmproject.md) |[常用JavaEE框架](src/frame.md) |[个人项目](src/personalproject.md) |
 
 
-## :microscope:进阶 ##
+### :microscope:进阶 ###
 
-| :flags:ZooKeeper | :lollipop:消息队列 |  :bow:机器学习 |  :art:单点登录 | 
-| :------:| :------: |  :------: | :------: | 
-| [ZooKeeper](src/zk.md) | [消息队列](src/mq.md) | [机器学习](src/machinelearning.md) |[单点登录](https://segmentfault.com/a/1190000019205135) |
+| :flags:ZooKeeper | :lollipop:消息队列 |  :bow:机器学习 |  :art:单点登录 |  :file_folder:分布式 | 
+| :------:| :------: |  :------: | :------: | :------: | 
+| [ZooKeeper](src/zk.md) | [消息队列](src/mq.md) | [机器学习](src/machinelearning.md) |[单点登录](https://segmentfault.com/a/1190000019205135) |[分布式](https://segmentfault.com/a/1190000019205135) |
 
 
 
-## :tophat:数据结构与算法 ##
+### :tophat:数据结构与算法 ###
 
 > 排序/算法/数据结构基础，详情代码在https://github.com/ZhongFuCheng3y/JavaArithmetic
 
@@ -57,7 +57,7 @@
 | [八大基础排序](src/sort.md) | [数据结构基础](src/datastruct.md) | [基础算法](src/algorithm.md) | 
 
 
-## :christmas_tree:计算机基础 ##
+### :christmas_tree:计算机基础 ###
 
 > 工具使用：包括Docker、IDEA、Maven、UML、SVN、以及一些其他工具
 
@@ -67,31 +67,31 @@
 
 
 
-## :lollipop:其他 ##
+### :lollipop:其他 ###
  
 
 | :file_folder:成长历程| :art: 资源分享(视频、脑图、路线等等) | :bell:微信文章导航 | 
 | :------:| :------:|  :------:| 
 | [成长历程](src/work.md) | [资源分享(视频、脑图、路线等等)](src/resources.md) | [微信文章导航](src/weixin.md)  | 
 
-# 如果觉得还不错： #
+### 如果觉得还不错： ###
 
 关注公众号：Java3y推送最新的**干货**技术文章，进入公众号回复“1”加入**Java交流群**！
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
 
 
-# :sparkling_heart:坚持原创不易，给博主加鸡腿 #
+加微信，回复“1”加入交流群：
+
+
+![](https://user-gold-cdn.xitu.io/2019/7/13/16be9f6350187ae2?w=564&h=786&f=png&s=156728)
+
+
+
+#### :sparkling_heart:坚持原创不易，给博主加鸡腿 ####
 
 
 如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，**有优惠**！)
 
 - https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
-
-
-
-支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
-
-
-![](https://user-gold-cdn.xitu.io/2018/11/18/16726109849ec9ec?w=567&h=852&f=jpeg&s=76745)
 

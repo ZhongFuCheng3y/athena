@@ -9,25 +9,24 @@
 - [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe#rd)
 - [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79#rd)
 
-# 如果觉得还不错： #
+### 如果觉得还不错： ###
 
-关注公众号：Java3y推送最新的**原创**技术文章，进入公众号回复“1”加入**Java交流群**！
+关注公众号：Java3y推送最新的**干货**技术文章，进入公众号回复“1”加入**Java交流群**！
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
 
 
-# :sparkling_heart:坚持原创不易，给博主加鸡腿 #
+加微信，回复“1”加入交流群：
 
 
-如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，有优惠！)
+![](https://user-gold-cdn.xitu.io/2019/7/13/16be9f6350187ae2?w=564&h=786&f=png&s=156728)
+
+
+
+#### :sparkling_heart:坚持原创不易，给博主加鸡腿 ####
+
+
+如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，**有优惠**！)
 
 - https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
-
-
-
-支付宝领红包，保存在手机上，每天扫一扫，每天都可以领一次哦~
-
-
-![](https://user-gold-cdn.xitu.io/2018/11/18/16726109849ec9ec?w=567&h=852&f=jpeg&s=76745)
-
 
