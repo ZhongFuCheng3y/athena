@@ -4,12 +4,12 @@
 
 关注公众号：Java3y推送最新的**干货**技术文章
 
-- :art:海量视频资源， 回复  视频
-- :bell:Java精美脑图，回复  脑图
-- :clipboard:Java学习路线，回复  路线
-- :sound:开发常用工具， 回复  工具
-- :video_camera:我的联系方式， 回复   1
-- :beer:加交流群学习， 回复   2
+- :art:获取海量视频资源， 回复          视频
+- :bell:获取Java精美脑图，回复         脑图
+- :clipboard:获取Java学习路线，回复    路线
+- :sound:获取开发常用工具， 回复        工具
+- :video_camera:获取我的联系方式， 回复   1
+- :beer:加入交流群学习， 回复             2
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
 
