@@ -501,15 +501,16 @@
 - [如何给老婆解释什么是 Master-Slave](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485293&idx=1&sn=ccb6ab08eb64a3daa87a0518619bd8c0&chksm=ebd7466cdca0cf7a44000d562597ff4538a00fe9c18510d7e6e2f735faa0aec3322d13d2eeb4&token=1120664639&lang=zh_CN###rd)
 - [面试题：你的Redis怎么持久化的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485316&idx=1&sn=0e9977c178b29f8f71405d29d8d2aa35&chksm=ebd74685dca0cf9356183ab6571bd15860c0fc80b4c1fcf19aa9b799d28a4c4c58976a8651ba&token=1120664639&lang=zh_CN###rd)
 - [面试官:“谈谈Spring中都用到了那些设计模式?”。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485324&idx=1&sn=c1ee95e48a9554e5e02314e1563d2137&chksm=ebd7468ddca0cf9ba59f0196031b1c2842a4b1affd38d20519c481dc2bee3318d660f1f06479&token=1120664639&lang=zh_CN###rd)
+- [【生活现场】从搬家到容器技术docker应用场景解析](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484574&idx=1&sn=9ce4589efc377ba0f93e7513969164d9&chksm=ebd7459fdca0cc893f64895f536277bd4a024721b022382875197e87cc727495e4dd458ea337&token=1712662964&lang=zh_CN###rd)
+- [Kafka【入门】就这一篇!](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485435&idx=1&sn=8dc8fab7c9703c4c12cf020a90ba5e78&chksm=ebd746fadca0cfec5444dd863e2ca4e67c3f0e534355592a3833e832da8e7bf76a5f9c13a63f&token=2078489135&lang=zh_CN###rd)
+- [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485519&idx=1&sn=d14fe515be215dcfe033e0c312e7fabf&chksm=ebd7494edca0c05860c408f8eee174576afbff079f1b32b2c9f960f04d0fe8385bbad813aaab&token=2078489135&lang=zh_CN###rd)
 
 #### :file_folder:工具使用
 
 - [IDEA看源码的几个小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485087&idx=1&sn=94a546749e44133844678234cc1f52be&chksm=ebd7479edca0ce882b0883e42629ed8f2e5f7152e557194214b7c86d30d7b8676ed8797cd421&token=1755043505&lang=zh_CN###rd)
-- [【生活现场】从搬家到容器技术docker应用场景解析](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484574&idx=1&sn=9ce4589efc377ba0f93e7513969164d9&chksm=ebd7459fdca0cc893f64895f536277bd4a024721b022382875197e87cc727495e4dd458ea337&token=1712662964&lang=zh_CN###rd)
 - [如果还不懂Git和GitHub，瓜都吃不懂了！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485143&idx=1&sn=18658c3564aed6b814529a3ef26e55cf&chksm=ebd747d6dca0cec048eb8ac8f57da9ef6eb7c1e17276328b17d0e445b2a82fe4b0ed42a7b1f5&token=1230572157&lang=zh_CN###rd)
 - [在Intellij IDEA中如何使用Debug！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485246&idx=2&sn=1b76f0a2fca84d9106b9e9eb57b487c5&chksm=ebd7463fdca0cf293bb983b5cc0f31dfb2fca058be11e4c7a732d56220b551e4b5cc0474ec5e&token=1424412820&lang=zh_CN###rd)
-- [Kafka【入门】就这一篇!](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485435&idx=1&sn=8dc8fab7c9703c4c12cf020a90ba5e78&chksm=ebd746fadca0cfec5444dd863e2ca4e67c3f0e534355592a3833e832da8e7bf76a5f9c13a63f&token=2078489135&lang=zh_CN###rd)
-- [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485519&idx=1&sn=d14fe515be215dcfe033e0c312e7fabf&chksm=ebd7494edca0c05860c408f8eee174576afbff079f1b32b2c9f960f04d0fe8385bbad813aaab&token=2078489135&lang=zh_CN###rd)
+- [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485107&idx=1&sn=8903b905bc4e8df927ea1ad543f1afeb&chksm=ebd747b2dca0cea416308355a20306428c293a8f3c5304cf746631a1077f6be5d59990c7de6a&token=1741918942&lang=zh_CN###rd)
 
 
 
@@ -525,7 +526,6 @@
 #### :dollar:大数据+机器学习
 
 - [原来这就是MapReduce！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485090&idx=1&sn=76b3d85e594e0a8a89dfb93b4b3e4ca6&chksm=ebd747a3dca0ceb52408474d4da0963e0e58e54f54414feb996c65673d6eea834637a5bc1d56&token=1741918942&lang=zh_CN###rd)
-- [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485107&idx=1&sn=8903b905bc4e8df927ea1ad543f1afeb&chksm=ebd747b2dca0cea416308355a20306428c293a8f3c5304cf746631a1077f6be5d59990c7de6a&token=1741918942&lang=zh_CN###rd)
 - [【面试现场】如何设计可自学习的五子棋AI？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484524&idx=1&sn=909edb05fc4ed495deaf3fccf3d3022e&chksm=ebd7456ddca0cc7bd795396aec04054a9ccfd76c1c08709e46ee3bae252c1ce6378ba75b1bf4&token=1712662964&lang=zh_CN###rd)
 - [这是我看过最好的「机器学习」科普文章了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484911&idx=1&sn=fc2172d52ac306fab19f7c69c0e11718&chksm=ebd744eedca0cdf8012186adb1b4996802e5ba7eac058f50ca2f9184b1ca9e42c8a14e82096f###rd)
 - [神经网络浅讲：从神经元到深度学习](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484923&idx=1&sn=1c3637726478be04db55a91ba238e174&chksm=ebd744fadca0cdec7588e1886ea95ace662eacb0a59b149a3b34e8b79afa5b0e9208aca55e5f###rd)
