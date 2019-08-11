@@ -522,7 +522,7 @@
 - [通俗易懂讲解一条SQL是怎么执行的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485172&idx=1&sn=30cec1b746a4156c39a0ac3535e5205c&chksm=ebd747f5dca0cee3ae618dec83d49c3e7877fca68f8b83bd633a3f9349d4627ff8d495a42f7c&token=1230572157&lang=zh_CN###rd)
 - [MySQL的ACID原理！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485215&idx=1&sn=536d992835b4a40f7dc968acc5bea9c1&chksm=ebd7461edca0cf081bab56fb7b041331714f7d4849b605d8fb9390175f4a3eb7728a346ac02c&token=1230572157&lang=zh_CN###rd)
 - [MySQL知识点总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485341&idx=1&sn=3447d1843e65e6a6365dd1d2ddbdca3b&chksm=ebd7469cdca0cf8a89eed4a3858cb84b8a227283081058ad889351ee33926054db9e707cedac&token=1120664639&lang=zh_CN###rd)
-
+- [面试官:MySQL表设计要注意什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485433&idx=1&sn=bcee0eec2ebdfa465ba3322d13052c45&chksm=ebd746f8dca0cfeeb2025558475d1eb137eb7594aed18bc356582eb1df3171a898ae6b06e623&token=2078489135&lang=zh_CN###rd)
 #### :dollar:大数据+机器学习
 
 - [原来这就是MapReduce！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485090&idx=1&sn=76b3d85e594e0a8a89dfb93b4b3e4ca6&chksm=ebd747a3dca0ceb52408474d4da0963e0e58e54f54414feb996c65673d6eea834637a5bc1d56&token=1741918942&lang=zh_CN###rd)
@@ -543,4 +543,3 @@
 - [如何判断一个元素在亿级数据中是否存在？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484678&idx=1&sn=b96c29b0117d952174e85b3b132b202d&chksm=ebd74407dca0cd11cce0b1c2b6f18ee207c61ddef495def8b6a7fdf15fee3d2adfc7893d2edf###rd)
 - [【漫画】什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484986&idx=1&sn=cbf3c6fcbcca304c177a328f4a8d7043&chksm=ebd7473bdca0ce2d5fd254f967d873b6b3e4f8feba637835a3fa58e47b8205f5b94634a34751###rd)
 - [腾讯面试题：有了二叉查找树、平衡树为啥还需要红黑树？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485353&idx=1&sn=308d99460bf7e43440efd93cfb824c23&chksm=ebd746a8dca0cfbe2aef32eb74db0a53932b316bbfa25ab45ce25e9bf8e1fb81a4d1c39940c1&token=1120664639&lang=zh_CN###rd)
-- [面试官:MySQL表设计要注意什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485433&idx=1&sn=bcee0eec2ebdfa465ba3322d13052c45&chksm=ebd746f8dca0cfeeb2025558475d1eb137eb7594aed18bc356582eb1df3171a898ae6b06e623&token=2078489135&lang=zh_CN###rd)
