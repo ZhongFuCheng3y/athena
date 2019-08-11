@@ -11,6 +11,9 @@
 - [还在用Synchronized？Atomic你了解不？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484416&idx=1&sn=540c0714263f8ee8b80ba90535162657&chksm=ebd74501dca0cc179e66c34cf3fa647f18860c670b47b0612fac0cb2c26b6cb17ad6824f0808&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [《阿里巴巴 Java开发手册》读后感](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484402&idx=1&sn=786686c4d2abd958c535065de044701d&chksm=ebd742f3dca0cbe5f6f401e38391369f28287858125d52a1a169523dc4f9600e20335446a629&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
 - [JVM如何从入门到放弃的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=2&sn=73b2762abd8c54cdc8b6bb8b5692384b&chksm=ebd74430dca0cd262c0cd72509e8e9df71287eb74d3e3e56430934df7c60db38a78824a80a4a&token=1676899695&lang=zh_CN#rd)
+- [记一次愚蠢的操作--String不可变性](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485432&idx=1&sn=6a3b467e618bd3a2767313c63200fd28&chksm=ebd746f9dca0cfef26cb4e2f96cb973be9da4c534de5e6b9fd8da35c806b02875f2b0afe790d&token=2078489135&lang=zh_CN#rd)
+- [记一次愚蠢的操作--线程安全问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485489&idx=1&sn=665029df2cf4ed6731eff2eb6cb564a2&chksm=ebd74930dca0c0266925b862867d4fbb1aa9a378292b3aeb9111b1cecd0e34b2a00d44a9a628&token=2078489135&lang=zh_CN#rd)
+- [最近学到的前后端分离知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485503&idx=1&sn=26262a1d215a72ce223a638dc5a798ea&chksm=ebd7493edca0c028faa8abce0814e6f1a9a12f602b43ba156bf4db8375cff9acaa5bc289fb34&token=2078489135&lang=zh_CN#rd)
 
   
 
@@ -105,6 +108,8 @@
 
 # **数据库** #
 
+
+- [在工作中常用到的SQL](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485472&idx=1&sn=5ddf518cb23e7dcbdf697085a9736377&chksm=ebd74921dca0c03769baf0aa76ce44b8e52c61facc12223fb9ff67203e6b1c87f4d1b43e4b29&token=2078489135&lang=zh_CN#rd)
 - [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=1&sn=ea1c06f0852d3bca3b98b64d8589598e&chksm=ebd740d1dca0c9c77ed1bb07a96bd0fbe147a13515797cf71597de821dbe3357e3eef5f741dc&scene=21#wechat_redirect)
 - [数据库两大神器【索引和锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=1&sn=410dea1863ba823bec802769e1e6fe8a&chksm=ebd74430dca0cd265a9a91dcb2059e368f43a25f3de578c9dbb105e1fba0947e1fd0b9c2f4ef&token=1676899695&lang=zh_CN#rd)
 - [面试前必须知道的MySQL命令【expalin】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484461&idx=2&sn=5469534e2f370aba86c3a24a2ff52b70&chksm=ebd7452cdca0cc3ad456d695a78f48e72c245f85b4afb210fb7b62218e89785d964d72ec4891&token=620000779&lang=zh_CN&scene=21#wechat_redirect)
@@ -356,6 +361,7 @@
 
 # **Web前端** #
 
+- [最近学到的前后端分离知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485503&idx=1&sn=26262a1d215a72ce223a638dc5a798ea&chksm=ebd7493edca0c028faa8abce0814e6f1a9a12f602b43ba156bf4db8375cff9acaa5bc289fb34&token=2078489135&lang=zh_CN#rd)
 - [Javascript面向对象入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483815&idx=1&sn=e8bba1c65e6e453e4d943743216ff254&chksm=ebd740a6dca0c9b08ab916d0fed8929da216c4207ce54988b59e2241b738676b9e61256dcce0&scene=21#wechat_redirect)
 - [DOM编程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485225&idx=2&sn=456a67450369568742325c3831cc938d&chksm=ebd74628dca0cf3ec0118ffdcf208b3842fb9b445bc05071bc2b786ce0eb08d32b889d29baae&token=1230572157&lang=zh_CN#rd)
 - [Jquery就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485212&idx=2&sn=fe3183b3f5373c954ff53cd6be84e7c3&chksm=ebd7461ddca0cf0b91080667eef599a355c219b2de422bfc7465ee0950caa91b250e11586855&token=1230572157&lang=zh_CN#rd)
@@ -372,6 +378,8 @@
 - [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
 - [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21#wechat_redirect)
 - [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21#wechat_redirect)[Linux](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21#wechat_redirect)
+- [工作中常用到的Linux命令](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485440&idx=1&sn=85b40c173d66b62b3e870dd0e095c72c&chksm=ebd74901dca0c01727ed2cff30acc5d39948eda5bf4252f1d96526f951591f69edcfccbbad29&token=2078489135&lang=zh_CN#rd)
+
 
 # **操作系统** #
 
@@ -488,6 +496,16 @@
 - [硬核干货长文！Hbase来了解一下不？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485390&idx=1&sn=3d2ee4b5e0b94d8a88368e98aae24284&chksm=ebd746cfdca0cfd9ce76725501a4e6e384cd11aa2f2e769475d34c513382ad623df71548c68a&token=1120664639&lang=zh_CN#rd)
 - [什么是列式存储？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485401&idx=1&sn=7db59bcaaa5782cdf3f529b0e33523ef&chksm=ebd746d8dca0cfce6c9b32c70061fc1157701d1b4c528f1fa89cdda260cbdff77f7e56045139&token=1120664639&lang=zh_CN#rd)
 - [进程之间究竟有哪些通信方式？ ---- 告别死记硬背](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485408&idx=1&sn=5203c7062f9e713c09d4f61b6fe4a545&chksm=ebd746e1dca0cff72304321b13779aad797f6a3c736bd552c399edd4adecbe27b5b4bd5d75c9&token=1120664639&lang=zh_CN#rd)
+- [大佬准备了一年时间拿到今日头条offer](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485413&idx=1&sn=38b1993abb3d2fd0c213da436570130f&chksm=ebd746e4dca0cff29eb0298ec2e11de1d24f00bd78fabf69bf4805e147701f3af013d0033981&token=2078489135&lang=zh_CN#rd)
+- [面试官:MySQL表设计要注意什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485433&idx=1&sn=bcee0eec2ebdfa465ba3322d13052c45&chksm=ebd746f8dca0cfeeb2025558475d1eb137eb7594aed18bc356582eb1df3171a898ae6b06e623&token=2078489135&lang=zh_CN#rd)
+- [Kafka【入门】就这一篇!](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485435&idx=1&sn=8dc8fab7c9703c4c12cf020a90ba5e78&chksm=ebd746fadca0cfec5444dd863e2ca4e67c3f0e534355592a3833e832da8e7bf76a5f9c13a63f&token=2078489135&lang=zh_CN#rd)
+- [他怎么追个剧都能看出「大数据」来？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485445&idx=1&sn=d0b3d1e9e5511d0d0eb1379fa594c251&chksm=ebd74904dca0c012f816948d40e4fd9aeb3beb7212b2a6f544eeca4051b8fb7b8c040b4aed7f&token=2078489135&lang=zh_CN#rd)
+- [趣谈Hbase架构](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485451&idx=1&sn=370a6d8508b8501c3d0aafdfd2857a44&chksm=ebd7490adca0c01ca051b3ac7746f975a75894308f2d0ecf042a016711209e18c6df20233fa0&token=2078489135&lang=zh_CN#rd)
+- [Arrays.asList()原来是这样用的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485456&idx=1&sn=631fbd6150121eee970ae3c9ea8fcf1e&chksm=ebd74911dca0c007b1c8694e00a00b7eda3a666843da7e03eb56bfaf7e5098aaff9ea756b66d&token=2078489135&lang=zh_CN#rd)
+- [Github上有哪些Java面试/学习相关的仓库推荐?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485482&idx=1&sn=e8dbe8e92378b7cc623e8ae9aaf3e8e4&chksm=ebd7492bdca0c03deac964fc41a9bdd41ccc9f1b9caeeb9164bb5417bbb98c2acc1b85334b85&token=2078489135&lang=zh_CN#rd)
+- [Java8中的流操作-基本使用&性能测试](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485508&idx=2&sn=a686a128ccbcfa1fcc000d8b9de14155&chksm=ebd74945dca0c05378c3083c6efda294ea11db25705436d08a6d6af4e82993cac99804ee1553&token=2078489135&lang=zh_CN#rd)
+- [学习什么是CDN](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485514&idx=1&sn=686a0afa2f6ed9fcf2d19dca8c71f559&chksm=ebd7494bdca0c05d6573156947ece250c326c6b65a68547379e36e794e95fa136246cb14d7ab&token=2078489135&lang=zh_CN#rd)
+- [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485519&idx=1&sn=d14fe515be215dcfe033e0c312e7fabf&chksm=ebd7494edca0c05860c408f8eee174576afbff079f1b32b2c9f960f04d0fe8385bbad813aaab&token=2078489135&lang=zh_CN#rd)
 
 
 
