@@ -30,6 +30,7 @@
 - [记一次愚蠢的操作--String不可变性](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485432&idx=1&sn=6a3b467e618bd3a2767313c63200fd28&chksm=ebd746f9dca0cfef26cb4e2f96cb973be9da4c534de5e6b9fd8da35c806b02875f2b0afe790d&token=2078489135&lang=zh_CN###rd)
 - [记一次愚蠢的操作--线程安全问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485489&idx=1&sn=665029df2cf4ed6731eff2eb6cb564a2&chksm=ebd74930dca0c0266925b862867d4fbb1aa9a378292b3aeb9111b1cecd0e34b2a00d44a9a628&token=2078489135&lang=zh_CN###rd)
 - [最近学到的前后端分离知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485503&idx=1&sn=26262a1d215a72ce223a638dc5a798ea&chksm=ebd7493edca0c028faa8abce0814e6f1a9a12f602b43ba156bf4db8375cff9acaa5bc289fb34&token=2078489135&lang=zh_CN###rd)
+- [小白入门学习打日志](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485532&idx=1&sn=4d64fba2114aa938f0076d604f3ad080&chksm=ebd7495ddca0c04b0bc738fb0f081e1192230546af56dff374366ab5b54a2af5587a71c386d8&token=1643292024&lang=zh_CN#rd)
 
   
 
