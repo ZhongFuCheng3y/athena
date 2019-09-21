@@ -31,6 +31,8 @@
 - [记一次愚蠢的操作--线程安全问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485489&idx=1&sn=665029df2cf4ed6731eff2eb6cb564a2&chksm=ebd74930dca0c0266925b862867d4fbb1aa9a378292b3aeb9111b1cecd0e34b2a00d44a9a628&token=2078489135&lang=zh_CN###rd)
 - [最近学到的前后端分离知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485503&idx=1&sn=26262a1d215a72ce223a638dc5a798ea&chksm=ebd7493edca0c028faa8abce0814e6f1a9a12f602b43ba156bf4db8375cff9acaa5bc289fb34&token=2078489135&lang=zh_CN###rd)
 - [小白入门学习打日志](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485532&idx=1&sn=4d64fba2114aa938f0076d604f3ad080&chksm=ebd7495ddca0c04b0bc738fb0f081e1192230546af56dff374366ab5b54a2af5587a71c386d8&token=1643292024&lang=zh_CN#rd)
+- [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
+- [最近学到的限流知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485652&idx=1&sn=dbcc843869bd94228cb71980cd84cc8c&chksm=ebd749d5dca0c0c30c0b11c0535005a9def3c66aa3f5c56d816256122b53f367de5f5ba6a6c3&token=1948873548&lang=zh_CN#rd)
 
   
 
@@ -439,6 +441,7 @@
 - [在公司做的项目和自己在学校做的有什么区别？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485368&idx=1&sn=59742409160a103eddaa6ca187a77256&chksm=ebd746b9dca0cfaffd61b35a810d806f7eea67c5a0dec820ae65be093d81abf49ac19ab1248b&token=1120664639&lang=zh_CN###rd)
 - [互联网/电商/广告常见的术语](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485378&idx=1&sn=801ec71dd44b1fc6099379e6e5acc8b8&chksm=ebd746c3dca0cfd55e4db80f2f6129244583c3ec2656604b33e2c228790e719d53b3df6c7101&token=1120664639&lang=zh_CN###rd)
 - [程序员的快乐就是这么朴素无华且枯燥](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485383&idx=1&sn=04cb857dc5636b28ecdaf51221e5798f&chksm=ebd746c6dca0cfd0f87ff338f09a0e3a102a729f503090a3305a2bad0ba7270503ea0c8fe39c&token=1120664639&lang=zh_CN###rd)
+- [带你了解什么是Push消息推送](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485591&idx=1&sn=0c7da1e2adf80a635f7822a7defc18c5&chksm=ebd74996dca0c080e28cf92e789b6ae660ae8fa986fda7e8d18682bb90d9ec0037a2ade29595&token=1948873548&lang=zh_CN#rd)
 
 ###  :lollipop:推荐阅读  ###
 
@@ -454,6 +457,11 @@
 - [大佬准备了一年时间拿到今日头条offer](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485413&idx=1&sn=38b1993abb3d2fd0c213da436570130f&chksm=ebd746e4dca0cff29eb0298ec2e11de1d24f00bd78fabf69bf4805e147701f3af013d0033981&token=2078489135&lang=zh_CN###rd)
 - [地哥的腾讯面试经历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485180&idx=1&sn=708552984444508ae12fc831c8392197&chksm=ebd747fddca0ceeb9645b89daa605af4e98a6cca4532e10e6d342239774c3631b6c73343e2de&token=1230572157&lang=zh_CN###rd)
 - [Github上有哪些Java面试/学习相关的仓库推荐?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485482&idx=1&sn=e8dbe8e92378b7cc623e8ae9aaf3e8e4&chksm=ebd7492bdca0c03deac964fc41a9bdd41ccc9f1b9caeeb9164bb5417bbb98c2acc1b85334b85&token=2078489135&lang=zh_CN###rd)
+- [JAVA面试解析（有赞一面）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485600&idx=1&sn=92d6a67521b55d8a1b9bea5c8e64645e&chksm=ebd749a1dca0c0b701d82f2493fc81f9a5e64f7228c84a199dd42f369687b1500e319b6234f7&token=1948873548&lang=zh_CN#rd)
+- [JAVA面试解析(有赞二面)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485605&idx=1&sn=45c337508ca68f4da87b77e0e76cb857&chksm=ebd749a4dca0c0b2dd942d528357330387869cc3dcee7d9ca123f32581db73712059f0a847fd&token=1948873548&lang=zh_CN#rd)
+- [美团超详细面经（附答案）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485636&idx=1&sn=3ab554f1c7e9745bf033d89577dfaa2b&chksm=ebd749c5dca0c0d3874ead44f3a03d7bd88ae1dbba7ab2828fc966598a85d7a4aaeeee5ca1be&token=1948873548&lang=zh_CN#rd)
+- [蚂蚁金服2019实习生面经总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485662&idx=1&sn=71e30024290297c083c2b9ee1ee9c091&chksm=ebd749dfdca0c0c9a61c402565d62c2e61030ba9ace8213356fa7ac4fc454cd6001863a45781&token=1948873548&lang=zh_CN#rd)
+
 
 #### :clipboard:基础
 
@@ -494,6 +502,14 @@
 - [Arrays.asList()原来是这样用的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485456&idx=1&sn=631fbd6150121eee970ae3c9ea8fcf1e&chksm=ebd74911dca0c007b1c8694e00a00b7eda3a666843da7e03eb56bfaf7e5098aaff9ea756b66d&token=2078489135&lang=zh_CN###rd)
 - [Java8中的流操作-基本使用&性能测试](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485508&idx=2&sn=a686a128ccbcfa1fcc000d8b9de14155&chksm=ebd74945dca0c05378c3083c6efda294ea11db25705436d08a6d6af4e82993cac99804ee1553&token=2078489135&lang=zh_CN###rd)
 - [学习什么是CDN](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485514&idx=1&sn=686a0afa2f6ed9fcf2d19dca8c71f559&chksm=ebd7494bdca0c05d6573156947ece250c326c6b65a68547379e36e794e95fa136246cb14d7ab&token=2078489135&lang=zh_CN###rd)
+- [Java学习必备书籍推荐](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485554&idx=1&sn=bacfb79abe5239f7a5bc336424091ae9&chksm=ebd74973dca0c0655a03c406f8232ca9cc99428d778b9a7e0a2fd78e30fd247f00b98361b8a2&token=1948873548&lang=zh_CN#rd)
+- [面试必考的HashMap](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485559&idx=1&sn=7fc04fb783f5b5da11abb33178735cca&chksm=ebd74976dca0c06018f0e4c24fffc336859e244e1b8e956db5c1aaef02f8bccbcea22846f3ff&token=1948873548&lang=zh_CN#rd)
+- [从"锟斤拷"到字符编码](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485586&idx=1&sn=fc5d767da3672ccfc8167fc45b62c7e4&chksm=ebd74993dca0c0856147664a170e2cc93c388c59304fb51077fdafe6d410ee16d61487166315&token=1948873548&lang=zh_CN#rd)
+- [《代码整洁之道》读书笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485672&idx=1&sn=562ae843aa2220357495cc487d6846dd&chksm=ebd749e9dca0c0ff88778bc2d6dee6ec2173505872d37a38e1e07d088602330063c4fc61e67d&token=1948873548&lang=zh_CN#rd)
+- [Java集合必会14问（精选面试题整理）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485685&idx=2&sn=b393e444487c88e8c204821faddff370&chksm=ebd749f4dca0c0e257e15c656f4504f224456495ad78e8aeb9ea370214ebd4b5c455b15e6045&token=1948873548&lang=zh_CN#rd)
+- [【面试必备】手撕代码，你怕不怕？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485701&idx=1&sn=3f7325e18278f640b52b8b1b427fdb11&chksm=ebd74804dca0c11222aa3969a18e11c79ce5b886332b90e1df1823c945944a6ca796448afa94&token=1948873548&lang=zh_CN#rd)
+- [为什么阿里巴巴建议开发者谨慎使用继承？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485702&idx=2&sn=23796484d0dc71de663a96f17cdca190&chksm=ebd74807dca0c111508320e5765462eb147270d144b99f598020d8422905164cd1b37b59cb5d&token=1948873548&lang=zh_CN#rd)
+
 
 #### :egg:项目/框架/中间件
 
@@ -505,6 +521,14 @@
 - [【生活现场】从搬家到容器技术docker应用场景解析](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484574&idx=1&sn=9ce4589efc377ba0f93e7513969164d9&chksm=ebd7459fdca0cc893f64895f536277bd4a024721b022382875197e87cc727495e4dd458ea337&token=1712662964&lang=zh_CN###rd)
 - [Kafka【入门】就这一篇!](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485435&idx=1&sn=8dc8fab7c9703c4c12cf020a90ba5e78&chksm=ebd746fadca0cfec5444dd863e2ca4e67c3f0e534355592a3833e832da8e7bf76a5f9c13a63f&token=2078489135&lang=zh_CN###rd)
 - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485519&idx=1&sn=d14fe515be215dcfe033e0c312e7fabf&chksm=ebd7494edca0c05860c408f8eee174576afbff079f1b32b2c9f960f04d0fe8385bbad813aaab&token=2078489135&lang=zh_CN###rd)
+- [Spring事务“套路”面试](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485571&idx=1&sn=0232f69f5b3767948e7b81f3c0112065&chksm=ebd74982dca0c0940276786fd5e5e59703c3f246624572679e199307542ac22dec678d5e7d29&token=1948873548&lang=zh_CN#rd)
+- [手把手搭建WebSocket多人在线聊天室](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485578&idx=1&sn=eac39f010b8c2be949e0daae770fd7ae&chksm=ebd7498bdca0c09d2dad0af154f53d2aa2c9a0cce6602d1814346257f74583ab5b7fbd2b7eb9&token=1948873548&lang=zh_CN#rd)
+- [【多人聊天室】WebSocket集群/分布式改造](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485578&idx=2&sn=2a5f586c680fb83a9472322c53c74e72&chksm=ebd7498bdca0c09dd53af942592fa50642d766c3363a01abbb134f42999932f40ad171cae9e5&token=1948873548&lang=zh_CN#rd)
+- [【WebSocket】实时多人答题对战游戏](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485649&idx=2&sn=5e02f1363975d0fbd965f438ca175656&chksm=ebd749d0dca0c0c690e534dbf8f03cbd44a3b66bfc03226a0105a1adef6ea38a8483e1ddd365&token=1948873548&lang=zh_CN#rd)
+- [如何构建一套高可用的移动消息推送平台？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485655&idx=2&sn=382a210af396a21b2e183463064e158d&chksm=ebd749d6dca0c0c09b4573c95af9dae27abec7e5e06d97f44ef964d9a15ff08d9af58d731df2&token=1948873548&lang=zh_CN#rd)
+- [如何给老婆解释什么是Restful](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485706&idx=1&sn=6d07964e7c994c7f82a5c5950d105301&chksm=ebd7480bdca0c11de2032045ab386cfb2d06e0a0456ccd936305505a74b38df77fe5f851c1a4&token=1948873548&lang=zh_CN#rd)
+
+
 
 #### :file_folder:工具使用
 
@@ -512,6 +536,7 @@
 - [如果还不懂Git和GitHub，瓜都吃不懂了！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485143&idx=1&sn=18658c3564aed6b814529a3ef26e55cf&chksm=ebd747d6dca0cec048eb8ac8f57da9ef6eb7c1e17276328b17d0e445b2a82fe4b0ed42a7b1f5&token=1230572157&lang=zh_CN###rd)
 - [在Intellij IDEA中如何使用Debug！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485246&idx=2&sn=1b76f0a2fca84d9106b9e9eb57b487c5&chksm=ebd7463fdca0cf293bb983b5cc0f31dfb2fca058be11e4c7a732d56220b551e4b5cc0474ec5e&token=1424412820&lang=zh_CN###rd)
 - [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485107&idx=1&sn=8903b905bc4e8df927ea1ad543f1afeb&chksm=ebd747b2dca0cea416308355a20306428c293a8f3c5304cf746631a1077f6be5d59990c7de6a&token=1741918942&lang=zh_CN###rd)
+- [Git原理入门解析](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485549&idx=1&sn=216fec533260cfa0e735188b53080c24&chksm=ebd7496cdca0c07a623b35d1733307541131fd21004a978e25773c9ea6c47e56bfceaec2d8d9&token=1948873548&lang=zh_CN#rd)
 
 
 
@@ -524,6 +549,12 @@
 - [MySQL的ACID原理！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485215&idx=1&sn=536d992835b4a40f7dc968acc5bea9c1&chksm=ebd7461edca0cf081bab56fb7b041331714f7d4849b605d8fb9390175f4a3eb7728a346ac02c&token=1230572157&lang=zh_CN###rd)
 - [MySQL知识点总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485341&idx=1&sn=3447d1843e65e6a6365dd1d2ddbdca3b&chksm=ebd7469cdca0cf8a89eed4a3858cb84b8a227283081058ad889351ee33926054db9e707cedac&token=1120664639&lang=zh_CN###rd)
 - [面试官:MySQL表设计要注意什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485433&idx=1&sn=bcee0eec2ebdfa465ba3322d13052c45&chksm=ebd746f8dca0cfeeb2025558475d1eb137eb7594aed18bc356582eb1df3171a898ae6b06e623&token=2078489135&lang=zh_CN###rd)
+- [一文学习什么是2PC（二阶段提交）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485625&idx=1&sn=4e9557b6e73b2850d446659584905a97&chksm=ebd749b8dca0c0aeb9638b12a476106cf51ce3770fbeaa4e2c7edae03ac7ebdb2f64b8a4084a&token=1948873548&lang=zh_CN#rd)
+- [Redis简明教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485708&idx=1&sn=c4aac6d96d014579787a7e48f5da30b5&chksm=ebd7480ddca0c11b0e6099f07a30693b26eb2ebdf7809795162f2e5f76f97115bf58f6b06db0&token=1948873548&lang=zh_CN#rd)
+
+
+
+
 #### :dollar:大数据+机器学习
 
 - [原来这就是MapReduce！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485090&idx=1&sn=76b3d85e594e0a8a89dfb93b4b3e4ca6&chksm=ebd747a3dca0ceb52408474d4da0963e0e58e54f54414feb996c65673d6eea834637a5bc1d56&token=1741918942&lang=zh_CN###rd)
