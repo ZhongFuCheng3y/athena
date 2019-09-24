@@ -1,19 +1,3 @@
-### :sparkling_heart:说明 ###
-
-> 关注我，第一时间获取最新的干货文章！
-
-关注公众号：Java3y推送最新的**干货**技术文章
-
-- :art:获取海量视频资源， 回复          视频
-- :bell:获取Java精美脑图，回复         脑图
-- :clipboard:获取Java学习路线，回复    路线
-- :sound:获取开发常用工具， 回复        工具
-- :video_camera:获取我的联系方式， 回复   1
-- :beer:加入交流群学习， 回复             2
-
-![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
-
-
 ###  :coffee:Java基础  ###
 
 - [2018年如何快速学Java](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
@@ -575,3 +559,18 @@
 - [如何判断一个元素在亿级数据中是否存在？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484678&idx=1&sn=b96c29b0117d952174e85b3b132b202d&chksm=ebd74407dca0cd11cce0b1c2b6f18ee207c61ddef495def8b6a7fdf15fee3d2adfc7893d2edf###rd)
 - [【漫画】什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484986&idx=1&sn=cbf3c6fcbcca304c177a328f4a8d7043&chksm=ebd7473bdca0ce2d5fd254f967d873b6b3e4f8feba637835a3fa58e47b8205f5b94634a34751###rd)
 - [腾讯面试题：有了二叉查找树、平衡树为啥还需要红黑树？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485353&idx=1&sn=308d99460bf7e43440efd93cfb824c23&chksm=ebd746a8dca0cfbe2aef32eb74db0a53932b316bbfa25ab45ce25e9bf8e1fb81a4d1c39940c1&token=1120664639&lang=zh_CN###rd)
+
+### :sparkling_heart:说明 ###
+
+> 关注我，第一时间获取最新的干货文章！
+
+关注公众号：Java3y推送最新的**干货**技术文章
+
+- :art:获取海量视频资源， 回复          视频
+- :bell:获取Java精美脑图，回复         脑图
+- :clipboard:获取Java学习路线，回复    路线
+- :sound:获取开发常用工具， 回复        工具
+- :video_camera:获取我的联系方式， 回复   1
+- :beer:加入交流群学习， 回复             2
+
+![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
