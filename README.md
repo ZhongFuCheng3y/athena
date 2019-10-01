@@ -33,6 +33,7 @@
 - [小白入门学习打日志](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485532&idx=1&sn=4d64fba2114aa938f0076d604f3ad080&chksm=ebd7495ddca0c04b0bc738fb0f081e1192230546af56dff374366ab5b54a2af5587a71c386d8&token=1643292024&lang=zh_CN#rd)
 - [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
 - [最近学到的限流知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485652&idx=1&sn=dbcc843869bd94228cb71980cd84cc8c&chksm=ebd749d5dca0c0c30c0b11c0535005a9def3c66aa3f5c56d816256122b53f367de5f5ba6a6c3&token=1948873548&lang=zh_CN#rd)
+- [手把手带你体验Stream流](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485724&idx=1&sn=f2803d45d6c11e657aee939bbc2c7f0e&chksm=ebd7481ddca0c10bf6762f26f87062232394ddffd160f9c6ae8714312f8922cd1f28043ec117&token=1849072904&lang=zh_CN#rd)
 
   
 
@@ -509,6 +510,8 @@
 - [Java集合必会14问（精选面试题整理）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485685&idx=2&sn=b393e444487c88e8c204821faddff370&chksm=ebd749f4dca0c0e257e15c656f4504f224456495ad78e8aeb9ea370214ebd4b5c455b15e6045&token=1948873548&lang=zh_CN#rd)
 - [【面试必备】手撕代码，你怕不怕？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485701&idx=1&sn=3f7325e18278f640b52b8b1b427fdb11&chksm=ebd74804dca0c11222aa3969a18e11c79ce5b886332b90e1df1823c945944a6ca796448afa94&token=1948873548&lang=zh_CN#rd)
 - [为什么阿里巴巴建议开发者谨慎使用继承？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485702&idx=2&sn=23796484d0dc71de663a96f17cdca190&chksm=ebd74807dca0c111508320e5765462eb147270d144b99f598020d8422905164cd1b37b59cb5d&token=1948873548&lang=zh_CN#rd)
+- [Java基础知识点面试手册（基础知识+集合）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485723&idx=2&sn=e827f8c3e08d345c41380fd5b86322bb&chksm=ebd7481adca0c10c18f27d6db699bf89610e7d22f42620668439edcaaec11b3bdbbcc8f46ae6&token=1849072904&lang=zh_CN#rd)
+- [Java基础知识点面试手册（线程+JDK8）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485733&idx=1&sn=93a2359c32a0f4560d7bea5d96e0d8ab&chksm=ebd74824dca0c13207a7d72eb86c731ba964e67cf13aea39801fc9e1a2f4d4fc8a52e800f0f3&token=1849072904&lang=zh_CN#rd)
 
 
 #### :egg:项目/框架/中间件
@@ -551,6 +554,7 @@
 - [面试官:MySQL表设计要注意什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485433&idx=1&sn=bcee0eec2ebdfa465ba3322d13052c45&chksm=ebd746f8dca0cfeeb2025558475d1eb137eb7594aed18bc356582eb1df3171a898ae6b06e623&token=2078489135&lang=zh_CN###rd)
 - [一文学习什么是2PC（二阶段提交）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485625&idx=1&sn=4e9557b6e73b2850d446659584905a97&chksm=ebd749b8dca0c0aeb9638b12a476106cf51ce3770fbeaa4e2c7edae03ac7ebdb2f64b8a4084a&token=1948873548&lang=zh_CN#rd)
 - [Redis简明教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485708&idx=1&sn=c4aac6d96d014579787a7e48f5da30b5&chksm=ebd7480ddca0c11b0e6099f07a30693b26eb2ebdf7809795162f2e5f76f97115bf58f6b06db0&token=1948873548&lang=zh_CN#rd)
+- [从另外一个角度看什么是数据库](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485726&idx=1&sn=d8c4031e2b08c72117ebbe33b4f9b5c0&chksm=ebd7481fdca0c109d90d278f20406e1e12ad68ae0e89028b8dfd15b4113ad9f3288b72c5e154&token=1849072904&lang=zh_CN#rd)
 
 
 
