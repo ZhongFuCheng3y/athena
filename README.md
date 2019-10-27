@@ -1,7 +1,12 @@
 
 ![关注](https://user-gold-cdn.xitu.io/2019/9/24/16d633ad7e62c2fe?w=833&h=325&f=png&s=127042)
 
-关注公众号：Java3y  每天推送最新的干货技术文章！保证你有所收获！
+从Java基础、JavaWeb基础到常用的框架和技术栈都有**完整**的教程。关注公众号：Java3y  每天推送最新的干货技术文章！保证你有所收获！
+
+最近阿里云服务器**特便宜**，通过我的链接购买只要86一年！如果还是新人，建议买一台！
+
+-  [快抢86块一年服务器](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=BAE381504A2EEA49FE4F2FAD56CD1D20647C88CF896EF535&userCode=pfn5xpli&share_source=copy_link)
+
 
 ###  :coffee:Java基础  ###
 
@@ -25,6 +30,8 @@
 - [最近学到的Lambda表达式基础知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485692&idx=1&sn=a6b3f040b13fa2324992b11a927e34dc&chksm=ebd749fddca0c0eb1b05c08ede7ee4a44699584fbc0c3449ec2cac7642fd13819470ec7f44d8&token=1024331018&lang=zh_CN#rd)
 - [手把手带你体验Stream流](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485724&idx=1&sn=f2803d45d6c11e657aee939bbc2c7f0e&chksm=ebd7481ddca0c10bf6762f26f87062232394ddffd160f9c6ae8714312f8922cd1f28043ec117&token=1849072904&lang=zh_CN#rd)
 - [最近学到的「短链接」知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485769&idx=1&sn=918d1b53b8cbad95d06482097a9030cd&chksm=ebd74848dca0c15e8fdcb63e2f194d6758c27f64dd50fedc77d6bb746c401b819ad338e3a2f6&token=1024331018&lang=zh_CN#rd)
+- [最近我学到的ABTest知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485827&idx=1&sn=33aa29b282df74f1ebd2cd4c06360152&chksm=ebd74882dca0c194b0efae8b6f3f3487fedff531644caabc7f70afeea8291160021769d9bc08&token=1928620508&lang=zh_CN#rd)
+
 
   
 
@@ -505,6 +512,10 @@
 - [Java基础知识点面试手册（基础知识+集合）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485723&idx=2&sn=e827f8c3e08d345c41380fd5b86322bb&chksm=ebd7481adca0c10c18f27d6db699bf89610e7d22f42620668439edcaaec11b3bdbbcc8f46ae6&token=1849072904&lang=zh_CN#rd)
 - [Java基础知识点面试手册（线程+JDK8）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485733&idx=1&sn=93a2359c32a0f4560d7bea5d96e0d8ab&chksm=ebd74824dca0c13207a7d72eb86c731ba964e67cf13aea39801fc9e1a2f4d4fc8a52e800f0f3&token=1849072904&lang=zh_CN#rd)
 - [什么是云计算？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485760&idx=2&sn=f393eaec2789912da875090c2b9b9f55&chksm=ebd74841dca0c157d8a3e7f01f7203e084ebbda34cf461a4ba1433900d96b2221998769f512e&token=1024331018&lang=zh_CN#rd)
+- [Java 面试知识点解析「基础知识」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485775&idx=2&sn=e83f05bc287d280fb0b58cc968c06a89&chksm=ebd7484edca0c158b4282ca33ed902836fe08e4b6ebd6b301239243edd24c4d5fc2f4d56cfe1&token=1928620508&lang=zh_CN#rd)
+- [网络协议常见面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485822&idx=2&sn=08991d3d136539cfba5dafb6ff385a1b&chksm=ebd7487fdca0c169984847b5321f171020917504cf905803bba528919fe5adb3575ad92672fe&token=1928620508&lang=zh_CN#rd)
+- [业务复杂=if else？刚来的大神竟然用策略+工厂彻底干掉了他们！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485836&idx=1&sn=d557a639dc88ef7a2496466876709991&chksm=ebd7488ddca0c19bb2121908b1944f11a395215ef49cfbeb86e8ac100fd35b5866a4f4d8379b&token=1928620508&lang=zh_CN#rd)
+- [多线程必考的面试题！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485844&idx=2&sn=5e514f9971e1b273d06de0c3188eb259&chksm=ebd74895dca0c1833a65d297db3d7e7c142a06a75200f42dab5328cf4cf3bf2d8fab73aa6f2b&token=1928620508&lang=zh_CN#rd)
 
 
 #### :egg:项目/框架/中间件
@@ -528,6 +539,9 @@
 ### :book:WebFlux
 
 - [什么是响应式编程？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485771&idx=2&sn=231361149752c53a1ecdf77479234bef&chksm=ebd7484adca0c15cae5a74e83fb9dfc53acf94a56c96f9fb763522bb44c5a1b126af0e28f6c8&token=1024331018&lang=zh_CN#rd)
+- [什么是响应式流？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485786&idx=2&sn=b98de551af9bd9af6f616b78343dccfc&chksm=ebd7485bdca0c14d1cca9da7c8c18cf2d763281a4f8b91d44c49b6ec2638f4aaa71def3cfffe&token=1928620508&lang=zh_CN#rd)
+- [lambda与函数式](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485802&idx=2&sn=ed8f4ef5ba41bd08556692517b525bd3&chksm=ebd7486bdca0c17d7758add2ed73f917e8191d3c984a0d90a157caefe9c7819676f32ecf63a2&token=1928620508&lang=zh_CN#rd)
+- [Reactor 3快速上手](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485817&idx=2&sn=9d5d22d887a351e88ab6ecfb25a74dad&chksm=ebd74878dca0c16e521ea8af7bdadaacca156876f8f1cc2e696eb54d29007158010e0f23ac79&token=1928620508&lang=zh_CN#rd)
 
 
 #### :file_folder:工具使用
@@ -552,6 +566,8 @@
 - [一文学习什么是2PC（二阶段提交）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485625&idx=1&sn=4e9557b6e73b2850d446659584905a97&chksm=ebd749b8dca0c0aeb9638b12a476106cf51ce3770fbeaa4e2c7edae03ac7ebdb2f64b8a4084a&token=1948873548&lang=zh_CN#rd)
 - [Redis简明教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485708&idx=1&sn=c4aac6d96d014579787a7e48f5da30b5&chksm=ebd7480ddca0c11b0e6099f07a30693b26eb2ebdf7809795162f2e5f76f97115bf58f6b06db0&token=1948873548&lang=zh_CN#rd)
 - [从另外一个角度看什么是数据库](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485726&idx=1&sn=d8c4031e2b08c72117ebbe33b4f9b5c0&chksm=ebd7481fdca0c109d90d278f20406e1e12ad68ae0e89028b8dfd15b4113ad9f3288b72c5e154&token=1849072904&lang=zh_CN#rd)
+- [数据库常见的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485786&idx=1&sn=1cfd64af9d9cb7f15dcdfb161cb64bf8&chksm=ebd7485bdca0c14df7b7bb0448bf79c3047a0e645343b1bc269708db6036264ffae7a302aa48&token=1928620508&lang=zh_CN#rd)
+- [一文带你轻松搞懂事务隔离级别(图文详解)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485807&idx=1&sn=9d2d56fe8196487df804f8ad463c75c6&chksm=ebd7486edca0c178660273bb2b64eaeab44ac4e7eeb91cb5cd29b1630c50c5c3f9038058ba6d&token=1928620508&lang=zh_CN#rd)
 
 
 
@@ -576,6 +592,7 @@
 - [如何判断一个元素在亿级数据中是否存在？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484678&idx=1&sn=b96c29b0117d952174e85b3b132b202d&chksm=ebd74407dca0cd11cce0b1c2b6f18ee207c61ddef495def8b6a7fdf15fee3d2adfc7893d2edf###rd)
 - [【漫画】什么是外部排序？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484986&idx=1&sn=cbf3c6fcbcca304c177a328f4a8d7043&chksm=ebd7473bdca0ce2d5fd254f967d873b6b3e4f8feba637835a3fa58e47b8205f5b94634a34751###rd)
 - [腾讯面试题：有了二叉查找树、平衡树为啥还需要红黑树？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485353&idx=1&sn=308d99460bf7e43440efd93cfb824c23&chksm=ebd746a8dca0cfbe2aef32eb74db0a53932b316bbfa25ab45ce25e9bf8e1fb81a4d1c39940c1&token=1120664639&lang=zh_CN###rd)
+- [图解数据结构之数组、链表、栈、队列](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485794&idx=2&sn=3d46cebad4cbc121ee1c2c5217968f23&chksm=ebd74863dca0c175d948bdc71546301552330f94ce43da8c73ba2083390028a645b9184e8310&token=1928620508&lang=zh_CN#rd)
 
 ### :sparkling_heart:说明 ###
 
