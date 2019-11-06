@@ -6,6 +6,9 @@
 
 最近阿里云服务器**特便宜**，通过我的链接购买只要86一年！如果还是新人，年度最低，非常值得购买！
 
+
+![](https://user-gold-cdn.xitu.io/2019/11/6/16e3e63e3aa9157d?w=1280&h=950&f=png&s=898210)
+
 -  [快抢86块一年服务器](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=BAE381504A2EEA49FE4F2FAD56CD1D20647C88CF896EF535&userCode=pfn5xpli&share_source=copy_link)
 -  [手把手教你怎么使用云服务器](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485868&idx=1&sn=8ce3d3fc332bab1b5c725b2a7ff323b2&chksm=ebd748addca0c1bb784985997f91b9f6bdb8d1578985691ce0bb0acb271a0d2a62330bb1593b&token=2052427710&lang=zh_CN#rd)
 
