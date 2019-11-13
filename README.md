@@ -617,7 +617,7 @@
 
 添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
 
-<img src='https://img-blog.csdnimg.cn/20191113141315386.png' width=400px height=400px />
+<img src='https://img-blog.csdnimg.cn/20191113141315386.png' width=300px height=300px />
 
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
