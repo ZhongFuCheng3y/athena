@@ -624,9 +624,9 @@
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号
 
-![](https://user-gold-cdn.xitu.io/2019/11/13/16e63512b22e0d98?w=748&h=776&f=png&s=113754)
 
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=200px height=200px />
+
+<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
 
 #### :sparkling_heart:<a name="更多资料">更多资料</a> ###
 
@@ -638,6 +638,5 @@
 - :clipboard:**获取Java学习路线**，回复    路线
 - :sound:**获取开发常用工具**， 回复        工具
 
-![](https://user-gold-cdn.xitu.io/2019/11/13/16e63512b22e0d98?w=748&h=776&f=png&s=113754)
 
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=200px height=200px />
+<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
