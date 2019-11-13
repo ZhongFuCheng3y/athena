@@ -1,19 +1,20 @@
 
 ![关注](https://user-gold-cdn.xitu.io/2019/9/24/16d633ad7e62c2fe?w=833&h=325&f=png&s=127042)
 
-这个仓库由我个人来维护，从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程。该开源仓库很多的文章都是我个人原创，有部分来自顶级大佬的干货文章，很多知识点我还在不停的总结和完善。
+这个仓库由我个人来维护，从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**。该开源仓库很多的文章都是我**个人原创**，有部分来自顶级大佬的干货文章，很多知识点我还在不停的总结和完善。
 
 :sparkling_heart:我希望这个开源仓库：
 
 - 能给学Java的同学带来帮助
 - 能给你感受到文章的温度
 - 能协助你一起构建Java体系
+- ...
 
 
 
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
+  <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
 
@@ -610,6 +611,20 @@
 - [腾讯面试题：有了二叉查找树、平衡树为啥还需要红黑树？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485353&idx=1&sn=308d99460bf7e43440efd93cfb824c23&chksm=ebd746a8dca0cfbe2aef32eb74db0a53932b316bbfa25ab45ce25e9bf8e1fb81a4d1c39940c1&token=1120664639&lang=zh_CN###rd)
 - [图解数据结构之数组、链表、栈、队列](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485794&idx=2&sn=3d46cebad4cbc121ee1c2c5217968f23&chksm=ebd74863dca0c175d948bdc71546301552330f94ce43da8c73ba2083390028a645b9184e8310&token=1928620508&lang=zh_CN#rd)
 
+### :sparkling_heart:<a name="微信群">加入微信群</a> ###
+
+
+添加我的微信备注“加群”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
+
+
+![](https://user-gold-cdn.xitu.io/2019/11/13/16e63505d91cee59?w=564&h=786&f=png&s=423540)
+
+### :sparkling_heart:<a name="公众号">加入公众号</a> ###
+
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号
+
+![](https://user-gold-cdn.xitu.io/2019/11/13/16e63512b22e0d98?w=748&h=776&f=png&s=113754)
+
 ### :sparkling_heart:<a name="更多资料">更多资料</a> ###
 
 
@@ -619,7 +634,5 @@
 - :bell:获取Java精美脑图，回复         脑图
 - :clipboard:获取Java学习路线，回复    路线
 - :sound:获取开发常用工具， 回复        工具
-- :video_camera:获取我的联系方式， 回复   1
-- :beer:加入交流群学习， 回复             2
 
 ![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
