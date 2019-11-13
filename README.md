@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-important.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/加入-公众号-blue.svg" alt="公众号"></a>
 </p>
 
 
