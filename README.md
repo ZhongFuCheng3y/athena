@@ -7,8 +7,10 @@
 
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/加入-公众号-blue.svg" alt="公众号"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
+  <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
+
 </p>
 
 
@@ -602,7 +604,7 @@
 - [腾讯面试题：有了二叉查找树、平衡树为啥还需要红黑树？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485353&idx=1&sn=308d99460bf7e43440efd93cfb824c23&chksm=ebd746a8dca0cfbe2aef32eb74db0a53932b316bbfa25ab45ce25e9bf8e1fb81a4d1c39940c1&token=1120664639&lang=zh_CN###rd)
 - [图解数据结构之数组、链表、栈、队列](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485794&idx=2&sn=3d46cebad4cbc121ee1c2c5217968f23&chksm=ebd74863dca0c175d948bdc71546301552330f94ce43da8c73ba2083390028a645b9184e8310&token=1928620508&lang=zh_CN#rd)
 
-### :sparkling_heart:说明 ###
+### :sparkling_heart:<a name="更多资料">更多资料</a> ###
 
 
 关注公众号：Java3y推送最新的**干货**技术文章
