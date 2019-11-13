@@ -1,7 +1,7 @@
 
 ![关注](https://user-gold-cdn.xitu.io/2019/9/24/16d633ad7e62c2fe?w=833&h=325&f=png&s=127042)
 
-这个仓库由我个人来维护，从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**。该开源仓库很多的文章都是我**个人原创**，有部分来自顶级大佬的干货文章，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
+从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库很多的文章都是我**个人原创**，有部分来自顶级大佬的干货文章，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
 及时获取最新更新文章
 
 :sparkling_heart:我希望这个开源仓库：
@@ -22,7 +22,7 @@
 </p>
 
 
-**<a name="目录">目录(善用ctrl+F)</a>**
+**<a name="目录">:notebook:目录(善用ctrl+F)</a>**
 
 ###  :coffee:Java基础  ###
 
