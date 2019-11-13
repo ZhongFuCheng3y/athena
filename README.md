@@ -617,14 +617,12 @@
 
 添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
 
+<img src='https://img-blog.csdnimg.cn/20191113140921748.jpg' width=400px height=400px />
 
-![](https://user-gold-cdn.xitu.io/2019/11/13/16e63505d91cee59?w=564&h=786&f=png&s=423540)
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号
-
-
 
 <img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
 
@@ -637,6 +635,5 @@
 - :bell:**获取Java精美脑图**，回复         脑图
 - :clipboard:**获取Java学习路线**，回复    路线
 - :sound:**获取开发常用工具**， 回复        工具
-
 
 <img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
