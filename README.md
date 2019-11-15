@@ -410,10 +410,10 @@
 ###  :art:Linux  ###
 
 - [工作中常用到的Linux命令](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485440&idx=1&sn=85b40c173d66b62b3e870dd0e095c72c&chksm=ebd74901dca0c01727ed2cff30acc5d39948eda5bf4252f1d96526f951591f69edcfccbbad29&token=2078489135&lang=zh_CN###rd)
-- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21###wechat_redirect)              
+- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21###wechat_redirect) 
 - [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21###wechat_redirect)
 - [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21###wechat_redirect)
-- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21###wechat_redirect)[Linux](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21###wechat_redirect)
+- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21###wechat_redirect)
 
 
 ###  :file_folder:操作系统  ###
