@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+  <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
@@ -22,7 +22,7 @@
 </p>
 
 
-**<a name="目录">:notebook:<font color='red'>目录(善用ctrl+F)</font></a>**
+**<a name="目录">:notebook:目录(善用ctrl+F)</a>**
 
 ###  :coffee:Java基础  ###
 
