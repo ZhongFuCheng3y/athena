@@ -12,6 +12,10 @@
 - ...
 
 
+[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，我明天会出一个服务器搭建个人项目的教程（老用户用家人账号买就好了，我用我妈的😂）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
+
+![](https://user-gold-cdn.xitu.io/2019/12/3/16ecb45e19ed59e0?w=100&h=100&f=png&s=1554)
+
 
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
