@@ -115,9 +115,8 @@ homebrew下载地址：https://brew.sh/index_zh-cn
 
 Item2：https://www.iterm2.com/
 
+- 下载zsh：   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 - 我的Item2主题颜色：https://draculatheme.com/iterm/
-
-
 
 **改变zsh的主题为"ys"**
 
