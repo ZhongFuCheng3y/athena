@@ -24,7 +24,7 @@
   <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
-  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/我的-掘金-critical.svg" alt="掘金"></a>
+  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-critical.svg" alt="掘金"></a>
 
 </p>
 
