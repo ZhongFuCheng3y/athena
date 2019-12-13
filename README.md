@@ -23,8 +23,10 @@
   <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
+  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
+  <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
+  <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
   <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
-  <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-critical.svg" alt="掘金"></a>
 
 </p>
 
