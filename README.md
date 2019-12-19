@@ -16,7 +16,7 @@
 
 
 
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1zah30rej30u00u0npg.jpg" alt="扫码购买！" width="100px" height="100px" />
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1zah30rej30u00u0npg.jpg" alt="扫码购买！" width="200px" height="200px" algin="center" />
 
 [**搭建教程，从0开始一步一步带你搭建**😂](https://mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
 
