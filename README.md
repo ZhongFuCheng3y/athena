@@ -251,7 +251,7 @@
 
   
 
-###  :fish_cake:Spring  ###
+###  :fish_cake:Spring家族  ###
 
 - [Spring入门这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483942&idx=1&sn=f71e1adeeaea3430dd989ef47cf9a0b3&chksm=ebd74327dca0ca3141c8636e95d41629843d2623d82be799cf72701fb02a665763140b480aec&scene=21###wechat_redirect)
 - [Spring【依赖注入】就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483946&idx=1&sn=bb21dfd83cf51214b2789c9ae214410f&chksm=ebd7432bdca0ca3ded6ad9b50128d29267f1204bf5722e5a0501a1d38af995c1ee8e37ae27e7&scene=21###wechat_redirect)
@@ -276,7 +276,7 @@
 
 
 
-###  :lollipop:SSM  ###
+###  :lollipop:SSM项目  ###
 
 - [SSM【史上最详细整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=3&sn=d4dd684f759320438c6a0c11866f1c6c&chksm=ebd74333dca0ca2550b0db08e48987aec52d5d85a83ff29068cd2b52d9d6fe470dd0fbbda688&scene=21###wechat_redirect)
 - [Java高并发秒杀系统【观后总结】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483965&idx=2&sn=3714c57815d6a25f1a3060d592bcf7a8&chksm=ebd7433cdca0ca2acb3c46454908d078f13fe80752e82e63fc4641100839fe56833752887bea&scene=21###wechat_redirect)
@@ -301,7 +301,7 @@
 
   
 
-###  :jack_o_lantern:SSH  ###
+###  :jack_o_lantern:SSH项目  ###
 
 - [SSH【史上最详细整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=2&sn=9ced4f7fc184503b401b3b50630c13bb&chksm=ebd74333dca0ca25cf402253711d85e709fc76b1e695e264b40c24d88407e7781b1745073824&scene=21###wechat_redirect)
 - [【SSH测试整合Demo】企业人事管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=4&sn=fd607d79a9a12ab5e6759527c707a59e&chksm=ebd74333dca0ca254ea6d1bd080586a6422168e920a9e21aa26b2f720dab2539a999fc90eeaa&scene=21###wechat_redirect)
@@ -316,6 +316,74 @@
 - [纳税服务系统总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=1&sn=dd8b96b94942001150143c877a773f53&chksm=ebd74361dca0ca7796bd25f176697692d46025cfeb37cb6a23ad4617ef0f74c9b76633379681&scene=21###wechat_redirect)
 
   
+
+### :tv:Redis  ###
+
+- [从零单排学Redis【青铜】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484359&idx=1&sn=0994c6246990b7ad42a2d3f294042316&chksm=ebd742c6dca0cbd0a826ace13f4d4eeff282052f4a97b31654ef1b3b32f991374f5c67a45ae9&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [从零单排学Redis【白银】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484386&idx=1&sn=323ddc84dc851a975530090fcd6e2326&chksm=ebd742e3dca0cbf52bc65d430447e639d81cc13e0ac34613edf464dae3950b10e2e1df74dcc5&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [从零单排学Redis【黄金】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484391&idx=1&sn=9bd54938ecdced37d69d3ce5bfd65a2e&chksm=ebd742e6dca0cbf020b5e1e18b59626ce5d85a3f8de35d8d5b32e7fd5bf0be9dcadb1bb98177&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [从零单排学Redis【铂金一】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484430&idx=1&sn=be69ef08e58dc7559d054221732ee8ee&chksm=ebd7450fdca0cc19a4a8cd788161bfdebc0d51abe9989debadd61ba29e3cce6961ebe6093d5b&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [从零单排学Redis【铂金二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484451&idx=1&sn=5495b1165954cd6b84b011489e04a66b&chksm=ebd74522dca0cc3416ab0ccd3a4ddb4ddd28290c9769596a069d81df3b03f4bad72e27d30a6d&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
+
+###  :vhs:面试  ###
+
+- [能不能好好写简历？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485072&idx=1&sn=cf642163420fc9d29fb480723d60aed9&chksm=ebd74791dca0ce873639c2478cd723536d6c623b4d3ca6040ac649f4491d8f36f9833695a159&token=1755043505&lang=zh_CN###rd)
+- [面试前需要了解的东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484283&idx=1&sn=f76ac6442633c4d5fa3a2cad6a1faf9b&chksm=ebd7427adca0cb6c29db475ed1bfdef9d7d768615f1b8ab02da7fc08c7807476dce7d55b32cf&scene=21###wechat_redirect)
+- [【Java】几道让你拿offer的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484306&idx=1&sn=a305e8e7da212c44c233a04ec328cdd2&chksm=ebd74293dca0cb856896abe4d729c15dc4c328699c543b7a60b8650d7c3ed52a418d7103ab13&scene=21###wechat_redirect)
+- [【Java】留下没有基础眼泪的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484328&idx=1&sn=044a7bc43c9a9f4ad43d23f9fcb248ff&chksm=ebd742a9dca0cbbff7a6314c83543a528c74a54d3e7e7ece60f258016c37723c024a72e2f9f2&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+- [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN###rd)
+- [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b###rd)
+
+
+### :lollipop:Docker
+
+- [为什么需要Docker？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484584&idx=1&sn=9af3a77887595e53206ff4120b350d8d&chksm=ebd745a9dca0ccbf20e3c1979b232a2004c8156192ae20858599506d683120a95a2366f4e4be&token=1712662964&lang=zh_CN###rd)
+- [Docker入门为什么可以这么简单？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484631&idx=1&sn=ffca3c18cce7392ef96dce268cd7d6df&chksm=ebd745d6dca0ccc0964a4c99afaa030c997ee75379e14b5d7fc0beacc4c59f33318af266a7ce###rd)
+- [聊聊Docker镜像](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484674&idx=1&sn=e3ea5efe00fde6ebd3c73d5bf2155813&chksm=ebd74403dca0cd15bb3f5e288f28ce2058f8031ee18c2912cec05d886552c24e6e8d8e5ff1ce&token=1676899695&lang=zh_CN###rd)
+
+
+### :paperclip:消息队列
+
+- [什么是ZooKeeper？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485115&idx=1&sn=5d269f40f820c82b460993669ca6242e&chksm=ebd747badca0ceac9953f82e08b1d1a49498ebd4af77ec5d628a0682bb9f0ac5ab347411f654&token=1741918942&lang=zh_CN###rd)
+- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN###rd)
+- [全网最通俗易懂的Kafka入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486160&idx=1&sn=95b961002664e54ca33bf22997594d1d&chksm=ebd74bd1dca0c2c7494c9184e013cb4171743bc7e1b2ee6ddda01ed4eb3291a3eedfed908022&token=711412693&lang=zh_CN#rd)
+
+
+### :radio:搜索引擎
+
+- [Lucene入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=2&sn=ca972fb77eb8f3a69d20071afeb359b3&chksm=ebd74377dca0ca612ea6966a55bb66444383226f08cbdcaa2805507aba706089a9ab689a1de7&scene=21###wechat_redirect)
+- [Elasticsearch就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484058&idx=2&sn=5c2b32adaab2ffe4b331c5abb95a5f43&chksm=ebd7439bdca0ca8d7967fcaa037fcd7880cfbd6b36478f51617ad9de79040076e2f72dbad8ba&scene=21###wechat_redirect)
+
+
+### :lollipop:安全/鉴权
+
+- [Shiro入门这篇就够了【Shiro的基础知识、回顾URL拦截】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=2&sn=49c0d8118e66c321180b428a80985c0a&chksm=ebd74386dca0ca90964f050577f5614c347d11978527c90a3276f93e68a3cd4a893f91214287&scene=21###wechat_redirect)
+- [Shiro第二篇【授权、整合Spirng、过滤器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=3&sn=3aafcd5622d1d4583c339c1950ead637&chksm=ebd74386dca0ca908e68b3f60c66abc3d364f7f8c3a4b89eeff951a56771d77c035322983c42&scene=21###wechat_redirect)
+- [Shiro第三篇【授权过滤器、与ehcache整合、验证码、记住我】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=4&sn=3627e8fb5f86032e5b6a42073542d269&chksm=ebd74386dca0ca901d13dfb79b6827118b6cb58593572e6d798f7b0c1e8473ea9f22af8062bb&scene=21###wechat_redirect)
+
+
+
+###   :flags:其他
+
+- [什么是单点登录(SSO)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485230&idx=1&sn=7c32a09e4b4b72a3565bfa05ae899d92&chksm=ebd7462fdca0cf39c2282dfd02b3f9d4dc3984c3103645ab5b112755cd89e8ee577eb35062e6&token=1230572157&lang=zh_CN###rd)
+- [WebService入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484014&idx=2&sn=0f464cdb2f667623841562849290b501&chksm=ebd7436fdca0ca7980e1052d306fb3920c6a71db2837e8c5e4ffd8b1aa8b28f7359c63ab1be3&scene=21###wechat_redirect)
+- [Activiti就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=3&sn=288cd5e0cb814c5f51c711468ab18f63&chksm=ebd74377dca0ca61126753db8ca57e709ef8d94530e1dca9c0df62e65a9ce54f08e94e11f335&scene=21###wechat_redirect)
+- [《大型网站系统与Java中间件》读书笔记（上）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485312&idx=1&sn=d88716c03faf2d4dd7a5df4f56b7ea2e&chksm=ebd74681dca0cf972714ec6ad0e69f18005e29e64b75891d92d378be73d71244d4f5a3fa982e&token=1120664639&lang=zh_CN###rd)
+- [《大型网站系统与Java中间件》读书笔记 （二）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485332&idx=1&sn=d5124382dd89c6f0b724d3feac001d34&chksm=ebd74695dca0cf83a5a412faabd5fb7099fe2e8b1d425170d66b7bf77190a00572c78210c53b&token=1120664639&lang=zh_CN###rd)
+
+
+###  :lollipop:TensorFlow  ###
+
+- [外行人都能看得懂的机器学习，错过了血亏！](https://mp.weixin.qq.com/s/wm8-3v3Sq-ArXs-UO4Dk3Q)
+- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN###rd)
+- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f###rd)
+- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e###rd)
+- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN###rd)
+- [什么是TensorBoard？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485132&idx=2&sn=341daeab9fa307fac07423635630d52b&chksm=ebd747cddca0cedb07e3ae8dc60fd4db5497a854af38cbaad23113b24f03e40941b9e53e0c9c&token=1230572157&lang=zh_CN###rd)
+
+
+
 
 ###  :gift_heart:数据结构与算法  ###
 
@@ -336,71 +404,16 @@
 - [十道算法题【二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484126&idx=1&sn=109d868fa7bd108af97e8e77dbab3b34&chksm=ebd743dfdca0cac9245a41194ca2b0c8a35f41825a15cb185f883b7b4fdd38b61d74a99ed897&scene=21###wechat_redirect)
 
 
-  
-
-###  :bamboo:Java EE常用框架  ###
-
-- [WebService就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484014&idx=2&sn=0f464cdb2f667623841562849290b501&chksm=ebd7436fdca0ca7980e1052d306fb3920c6a71db2837e8c5e4ffd8b1aa8b28f7359c63ab1be3&scene=21###wechat_redirect)
-- [Lucene就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=2&sn=ca972fb77eb8f3a69d20071afeb359b3&chksm=ebd74377dca0ca612ea6966a55bb66444383226f08cbdcaa2805507aba706089a9ab689a1de7&scene=21###wechat_redirect)
-- [Activiti就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=3&sn=288cd5e0cb814c5f51c711468ab18f63&chksm=ebd74377dca0ca61126753db8ca57e709ef8d94530e1dca9c0df62e65a9ce54f08e94e11f335&scene=21###wechat_redirect)
-- [SpringBoot就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484031&idx=2&sn=c586cd21312c720a4a45435ea18dc30a&chksm=ebd7437edca0ca68a8bdf98b962474b53e68372adc9e059964b55de60a0056aa204348f6206b&scene=21###wechat_redirect)
-- [SpringData JPA就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484031&idx=3&sn=c8b5a241b97cb502f93d2e216048fc8f&chksm=ebd7437edca0ca68d882ce50836ec87cb9cb4f337760fac5f6bab2368692952049c59902c135&scene=21###wechat_redirect)
-- [Shiro入门这篇就够了【Shiro的基础知识、回顾URL拦截】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=2&sn=49c0d8118e66c321180b428a80985c0a&chksm=ebd74386dca0ca90964f050577f5614c347d11978527c90a3276f93e68a3cd4a893f91214287&scene=21###wechat_redirect)
-- [Shiro第二篇【授权、整合Spirng、过滤器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=3&sn=3aafcd5622d1d4583c339c1950ead637&chksm=ebd74386dca0ca908e68b3f60c66abc3d364f7f8c3a4b89eeff951a56771d77c035322983c42&scene=21###wechat_redirect)
-- [Shiro第三篇【授权过滤器、与ehcache整合、验证码、记住我】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=4&sn=3627e8fb5f86032e5b6a42073542d269&chksm=ebd74386dca0ca901d13dfb79b6827118b6cb58593572e6d798f7b0c1e8473ea9f22af8062bb&scene=21###wechat_redirect)
-- [Elasticsearch就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484058&idx=2&sn=5c2b32adaab2ffe4b331c5abb95a5f43&chksm=ebd7439bdca0ca8d7967fcaa037fcd7880cfbd6b36478f51617ad9de79040076e2f72dbad8ba&scene=21###wechat_redirect)
-- [Druid数据库连接池就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484075&idx=1&sn=ca6f0f19c32eb3276a8b562888e49120&chksm=ebd743aadca0cabc934b891fdc4e116d573042f72ae87893df5c2883e46b96affac7c1923cab&scene=21###wechat_redirect)
-- [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484335&idx=1&sn=a871bf871fcaffda0be40e1388a69d7d&chksm=ebd742aedca0cbb8e22138fa7488cb80ee09a5b5d7aa065679904005c609e92a0d9ad755a913&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [什么是单点登录(SSO)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485230&idx=1&sn=7c32a09e4b4b72a3565bfa05ae899d92&chksm=ebd7462fdca0cf39c2282dfd02b3f9d4dc3984c3103645ab5b112755cd89e8ee577eb35062e6&token=1230572157&lang=zh_CN###rd)
-- [带你搭一个SpringBoot+SpringData JPA的Demo](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484997&idx=1&sn=96bf73ae24307aa800faeb71769d675c&chksm=ebd74744dca0ce525a24af4fd2bb3d975346a0c90c0f36af6ffc6f540f6462384cf678f74b6a###rd)
-- [【极简版】SpringBoot+SpringData JPA 管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485046&idx=1&sn=5b4e5f6f4123b11ccdc021905f64f1f5&chksm=ebd74777dca0ce61fc54b9d0183550f75dffc27f1f495c25cfadaa2b3512821c7b78e0d2f10a&token=1755043505&lang=zh_CN###rd)
 
   
 
-### :tv:Redis  ###
+###  :art:Linux  ###
 
-- [从零单排学Redis【青铜】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484359&idx=1&sn=0994c6246990b7ad42a2d3f294042316&chksm=ebd742c6dca0cbd0a826ace13f4d4eeff282052f4a97b31654ef1b3b32f991374f5c67a45ae9&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [从零单排学Redis【白银】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484386&idx=1&sn=323ddc84dc851a975530090fcd6e2326&chksm=ebd742e3dca0cbf52bc65d430447e639d81cc13e0ac34613edf464dae3950b10e2e1df74dcc5&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [从零单排学Redis【黄金】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484391&idx=1&sn=9bd54938ecdced37d69d3ce5bfd65a2e&chksm=ebd742e6dca0cbf020b5e1e18b59626ce5d85a3f8de35d8d5b32e7fd5bf0be9dcadb1bb98177&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [从零单排学Redis【铂金一】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484430&idx=1&sn=be69ef08e58dc7559d054221732ee8ee&chksm=ebd7450fdca0cc19a4a8cd788161bfdebc0d51abe9989debadd61ba29e3cce6961ebe6093d5b&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [从零单排学Redis【铂金二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484451&idx=1&sn=5495b1165954cd6b84b011489e04a66b&chksm=ebd74522dca0cc3416ab0ccd3a4ddb4ddd28290c9769596a069d81df3b03f4bad72e27d30a6d&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
-
-###  :vhs:面试  ###
-
-  
-- [能不能好好写简历？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485072&idx=1&sn=cf642163420fc9d29fb480723d60aed9&chksm=ebd74791dca0ce873639c2478cd723536d6c623b4d3ca6040ac649f4491d8f36f9833695a159&token=1755043505&lang=zh_CN###rd)
-- [面试前需要了解的东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484283&idx=1&sn=f76ac6442633c4d5fa3a2cad6a1faf9b&chksm=ebd7427adca0cb6c29db475ed1bfdef9d7d768615f1b8ab02da7fc08c7807476dce7d55b32cf&scene=21###wechat_redirect)
-- [【Java】几道让你拿offer的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484306&idx=1&sn=a305e8e7da212c44c233a04ec328cdd2&chksm=ebd74293dca0cb856896abe4d729c15dc4c328699c543b7a60b8650d7c3ed52a418d7103ab13&scene=21###wechat_redirect)
-- [【Java】留下没有基础眼泪的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484328&idx=1&sn=044a7bc43c9a9f4ad43d23f9fcb248ff&chksm=ebd742a9dca0cbbff7a6314c83543a528c74a54d3e7e7ece60f258016c37723c024a72e2f9f2&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN###rd)
-- [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b###rd)
-
-
-
-
-###   :flags:分布式 or 中间件
-
-- [什么是ZooKeeper？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485115&idx=1&sn=5d269f40f820c82b460993669ca6242e&chksm=ebd747badca0ceac9953f82e08b1d1a49498ebd4af77ec5d628a0682bb9f0ac5ab347411f654&token=1741918942&lang=zh_CN###rd)
-- [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN###rd)
-- [全网最通俗易懂的Kafka入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486160&idx=1&sn=95b961002664e54ca33bf22997594d1d&chksm=ebd74bd1dca0c2c7494c9184e013cb4171743bc7e1b2ee6ddda01ed4eb3291a3eedfed908022&token=711412693&lang=zh_CN#rd)
-- [《大型网站系统与Java中间件》读书笔记（上）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485312&idx=1&sn=d88716c03faf2d4dd7a5df4f56b7ea2e&chksm=ebd74681dca0cf972714ec6ad0e69f18005e29e64b75891d92d378be73d71244d4f5a3fa982e&token=1120664639&lang=zh_CN###rd)
-- [《大型网站系统与Java中间件》读书笔记 （二）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485332&idx=1&sn=d5124382dd89c6f0b724d3feac001d34&chksm=ebd74695dca0cf83a5a412faabd5fb7099fe2e8b1d425170d66b7bf77190a00572c78210c53b&token=1120664639&lang=zh_CN###rd)
-- [为什么需要Docker？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484584&idx=1&sn=9af3a77887595e53206ff4120b350d8d&chksm=ebd745a9dca0ccbf20e3c1979b232a2004c8156192ae20858599506d683120a95a2366f4e4be&token=1712662964&lang=zh_CN###rd)
-- [Docker入门为什么可以这么简单？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484631&idx=1&sn=ffca3c18cce7392ef96dce268cd7d6df&chksm=ebd745d6dca0ccc0964a4c99afaa030c997ee75379e14b5d7fc0beacc4c59f33318af266a7ce###rd)
-- [聊聊Docker镜像](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484674&idx=1&sn=e3ea5efe00fde6ebd3c73d5bf2155813&chksm=ebd74403dca0cd15bb3f5e288f28ce2058f8031ee18c2912cec05d886552c24e6e8d8e5ff1ce&token=1676899695&lang=zh_CN###rd)
-
-
-###  :lollipop:TensorFlow  ###
-
-- [外行人都能看得懂的机器学习，错过了血亏！](https://mp.weixin.qq.com/s/wm8-3v3Sq-ArXs-UO4Dk3Q)
-- [从零开始学TensorFlow【01-搭建环境、HelloWorld篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484946&idx=1&sn=ee8615d443fa3956bbf85df67d2045e3&chksm=ebd74713dca0ce055fee3cf8a88515ca0089c706a68a2449ce61a9e1edbfc4be763ecb93900a&token=1048288443&lang=zh_CN###rd)
-- [从零开始学TensorFlow【什么是TensorFlow？】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484954&idx=1&sn=378482d86bb800076f7add67d2091d55&chksm=ebd7471bdca0ce0dc50c1807b17f6abe1df2c8a3d97cd2f304345221a8217d0c6463434a530f###rd)
-- [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e###rd)
-- [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN###rd)
-- [什么是TensorBoard？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485132&idx=2&sn=341daeab9fa307fac07423635630d52b&chksm=ebd747cddca0cedb07e3ae8dc60fd4db5497a854af38cbaad23113b24f03e40941b9e53e0c9c&token=1230572157&lang=zh_CN###rd)
-
-
+- [工作中常用到的Linux命令](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485440&idx=1&sn=85b40c173d66b62b3e870dd0e095c72c&chksm=ebd74901dca0c01727ed2cff30acc5d39948eda5bf4252f1d96526f951591f69edcfccbbad29&token=2078489135&lang=zh_CN###rd)
+- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21###wechat_redirect) 
+- [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21###wechat_redirect)
+- [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21###wechat_redirect)
+- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21###wechat_redirect)
 
 
 ###  :bow:Web前端  ###
@@ -413,16 +426,6 @@
 - [常用的CSS框架](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=3&sn=45cd68dc769cdcf098d1baf41811fdaa&chksm=ebd740c3dca0c9d5fe014cef49236189af699a6b6e7ecf1d21895625c6672d30948421da99a0&scene=21###wechat_redirect)
 - [JsChart组件使用](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=2&sn=cb4552227c5de2091250eb2b9373b92f&chksm=ebd740c3dca0c9d543ba0b418f35132ac56b3d2322603754cecb9a32febe18b0e47c186472ca&scene=21###wechat_redirect)
 - [浅谈CDN、SEO、XSS、CSRF](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=1&sn=40fd0b86f0fda4db4f55584fa4f82cb9&chksm=ebd740c3dca0c9d503a494638a959ef2c5cffb7fedd57954f510fdd13e00a1980eebaa69b7ae&scene=21###wechat_redirect)
-
-  
-
-###  :art:Linux  ###
-
-- [工作中常用到的Linux命令](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485440&idx=1&sn=85b40c173d66b62b3e870dd0e095c72c&chksm=ebd74901dca0c01727ed2cff30acc5d39948eda5bf4252f1d96526f951591f69edcfccbbad29&token=2078489135&lang=zh_CN###rd)
-- [看完这篇Linux基本的操作就会了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484231&idx=1&sn=4cf217a4d692a7aba804e5d96186b15b&chksm=ebd74246dca0cb5024de2f1d9f9e2ecb631e49752713c25bbe44f44856e919df5a973049c189&scene=21###wechat_redirect) 
-- [用户和权限管理看了你就会用啦](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484255&idx=1&sn=fe812d7f5ea23a7ed96ad8a3927d6075&chksm=ebd7425edca0cb48e5cf927e3064bc72dad2d515867a502b4c62d52e6c66e12fbcb786639961&scene=21###wechat_redirect)
-- [Linux进程管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484259&idx=1&sn=5a360c8d9c468adfa65891bdfdb861e9&chksm=ebd74262dca0cb746435cb274950a3c819169d9db3baa635cb199a650a6515345ca880084101&scene=21###wechat_redirect)
-- [Linux网络管理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484263&idx=1&sn=948b54576fe0ebfb9eadf470f803077d&chksm=ebd74266dca0cb709c01558313312b573f593626b60a8af4306afdfa7c6633be60a5b970ec62&scene=21###wechat_redirect)
 
 
 ###  :file_folder:操作系统  ###
