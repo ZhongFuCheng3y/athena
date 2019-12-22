@@ -14,7 +14,9 @@
 
 [**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的😂）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
 
-![](https://user-gold-cdn.xitu.io/2019/12/3/16ecb45e19ed59e0?w=100&h=100&f=png&s=1554)
+
+
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1zah30rej30u00u0npg.jpg" alt="扫码购买！" width="200px" height="200px" algin="center" />
 
 [**搭建教程，从0开始一步一步带你搭建**😂](https://mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
 
