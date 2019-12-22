@@ -31,11 +31,12 @@
 
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
+  <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
   <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
+  <a href="#推荐阅读"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
   <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
 </p>
 
@@ -482,7 +483,7 @@
 - [我和我的公众号](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485997&idx=1&sn=d591519cc8ff3f42099a1067c37d31bc&chksm=ebd74b2cdca0c23a77ecb6d8d758e53b08866840050db7ac6535740081f7069c3e044a1a2f30&token=1008033209&lang=zh_CN#rd)
 - [如何写一篇技术文章，谈谈我的看法](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486087&idx=1&sn=1d4086485864cf833f00828b341158ed&chksm=ebd74b86dca0c2900c4e8bb57b15635e9362b6d7b5faf8dc4f42217ddc5703e9484b986ef76f&token=711412693&lang=zh_CN#rd)
 
-###  :lollipop:推荐阅读  ###
+###  :lollipop:<a name="推荐阅读">推荐阅读</a>  ###
 
 只要是公众号出现过的技术文章，我都是精心挑选过的。这些文章是值得被我记录下来用作以后索引的（是我的构造知识体系的一部分）
 
@@ -514,5 +515,8 @@
 - :bell:**获取Java精美脑图**，回复         脑图
 - :clipboard:**获取Java学习路线**，回复    路线
 - :sound:**获取开发常用工具**， 回复        工具
+
+
+**均无套路！！！** 回复就可以获取网盘
 
 <img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
