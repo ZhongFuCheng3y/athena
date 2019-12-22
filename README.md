@@ -60,7 +60,6 @@
 - [小白入门学习打日志](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485532&idx=1&sn=4d64fba2114aa938f0076d604f3ad080&chksm=ebd7495ddca0c04b0bc738fb0f081e1192230546af56dff374366ab5b54a2af5587a71c386d8&token=1643292024&lang=zh_CN#rd)
 - [最近学到的Lambda表达式基础知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485692&idx=1&sn=a6b3f040b13fa2324992b11a927e34dc&chksm=ebd749fddca0c0eb1b05c08ede7ee4a44699584fbc0c3449ec2cac7642fd13819470ec7f44d8&token=1024331018&lang=zh_CN#rd)
 - [手把手带你体验Stream流](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485861&idx=3&sn=9f4a83c8c75b43ead7b4ec187fe031ca&chksm=ebd748a4dca0c1b2d8a1b16656ada30c92bcb6e099c54e6b5b6eebbb29dc8914e1244e77c1e4&token=2052427710&lang=zh_CN#rd)
-- [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
 
 
 ###  :jack_o_lantern:拓展知识  ###
@@ -73,6 +72,7 @@
 - [带你了解什么是Push消息推送](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485591&idx=1&sn=0c7da1e2adf80a635f7822a7defc18c5&chksm=ebd74996dca0c080e28cf92e789b6ae660ae8fa986fda7e8d18682bb90d9ec0037a2ade29595&token=711412693&lang=zh_CN#rd)
 - [人在家中坐，班从天上来「小程序推送」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486222&idx=1&sn=811823aa7729b6fee9c353c02551358f&chksm=ebd74a0fdca0c3198a01ad5f082b7565bdb85eca098db25d5a92c7afef61b042293d5472fed2&token=711412693&lang=zh_CN#rd)
 - [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
+- [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
   
 
 ###  :book:Java容器  ###
@@ -394,19 +394,14 @@
 - [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN###rd)
 - [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b###rd)
 
-###  :ghost:ZooKeeper 
+
+
+
+###   :flags:分布式 or 中间件
 
 - [什么是ZooKeeper？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485115&idx=1&sn=5d269f40f820c82b460993669ca6242e&chksm=ebd747badca0ceac9953f82e08b1d1a49498ebd4af77ec5d628a0682bb9f0ac5ab347411f654&token=1741918942&lang=zh_CN###rd)
-
-
-###  :minidisc:消息队列 
-
 - [什么是消息队列？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485080&idx=1&sn=f223feb9256727bde4387d918519766b&chksm=ebd74799dca0ce8fa46223a33042a79fc16ae6ac246cb8f07e63a4a2bdce33d8c6dc74e8bd20&token=1755043505&lang=zh_CN###rd)
 - [全网最通俗易懂的Kafka入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486160&idx=1&sn=95b961002664e54ca33bf22997594d1d&chksm=ebd74bd1dca0c2c7494c9184e013cb4171743bc7e1b2ee6ddda01ed4eb3291a3eedfed908022&token=711412693&lang=zh_CN#rd)
-
-
-###   :flags:分布式 
-
 - [《大型网站系统与Java中间件》读书笔记（上）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485312&idx=1&sn=d88716c03faf2d4dd7a5df4f56b7ea2e&chksm=ebd74681dca0cf972714ec6ad0e69f18005e29e64b75891d92d378be73d71244d4f5a3fa982e&token=1120664639&lang=zh_CN###rd)
 - [《大型网站系统与Java中间件》读书笔记 （二）](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485332&idx=1&sn=d5124382dd89c6f0b724d3feac001d34&chksm=ebd74695dca0cf83a5a412faabd5fb7099fe2e8b1d425170d66b7bf77190a00572c78210c53b&token=1120664639&lang=zh_CN###rd)
 
