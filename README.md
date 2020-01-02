@@ -1,16 +1,4 @@
 
-[**推荐阿里云服务器89/年，229/3年，价格美丽推荐购买，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的😂）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
-
-- https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link
-
-
-<p align="center">
-    <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1zah30rej30u00u0npg.jpg" alt="扫码购买！" width="200px" height="200px" algin="center" />
-</p>
-
-搭建教程，从0开始一步一步带你搭建😂:[手把手教你使用云服务器](https://mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
-
-***
 
 从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库的文章都是我**个人原创**，公众号发过的技术文章（干货）也会有相关的目录整理，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
 及时获取最新文章
