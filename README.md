@@ -506,3 +506,18 @@
 **均无套路！！！** 回复就可以获取网盘
 
 <img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
+
+
+
+#### 阿里云购买
+
+[**我帮阿里云推广服务器 买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的 ）。扫码或者点击购买**](http://link.zhihu.com/?target=https%3A//www.aliyun.com/minisite/goods%3FuserCode%3Dpfn5xpli%26share_source%3Dcopy_link)
+
+![img](https://pic1.zhimg.com/80/v2-89648b1863fd1160a780b7bf3d01d345_hd.jpg)
+
+
+
+
+
+[**搭建教程，从0开始一步一步带你搭建**](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
+
