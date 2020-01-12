@@ -447,8 +447,10 @@
 
 ###  :ramen:工具使用  ###
 
+- [我采访了同事，让他掏出了每天都会浏览的干货网站](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486306&idx=1&sn=c66f36376fa81bb2d42440dfda6cae64&chksm=ebd74a63dca0c375d9ad7031808feb7b11f5ec4350b1933001177d80697a35bd03c59684b8f7&token=1436027357&lang=zh_CN#rd)
 - [花了一天整理了一些我常用的工具](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485140&idx=1&sn=783d7a9bb272a81dfa5f182d4da231fc&chksm=ebd747d5dca0cec38b7d746b928bf762617ea114cbcd4559830f62c62572e7c84b9009fb226a&token=1230572157&lang=zh_CN###rd)
 - [拿到一台新的Windows电脑，我会做什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485373&idx=1&sn=65c962a6106300b43df8b065bd25ca22&chksm=ebd746bcdca0cfaab1c49151132bf37a69bd6991dfbda91d47780c4eef6c7245f1f96357aa46&token=1120664639&lang=zh_CN###rd)
+- [你会换掉Postman吗？我正在用HTTP Client...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486321&idx=1&sn=5e5601d10a7cdaebe854ed5db974c351&chksm=ebd74a70dca0c366f87789351a0135147edb768371c8448edd271dc5f21d767f9f49523b5626&token=1436027357&lang=zh_CN#rd)
 - [为什么需要Docker？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484584&idx=1&sn=9af3a77887595e53206ff4120b350d8d&chksm=ebd745a9dca0ccbf20e3c1979b232a2004c8156192ae20858599506d683120a95a2366f4e4be&token=1712662964&lang=zh_CN###rd)
 - [Docker入门为什么可以这么简单？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484631&idx=1&sn=ffca3c18cce7392ef96dce268cd7d6df&chksm=ebd745d6dca0ccc0964a4c99afaa030c997ee75379e14b5d7fc0beacc4c59f33318af266a7ce###rd)
 - [聊聊Docker镜像](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484674&idx=1&sn=e3ea5efe00fde6ebd3c73d5bf2155813&chksm=ebd74403dca0cd15bb3f5e288f28ce2058f8031ee18c2912cec05d886552c24e6e8d8e5ff1ce&token=1676899695&lang=zh_CN###rd)
@@ -476,6 +478,8 @@
 - [程序员的快乐就是这么朴素无华且枯燥](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485383&idx=1&sn=04cb857dc5636b28ecdaf51221e5798f&chksm=ebd746c6dca0cfd0f87ff338f09a0e3a102a729f503090a3305a2bad0ba7270503ea0c8fe39c&token=1120664639&lang=zh_CN###rd)
 - [我和我的公众号](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485997&idx=1&sn=d591519cc8ff3f42099a1067c37d31bc&chksm=ebd74b2cdca0c23a77ecb6d8d758e53b08866840050db7ac6535740081f7069c3e044a1a2f30&token=1008033209&lang=zh_CN#rd)
 - [如何写一篇技术文章，谈谈我的看法](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486087&idx=1&sn=1d4086485864cf833f00828b341158ed&chksm=ebd74b86dca0c2900c4e8bb57b15635e9362b6d7b5faf8dc4f42217ddc5703e9484b986ef76f&token=711412693&lang=zh_CN#rd)
+- [毕业半年，买了一台MacBook Pro](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486285&idx=1&sn=073115f7efaba09c87a8e57f7d88e319&chksm=ebd74a4cdca0c35a28f8621d0750517572e39e722af99eec1b30dcbeb6d11fc0a595bc7cae33&token=1436027357&lang=zh_CN#rd)
+- [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
   
 
 ###  :lollipop:<a name="推荐阅读">推荐阅读</a>  ###
