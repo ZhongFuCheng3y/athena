@@ -70,6 +70,7 @@
 - [人在家中坐，班从天上来「小程序推送」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486222&idx=1&sn=811823aa7729b6fee9c353c02551358f&chksm=ebd74a0fdca0c3198a01ad5f082b7565bdb85eca098db25d5a92c7afef61b042293d5472fed2&token=711412693&lang=zh_CN#rd)
 - [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
 - [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
+- [本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&chksm=ebd74d32dca0c42414cfc32cf4cfc06880c59602b1cdcb578ab31bab884748b618cbbb532247&token=1963867963&lang=zh_CN#rd)
   
 
 ###  :book:Java容器  ###
@@ -349,6 +350,7 @@
 
 ### :radio:搜索引擎
 
+- [「扫盲」 Elasticsearch](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486522&idx=1&sn=7b6080756d0711c646fb47d5db49fc97&chksm=ebd74d3bdca0c42d35f7eef97e4f925a20cc82b07ca7aeba21f83ba56135ab2dd1ad73238b72&token=1963867963&lang=zh_CN#rd)
 - [Lucene入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=2&sn=ca972fb77eb8f3a69d20071afeb359b3&chksm=ebd74377dca0ca612ea6966a55bb66444383226f08cbdcaa2805507aba706089a9ab689a1de7&scene=21###wechat_redirect)
 - [Elasticsearch就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484058&idx=2&sn=5c2b32adaab2ffe4b331c5abb95a5f43&chksm=ebd7439bdca0ca8d7967fcaa037fcd7880cfbd6b36478f51617ad9de79040076e2f72dbad8ba&scene=21###wechat_redirect)
 
