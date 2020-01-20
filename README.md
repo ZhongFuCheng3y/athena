@@ -508,15 +508,8 @@
 - :bell:**获取Java精美脑图**
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
+- :bow:**精美整理好的PDF电子书**
 
 在公众号下回复「**888**」即可获取！！
 
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
-
-
-
-
-
-
-
-
