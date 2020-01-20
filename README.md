@@ -503,24 +503,20 @@
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号
+如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
+- :art:**获取海量视频资源**
+- :bell:**获取Java精美脑图**
+- :clipboard:**获取Java学习路线**
+- :sound:**获取开发常用工具**
 
-#### :sparkling_heart:<a name="更多资料">更多资料</a> ###
+在公众号下回复「**888**」即可获取！！
 
-
-关注公众号：Java3y推送最新的**干货**技术文章
-
-- :art:**获取海量视频资源**， 回复          视频
-- :bell:**获取Java精美脑图**，回复         脑图
-- :clipboard:**获取Java学习路线**，回复    路线
-- :sound:**获取开发常用工具**， 回复        工具
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
 
 
-**均无套路！！！** 回复就可以获取网盘
 
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
+
 
 
 
