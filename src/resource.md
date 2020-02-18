@@ -1,8 +1,20 @@
+
+[**我帮阿里云推广服务器 买来送自己，现在最低89/年（很便宜了！），送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的 ）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
+
+![img](https://pic1.zhimg.com/80/v2-89648b1863fd1160a780b7bf3d01d345_hd.jpg)
+
+
+我写了一篇教程：[**搭建教程，从0开始一步一步带你搭建**](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
+
+***
+
 # 资源分享 #
 
 资源均来源于网络，在自学/开公众号的时候收集而来。**如果侵权请联系我，会第一时间删除**。
 
 如果**链接已失效**(我也无办法，很多链接我是没有保存在自已的网盘中的，见谅)。
+
+### 如果失效了，不妨去bilibili找找（那是一个神奇的网站！）
 
 
 # Java基础 #
@@ -358,24 +370,25 @@ Android核心技术
 - 公开课：从比特币到区块链  https://pan.baidu.com/s/10MDp4MvcjAsz5OQnaY6o0w
 
 
-### 如果觉得还不错： ###
-
-关注公众号：Java3y推送最新的**干货**技术文章，进入公众号回复“1”加入**Java交流群**！
-
-![](https://user-gold-cdn.xitu.io/2018/2/28/161dc06a373e4f4d?w=258&h=258&f=jpeg&s=27005)
+#### :sparkling_heart:<a name="微信群">加入微信群</a> ###
 
 
-加微信，回复“1”加入交流群：
+添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
+
+<img src='https://img-blog.csdnimg.cn/20191113141315386.png' width=300px height=300px />
 
 
-![](https://user-gold-cdn.xitu.io/2019/7/13/16be9f6350187ae2?w=564&h=786&f=png&s=156728)
+#### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
+如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
+- :art:**获取海量视频资源**
+- :bell:**获取Java精美脑图**
+- :clipboard:**获取Java学习路线**
+- :sound:**获取开发常用工具**
+- :bow:**精美整理好的PDF电子书**
 
-#### :sparkling_heart:坚持原创不易，给博主加鸡腿 ####
+在公众号下回复「**888**」即可获取！！
 
-
-如果要买阿里云服务的，不妨通过这个链接去购买(可以领劵，**有优惠**！)
-
-- https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pfn5xpli
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
 
