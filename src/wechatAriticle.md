@@ -21,6 +21,9 @@
 - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486080&idx=2&sn=1afa169fa0e162ccb7d82bcd268c9340&chksm=ebd74b81dca0c297dec5f382458ab885bd4ba6554789f5a94e8dc9e23cd9c4c250277b21637c&token=1879076182&lang=zh_CN#rd)
 - [《吐血整理》-顶级程序员书单集](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486340&idx=3&sn=21b81b21f2bcb06d9d0a571222945f28&chksm=ebd74a85dca0c39341f119cb382bdf7f6d4a196d05d71988688fd4febe7ad832fa809c6502d2&token=1436027357&lang=zh_CN#rd)
 - [《程序人生》系列-害敖丙差点被开除的P0事故](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486362&idx=2&sn=6ace06e9a18f5b830397e20342ba9dfd&chksm=ebd74a9bdca0c38de77febe4e10cf1c6ea08d630897a8b971b3eb966bbd2d0b73e4fa299493a&token=1436027357&lang=zh_CN#rd)
+- [一位程序媛妹妹的半年成长总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486595&idx=1&sn=35ebbb46464f295db8040dcc6f7fce09&chksm=ebd74d82dca0c494a7dc9e323fa8c08faea62a0279bfda2768ab0e2c40a1fa5bf0d1e8979d03&token=2140209384&lang=zh_CN#rd)
+- [毕业10年，他有话说](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486631&idx=1&sn=734f562651456c74b96e113693eaa26f&chksm=ebd74da6dca0c4b0cbba74ccfd38f1310dc0f654b519cf639c478606c4a12e022e7035f213f8&token=2140209384&lang=zh_CN#rd)
+- [当面试官问你职业规划，你如何答复才能拿到Offer？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486642&idx=1&sn=809059eed76aed02519d6ed163820166&chksm=ebd74db3dca0c4a54fefe7d795b935679090a15d91e1a41da2154a2a7efea1ef4db549f97527&token=2140209384&lang=zh_CN#rd)
 
 
 #### :clipboard:基础
@@ -113,6 +116,10 @@
 - [漫话：如何给女朋友解释为什么一到年底，部分网站就会出现日期混乱的现象？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486485&idx=2&sn=fe8af0c1e170c4c4e8732717e5a9225f&chksm=ebd74d14dca0c4029987ba6e4d7015c67a2dc58f7703ec778ed1569cf28302f52b9a98c21e0e&token=1436027357&lang=zh_CN#rd)
 - [这篇 ReentrantLock 你可以看得懂！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486498&idx=2&sn=365ba9418e8f2c3a4c380d953be3dd34&chksm=ebd74d23dca0c435896883982ec7448099b382f1fea13a80043b8c954615aba2c2dbd0fe6055&token=1436027357&lang=zh_CN#rd)
 - [权限管理「基于角色的访问控制（RBAC）」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486510&idx=1&sn=04f233f28857ce599f0f4ed6dead79b1&chksm=ebd74d2fdca0c43995b173aa4a804a7709e2f11e740413340400a924f5f849f058bf5d9fd654&token=1436027357&lang=zh_CN#rd)
+- [「硬核」操作系统基础](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486575&idx=1&sn=3da4c55549ac83f9daa57ba84fd7df78&chksm=ebd74d6edca0c4780249456d73f4c0db5c53dfd1cf8973ebc51324d398216981b627e28fa3eb&token=2140209384&lang=zh_CN#rd)
+- [「HTTP标头」都给你整理好了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486578&idx=2&sn=fa72cfefe07f5ef095c9a7d6efd6802e&chksm=ebd74d73dca0c46570f9f8b57d6e219cfbae5ec2b6814ba03b62e3e4cc0993b145609440ddd3&token=2140209384&lang=zh_CN#rd)
+- [这些操作系统的概念，保你都听过！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486626&idx=3&sn=b4af80b6a6f843a4c16d41be294b2730&chksm=ebd74da3dca0c4b5354661a50d1f07c0302f46e81ba0437dc38dcf26b25586556bc1457d0a35&token=2140209384&lang=zh_CN#rd)
+- [漫画：大厂总体SaaS化部署，到底什么是IaaS、PaaS和SaaS？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486666&idx=3&sn=19f37b67c42635220d38d81f5b0afdfe&chksm=ebd74dcbdca0c4dd8082a9fccf659ff5210107be42ab3cb94101acf47495c96d407466f3bd8e&token=2140209384&lang=zh_CN#rd)
 
 
 #### :egg:项目/框架/中间件
@@ -162,6 +169,12 @@
 - [Elasticsearch是一把梭，用起来再说？！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486447&idx=2&sn=a50a9538f7c1346d439d8f15a8b06904&chksm=ebd74aeedca0c3f8c5e824b579a60dc0f85ae211baf97afcff8163f172cc69bd85810c1f9575&token=1436027357&lang=zh_CN#rd)
 - [SpringBoot RESTful实战](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486469&idx=1&sn=fa0fc001ef702a5406a996c17d1a5a2f&chksm=ebd74d04dca0c4121ff7127bff4d2b8768c0aa303f830b1703cf754c4760e2612df4789c58e9&token=1436027357&lang=zh_CN#rd)
 - [SpringBoot配置读取](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486485&idx=1&sn=532fb038254c03d28a7a1af8b265b08b&chksm=ebd74d14dca0c40235db7861cfac62bb59273a5b957f5f30a3ca1b22baae9ee55fd07e6f85ff&token=1436027357&lang=zh_CN#rd)
+- [从源码分析如何优雅的使用 Kafka 生产者](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486599&idx=1&sn=aecc1a14d85a253c4fc1731971cae75b&chksm=ebd74d86dca0c4907417d8737fb551af17fc72395813e75fda3a87258fe06518be36e3f9cf26&token=2140209384&lang=zh_CN#rd)
+- [教你搭SpringBoot环境](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486616&idx=1&sn=487c0fbc38cbce68112e968a07a69f6d&chksm=ebd74d99dca0c48f16305177526e4f73acae422a1cae27005b39567d4954482a0a5fc4e5799c&token=2140209384&lang=zh_CN#rd)
+- [Spring Aop 扫盲](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486644&idx=1&sn=bce7bcf78feb62c77e0b9bbf3893398e&chksm=ebd74db5dca0c4a3c8f5e03b754607442e77dd212f1ebe5c66f1914d6300fd418dfe849e4b10&token=2140209384&lang=zh_CN#rd)
+- [玩转SpringBoot的启动过程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486653&idx=2&sn=dab49950d7cebb07646bddaf5a364e45&chksm=ebd74dbcdca0c4aa462bffa11accf30d64718f99cd730361e4cc1f39535dd21c5e2efa67f404&token=2140209384&lang=zh_CN#rd)
+- [漫话：如何给女朋友解释什么是3PC？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486653&idx=3&sn=888284a45e8332d5d569317238310f6d&chksm=ebd74dbcdca0c4aaf5af9e6014763d51d081dba042b6ba9c683cd3d27087841817ed44e9ac4a&token=2140209384&lang=zh_CN#rd)
+- [SpringBoot 定时器，你用对了吗](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486666&idx=2&sn=d2887c9c2bc04bb9fc7550d1849c0307&chksm=ebd74dcbdca0c4dda9f960cbf7a05a5817049113ff218f61531b8eeb92eaba618ab23196eaa2&token=2140209384&lang=zh_CN#rd)
 
 ### :book:WebFlux
 
@@ -216,6 +229,7 @@
 - [MySQL 是如何实现 ACID 中的 D 的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486392&idx=2&sn=9acbd3e958a40e559ea41b878bc1da64&chksm=ebd74ab9dca0c3af3aca763faf2072e709ba54a4bbd8c37b25ba29f0fb88ce56443750342443&token=1436027357&lang=zh_CN#rd)
 - [了解 MongoDB 看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486372&idx=1&sn=754b4c8b2b7b81ac4fa185eb6d3b5d00&chksm=ebd74aa5dca0c3b3f911690fe831067525ae710f4fb51d04762100aa74b8fa8e343e7e9dbc1f&token=1436027357&lang=zh_CN#rd)
 - [理解MySQL索引底层数据结构](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486431&idx=2&sn=d638657903dbe3add84d073be439f7c9&chksm=ebd74adedca0c3c8b13ad259a7c55647f439e87b7ee141d8d4ae1ed67f3013fb0f1ef274eba8&token=1436027357&lang=zh_CN#rd)
+- [「干货」MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486589&idx=1&sn=8889eb0789d8cce06e3751130d148509&chksm=ebd74d7cdca0c46a9844170458815651fe291116a425580f0c63adc638e5735eedd5e65770ef&token=2140209384&lang=zh_CN#rd)
 
 
 
@@ -236,6 +250,7 @@
 - [HBase 基本入门篇](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486131&idx=2&sn=1967c4e722cf832b342d4b8a1871adc3&chksm=ebd74bb2dca0c2a410c9a20c14501491d84cab7367e1bd06d90a0118a3f6d7b6e4ebe4b1652d&token=711412693&lang=zh_CN#rd)
 - [Java 操作 HBase 教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486279&idx=2&sn=e33f05d77e1e4dd971ad80b85433fc8e&chksm=ebd74a46dca0c3507c966f74dd4fd4f3c2ca76151f9904e68e7c8b535c30213c1c5837aafd6b&token=1436027357&lang=zh_CN#rd)
 - [HBase 原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486362&idx=3&sn=09a7655b165816a71f619dac74d4ccf2&chksm=ebd74a9bdca0c38d96d03aadbb58201696fbcb882157ac44a08c3d57297386a7aec98aaf7577&token=1436027357&lang=zh_CN#rd)
+- [什么是ETL？算了，你可能不懂。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486626&idx=2&sn=90cb0e193ae02d55563890e54c3446a6&chksm=ebd74da3dca0c4b5de3519feb953e618ac2ca78603879c2007b7f8b8ff3a0af07b6ed7ed7dc5&token=2140209384&lang=zh_CN#rd)
 
 #### :tophat:数据结构+算法
 
