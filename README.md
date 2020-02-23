@@ -33,7 +33,7 @@
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
   <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
-  <a href="#推荐阅读"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
+  <a href="https://github.com/ZhongFuCheng3y/JavaSystem"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
 </p>
 
 
@@ -488,13 +488,6 @@
 - [毕业半年，买了一台MacBook Pro](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486285&idx=1&sn=073115f7efaba09c87a8e57f7d88e319&chksm=ebd74a4cdca0c35a28f8621d0750517572e39e722af99eec1b30dcbeb6d11fc0a595bc7cae33&token=1436027357&lang=zh_CN#rd)
 - [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
   
-
-###  :lollipop:<a name="推荐阅读">推荐阅读</a>  ###
-
-只要是公众号出现过的技术文章，我都是精心挑选过的。这些文章是值得被我记录下来用作以后索引的（是我的构造知识体系的一部分）
-
-
-> 整理于此链接：[干货文章](src/wechatAriticle.md)
 
 
 
