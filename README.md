@@ -497,7 +497,7 @@
 
 添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
 
-<img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=300px height=300px />
+<img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=400px height=500px />
 
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
