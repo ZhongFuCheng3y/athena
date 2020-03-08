@@ -1,4 +1,4 @@
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)，有服务器购买需求的可以看看。
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
 
 
 ***
