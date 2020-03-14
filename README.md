@@ -14,11 +14,11 @@
 - ...
 
 
-PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。
+PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者微信搜索**Java3y**，在公众号下回复「**888**」即可获取！！
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
 
-扫二维码或者微信搜索**Java3y**，在公众号下回复「**888**」即可获取！！
+
 
 
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
