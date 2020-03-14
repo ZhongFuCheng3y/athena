@@ -2,6 +2,16 @@
 
 
 ***
+PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者微信搜索**Java3y**，在公众号下回复「**888**」即可获取！！
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
+
+
+
+
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+
+***
 
 从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库的文章都是我**个人原创**，公众号发过的技术文章（干货）也会有相关的目录整理，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
 及时获取最新文章
@@ -12,16 +22,6 @@
 - 能给你感受文章的温度
 - 能帮助你构建知识体系
 - ...
-
-
-PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者微信搜索**Java3y**，在公众号下回复「**888**」即可获取！！
-
-![](https://tva1.sinaimg.cn/large/00831rSTly1gctlo64beaj31mp0u07wh.jpg)
-
-
-
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
 
 
