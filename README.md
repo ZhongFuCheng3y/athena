@@ -505,6 +505,11 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
 
+
+如果你觉得有帮助，想要打赏作者，那么可以通过这个收款码打赏我，**金额不重要，心意最重要**。主要是我可以通过这个打赏情况来看我的心血有没有价值，嘻嘻。
+
+<img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px />
+
 ***
 ### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
 
