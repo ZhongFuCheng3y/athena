@@ -29,7 +29,15 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
     <a href="https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw"><img src="https://img.shields.io/badge/购买-云服务-brightgreen.svg" alt="云服务"></a>
 </p>
 
+###  :coffee: 各类知识点总结
 
+> 下面的文章都有对应的**原创精美**PDF，在持续更新中，可以来找我催更~
+
+- [如果让我回到大学，我会这样学习Servlet](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486798&idx=1&sn=ce900e97a495ffd681cd0ad9b78aa5ca&chksm=ebd74c4fdca0c559d0a32a3f3ddb3f579d3a16b47f70234c46ac2e5df315e7df90f93d1715b9&token=1109491988&lang=zh_CN#rd)
+- [2020年了，还需要学习JSP吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486854&idx=1&sn=fd77a6225b898b69c4f0e1a7e66cf105&chksm=ebd74c87dca0c5910a923a443ea6f694dd554b68df8cc00506570555b9cf7718a2ef2a058754&token=1109491988&lang=zh_CN#rd)
+- [在工作中常用到的集合有哪些？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486873&idx=1&sn=ce0752f481336ffba9b8f44265b2550e&chksm=ebd74c98dca0c58ee04162d7e5d07fd36c8ec1b32460a8a2396168a9fc5885a208810f0916f2&token=1109491988&lang=zh_CN#rd)
+- [学习JDBC需要掌握些什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486905&idx=1&sn=67fcd0558cfbdf6cd36de98cbd93afaf&chksm=ebd74cb8dca0c5ae052e6d216ed13458a9a17fa1b0f245bf740379b1d4b04b4e55fcbfb5adb4&token=1109491988&lang=zh_CN#rd)
+- [【干货】史上最好的排序和数据结构入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486831&idx=1&sn=0d4b05e10d66eda1129f43348a8e3952&chksm=ebd74c6edca0c5786a5109a131d0501ef6bd02077e5ce1ad75d906cf3612a320d1098163e2d0&token=1109491988&lang=zh_CN#rd)
 
 ###  :coffee:Java基础  ###
 
@@ -68,6 +76,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :book:Java容器  ###
 
+- [在工作中常用到的集合有哪些？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486873&idx=1&sn=ce0752f481336ffba9b8f44265b2550e&chksm=ebd74c98dca0c58ee04162d7e5d07fd36c8ec1b32460a8a2396168a9fc5885a208810f0916f2&token=1109491988&lang=zh_CN#rd)
 - [【新手向】如何学习Java集合](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486185&idx=1&sn=599b6e76316d3fa654a169cc3fe21923&chksm=ebd74be8dca0c2fed3a2eb6ec5455bb25ee26187cc249af1bfc93ce5fac37534a4ad66d09810&token=711412693&lang=zh_CN#rd)
 - [Collection总览](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484122&idx=1&sn=c3bd6436b3e661ae15cb9d7154d82b89&chksm=ebd743dbdca0cacdcb272576f4be48c466bd73160a87227314e8fb21d5e4f9156c23902198ab&scene=21###wechat_redirect)
 - [List集合就这么简单【源码剖析】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484130&idx=1&sn=4052ac3c1db8f9b33ec977b9baba2308&chksm=ebd743e3dca0caf51b170fd4285345c9d992a5a56afc28f2f45076f5a820ad7ec08c260e7d39&scene=21###wechat_redirect)
@@ -123,6 +132,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :dollar:Servlet+Tomcat  ###
 
+- [如果让我回到大学，我会这样学习Servlet](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486798&idx=1&sn=ce900e97a495ffd681cd0ad9b78aa5ca&chksm=ebd74c4fdca0c559d0a32a3f3ddb3f579d3a16b47f70234c46ac2e5df315e7df90f93d1715b9&token=1109491988&lang=zh_CN#rd)
 - [Tomcat就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=2&sn=b09e747bd0af5e1899a47911f92d1afe&chksm=ebd74452dca0cd44ebbcdacab7373a72d0c769746eaa2bfa454d1dbc8295e3f93b0645c0ac58###rd)
 - [Servlet第一篇【介绍Servlet、HTTP协议、WEB目录结构、编写入门Servlet程序、Servlet生命周期】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=3&sn=109e71815ba6474a1e0f5120ab7e0d10&chksm=ebd74452dca0cd449e12c3bd6b8bb59b917f2c26c2e028c80e416e9eef2e9badf76a3f33e3ee###rd)
 - [Servlet第二篇【Servlet调用图、Servlet细节、ServletConfig、ServletContext】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=4&sn=01aa36130bc5b2d5ff5b9f67375d9ac5&chksm=ebd74452dca0cd447ed0845e12746e4c8828ec858ce24db0cd890c7e2fc95f8569f729e1fb36###rd)
@@ -136,6 +146,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :ledger:JSP  ###
 
+- [2020年了，还需要学习JSP吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486854&idx=1&sn=fd77a6225b898b69c4f0e1a7e66cf105&chksm=ebd74c87dca0c5910a923a443ea6f694dd554b68df8cc00506570555b9cf7718a2ef2a058754&token=1109491988&lang=zh_CN#rd)
 - [JSP第一篇【JSP介绍、工作原理、生命周期、语法、指令、行为】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=2&sn=b32e2d5160b952522e1b1ebd1705821f&chksm=ebd74498dca0cd8e2448a048136bee1bb3aba9c0b57407b06764803d581a359a1e21829104c6###rd)
 - [JSP第二篇【内置对象的介绍、4种属性范围、应用场景】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=3&sn=9f6e750b83ebe2e73eed9c4a4b75114b&chksm=ebd74498dca0cd8e948da9b61aa299e8817fd8503e21f5a6acce38c90cf4faa59c27514bb1b9###rd)
 - [JSP第三篇【JavaBean的介绍、JSP的行为--JavaBean】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=4&sn=0ed63ec461cd8d0246c5c9cdb470e0ee&chksm=ebd74498dca0cd8eaffaf90fd4b05949702d28679fbb7696802c12519220eef7660fa5c5cc2f###rd)
@@ -161,6 +172,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 
 - [在工作中常用到的SQL](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485472&idx=1&sn=5ddf518cb23e7dcbdf697085a9736377&chksm=ebd74921dca0c03769baf0aa76ce44b8e52c61facc12223fb9ff67203e6b1c87f4d1b43e4b29&token=2078489135&lang=zh_CN###rd)
+- [原来MySQL面试还会问这些...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486783&idx=1&sn=5d794bbb97b09a9b097200ac4790d058&chksm=ebd74c3edca0c5288742261c856c907022e4524d70ef535986da3492ce4af8e84936a2555d8c&token=1109491988&lang=zh_CN#rd)
 - [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=1&sn=ea1c06f0852d3bca3b98b64d8589598e&chksm=ebd740d1dca0c9c77ed1bb07a96bd0fbe147a13515797cf71597de821dbe3357e3eef5f741dc&scene=21###wechat_redirect)
 - [数据库两大神器【索引和锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=1&sn=410dea1863ba823bec802769e1e6fe8a&chksm=ebd74430dca0cd265a9a91dcb2059e368f43a25f3de578c9dbb105e1fba0947e1fd0b9c2f4ef&token=1676899695&lang=zh_CN###rd)
 - [面试前必须知道的MySQL命令【expalin】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484461&idx=2&sn=5469534e2f370aba86c3a24a2ff52b70&chksm=ebd7452cdca0cc3ad456d695a78f48e72c245f85b4afb210fb7b62218e89785d964d72ec4891&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
@@ -177,6 +189,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :tshirt:JDBC  ###
 
+- [学习JDBC需要掌握些什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486905&idx=1&sn=67fcd0558cfbdf6cd36de98cbd93afaf&chksm=ebd74cb8dca0c5ae052e6d216ed13458a9a17fa1b0f245bf740379b1d4b04b4e55fcbfb5adb4&token=1109491988&lang=zh_CN#rd)
 - [JDBC【介绍JDBC、使用JDBC连接数据库、简单的工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=2&sn=1de97cc6680fbb04a464cbfe37a000ce&chksm=ebd744e1dca0cdf7b8bcda78ec516f3873f72fe62af593c9abfb60cccdbf0d11250db822d573###rd)
 - [JDBC【PreparedStatment、批处理、处理二进制、自动主键、调用存储过程、函数】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=3&sn=ebe11114c8e75108bae2b7454c36e96f&chksm=ebd744e1dca0cdf7387328260e886a67ee563ee4303504caaee581df97c2a6f086e8d0ac031b###rd)
 - [JDBC【事务、元数据、改造JDBC工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=4&sn=6cd7718e6d630247ed0b532efecae996&chksm=ebd744e1dca0cdf7484a802d729bae21a6fef0d7fa4a8188335529f94eae9c24dabba8ade8a3###rd)
@@ -330,6 +343,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 ### :jack_o_lantern:大数据
 
 - [「只需7分钟！我将抢走你的赞」大数据入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486604&idx=1&sn=fba7a7f34c8faf182b88b137ff85b3ed&chksm=ebd74d8ddca0c49b87fc50027d94b272b7df7ac11e966a6a85b7c1f9bafec846f25a3c6461ef&token=2140209384&lang=zh_CN#rd)
+- [什么是HDFS？算了，告诉你也不懂。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486743&idx=1&sn=658d90686b4b7e80d3042f4208bf07eb&chksm=ebd74c16dca0c5009f6e12750306ea55803b6e9d02d21017a429ac4e65bcbd12dbf8c925f1ec&token=1109491988&lang=zh_CN#rd)
 
 ### :lollipop:Docker
 
@@ -383,6 +397,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :gift_heart:数据结构与算法  ###
 
+- [【干货】史上最好的排序和数据结构入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486831&idx=1&sn=0d4b05e10d66eda1129f43348a8e3952&chksm=ebd74c6edca0c5786a5109a131d0501ef6bd02077e5ce1ad75d906cf3612a320d1098163e2d0&token=1109491988&lang=zh_CN#rd)
 - [冒泡排序就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484008&idx=1&sn=381a302e215e31df28cd189f60c8a788&chksm=ebd74369dca0ca7ff32e74e52cbe05fb09164b4ccd1cc157e492fcbd066699994c347d5518de&scene=21###wechat_redirect)
 - [选择排序就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484014&idx=1&sn=e9ab33c614b3b65016fdb3eb69cce71e&chksm=ebd7436fdca0ca79edf760b251f6d43b91090895fd0a58af165af0654c19fed7333eb40d695c&scene=21###wechat_redirect)
 - [插入排序就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=1&sn=d369e2dec3b8b3779169f3ea326e4a50&chksm=ebd74377dca0ca61e5d6dfa479e46cb48fed12451a6fbdec67fc61c42898ac8482702336d761&scene=21###wechat_redirect)
