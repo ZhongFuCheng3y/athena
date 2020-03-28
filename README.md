@@ -497,7 +497,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - :bell:**获取Java精美脑图**
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
-- :christmas_tree:**获取精美PDF**
+- :christmas_tree:**获取精美原创PDF**
 
 
 在公众号下回复「**888**」即可获取！！
