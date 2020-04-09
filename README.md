@@ -35,11 +35,13 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 > 下面的文章都有对应的**原创精美**PDF，在持续更新中，可以来找我催更~
 
-- [如果让我回到大学，我会这样学习Servlet](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486798&idx=1&sn=ce900e97a495ffd681cd0ad9b78aa5ca&chksm=ebd74c4fdca0c559d0a32a3f3ddb3f579d3a16b47f70234c46ac2e5df315e7df90f93d1715b9&token=1109491988&lang=zh_CN#rd)
-- [2020年了，还需要学习JSP吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486854&idx=1&sn=fd77a6225b898b69c4f0e1a7e66cf105&chksm=ebd74c87dca0c5910a923a443ea6f694dd554b68df8cc00506570555b9cf7718a2ef2a058754&token=1109491988&lang=zh_CN#rd)
-- [在工作中常用到的集合有哪些？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486873&idx=1&sn=ce0752f481336ffba9b8f44265b2550e&chksm=ebd74c98dca0c58ee04162d7e5d07fd36c8ec1b32460a8a2396168a9fc5885a208810f0916f2&token=1109491988&lang=zh_CN#rd)
-- [学习JDBC需要掌握些什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486905&idx=1&sn=67fcd0558cfbdf6cd36de98cbd93afaf&chksm=ebd74cb8dca0c5ae052e6d216ed13458a9a17fa1b0f245bf740379b1d4b04b4e55fcbfb5adb4&token=1109491988&lang=zh_CN#rd)
-- [【干货】史上最好的排序和数据结构入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486831&idx=1&sn=0d4b05e10d66eda1129f43348a8e3952&chksm=ebd74c6edca0c5786a5109a131d0501ef6bd02077e5ce1ad75d906cf3612a320d1098163e2d0&token=1109491988&lang=zh_CN#rd)
+- [92页的Mybatis](https://mp.weixin.qq.com/s/0_zTBooRV4RTWQa8VOwiWg)
+- [129页的多线程](https://mp.weixin.qq.com/s/r7IrmvBxG5W0hswfcgFjcQ)
+- [141页的Servlet](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486798&idx=1&sn=ce900e97a495ffd681cd0ad9b78aa5ca&chksm=ebd74c4fdca0c559d0a32a3f3ddb3f579d3a16b47f70234c46ac2e5df315e7df90f93d1715b9&token=1109491988&lang=zh_CN#rd)
+- [158页的JSP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486854&idx=1&sn=fd77a6225b898b69c4f0e1a7e66cf105&chksm=ebd74c87dca0c5910a923a443ea6f694dd554b68df8cc00506570555b9cf7718a2ef2a058754&token=1109491988&lang=zh_CN#rd)
+- [76页的集合](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486873&idx=1&sn=ce0752f481336ffba9b8f44265b2550e&chksm=ebd74c98dca0c58ee04162d7e5d07fd36c8ec1b32460a8a2396168a9fc5885a208810f0916f2&token=1109491988&lang=zh_CN#rd)
+- [64页的JDBC](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486905&idx=1&sn=67fcd0558cfbdf6cd36de98cbd93afaf&chksm=ebd74cb8dca0c5ae052e6d216ed13458a9a17fa1b0f245bf740379b1d4b04b4e55fcbfb5adb4&token=1109491988&lang=zh_CN#rd)
+- [105页的数据结构和算法](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486831&idx=1&sn=0d4b05e10d66eda1129f43348a8e3952&chksm=ebd74c6edca0c5786a5109a131d0501ef6bd02077e5ce1ad75d906cf3612a320d1098163e2d0&token=1109491988&lang=zh_CN#rd)
 
 ###  :coffee:Java基础  ###
 
