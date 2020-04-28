@@ -44,9 +44,10 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [105页的数据结构和算法](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486831&idx=1&sn=0d4b05e10d66eda1129f43348a8e3952&chksm=ebd74c6edca0c5786a5109a131d0501ef6bd02077e5ce1ad75d906cf3612a320d1098163e2d0&token=1109491988&lang=zh_CN#rd)
 - [142页的Spring](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487013&idx=1&sn=f0d8c292738eb49bcd09cb2f6458dc69&chksm=ebd74f24dca0c632fa3ef8f205a2dd5c96531f78a68eae805e15b84de0b59774196a188aed14&token=306734573&lang=zh_CN#rd)
 - [58页的过滤器和监听器](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487054&idx=1&sn=25f92798050d092027931e2ae0379e90&chksm=ebd74f4fdca0c6595bc795fd00354cf683d4593550cdd38ba7103893dd622606fc8f55fe6631&token=306734573&lang=zh_CN#rd)
+- [30页的HTTP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487071&idx=1&sn=511459730b3114fc77c60b82b54159b8&chksm=ebd74f5edca0c648c9b0c572fbc7fdbc26179ddcd7c45de37c06b6a2906a8ffc207f145b66f2&token=480724592&lang=zh_CN#rd)
 - Hibernate
 - AJAX
-- HTTP
+- Redis
 - ......
 
 
@@ -83,6 +84,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
 - [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
 - [本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&chksm=ebd74d32dca0c42414cfc32cf4cfc06880c59602b1cdcb578ab31bab884748b618cbbb532247&token=1963867963&lang=zh_CN#rd)
+- [为什么PUSH推送经常出事故？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487092&idx=1&sn=15ab7e0d1b9536f44e5635ea59dc6bb8&chksm=ebd74f75dca0c6631c471fb538289e5efb60df04d5917612799e8a7e41e1ccb086e685593fcd&token=480724592&lang=zh_CN#rd)
   
 
 ###  :book:Java容器  ###
@@ -133,12 +135,13 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :guitar:HTTP+JSON+XML  ###
 
+- [30页的HTTP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487071&idx=1&sn=511459730b3114fc77c60b82b54159b8&chksm=ebd74f5edca0c648c9b0c572fbc7fdbc26179ddcd7c45de37c06b6a2906a8ffc207f145b66f2&token=480724592&lang=zh_CN#rd)
 - [HTTP就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484979&idx=2&sn=abe78c7ce58c15cb8b2e26602802e096&chksm=ebd74732dca0ce24b00b10ed3948801bc1ab0fdfa3cdb478b21d1048a4e5564bbda2316b31bb###rd)
 - [HTTP常见面试题](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484979&idx=3&sn=37528f67d16315e5d49ad48ebf6bd53d&chksm=ebd74732dca0ce2446aa4a66e22f082d48b49f63301be748e61ce652b3a00de53d4f15cef3a7###rd)
+- [HTTP2和HTTPS来不来了解一下？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484302&idx=1&sn=5fafcb988463b5b2df9120552b6dc3f8&chksm=ebd7428fdca0cb99d5ed60296100b315c4ecaefc901fb5bb5448f902c6f41b0fa0dc18d5ee06&scene=21###wechat_redirect)
 - [XML就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=2&sn=6f811188eb489d6a3737032e043aadd4&chksm=ebd74709dca0ce1f98e2ef78680a323d3848e08cf65f1ad9550b6f860a19b732c8803c880761###rd)
 - [JSON就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=3&sn=264ee1f0fa88d5b3d5f9edd0903a73cb&chksm=ebd74709dca0ce1f163d51065539f1dcf7376836787c2e845416bfc545d836d6b6f8582d51c3###rd)
 - [XML+JSON面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=4&sn=be318e764c90f978d9935430c96f7f45&chksm=ebd74709dca0ce1f493d36423da7b1e276cf55146276df12c29a66852fc9d6264bc2b6abfbbc###rd)
-- [HTTP2和HTTPS来不来了解一下？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484302&idx=1&sn=5fafcb988463b5b2df9120552b6dc3f8&chksm=ebd7428fdca0cb99d5ed60296100b315c4ecaefc901fb5bb5448f902c6f41b0fa0dc18d5ee06&scene=21###wechat_redirect)
 
   
 
