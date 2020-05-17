@@ -23,7 +23,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 
 <p align="center">
-  <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
@@ -519,16 +518,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [我核酸检测阴性，但被隔离了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487152&idx=1&sn=fb6d1d57ab1994389afa04ec46abe4ce&chksm=ebd74fb1dca0c6a7f99e9e1d759d577af676fab250bd4e1081a5c3ec42a030026a1d2c4f800f&token=1857725064&lang=zh_CN#rd)
   
 
-
-
-#### :sparkling_heart:<a name="微信群">加入微信群</a> ###
-
-
-添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
-
-<img src='https://user-gold-cdn.xitu.io/2020/4/18/1718b2504f8dddd2?w=564&h=786&f=jpeg&s=47900' width=400px height=500px />
-
-
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
 如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
@@ -538,6 +527,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - :clipboard:**获取Java学习路线**
 - :sound:**获取开发常用工具**
 - :christmas_tree:**获取精美原创PDF**
+- :ramen:**加入微信交流群**
 
 
 在公众号下回复「**888**」即可获取！！
