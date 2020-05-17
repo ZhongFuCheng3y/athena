@@ -85,6 +85,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
 - [本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&chksm=ebd74d32dca0c42414cfc32cf4cfc06880c59602b1cdcb578ab31bab884748b618cbbb532247&token=1963867963&lang=zh_CN#rd)
 - [为什么PUSH推送经常出事故？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487092&idx=1&sn=15ab7e0d1b9536f44e5635ea59dc6bb8&chksm=ebd74f75dca0c6631c471fb538289e5efb60df04d5917612799e8a7e41e1ccb086e685593fcd&token=480724592&lang=zh_CN#rd)
+- [三歪用了10分钟写完了一个需求](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487140&idx=1&sn=ac15c9701c129d9d1e0dd61237568778&chksm=ebd74fa5dca0c6b3f45685f125a7aae7ac3d832bf999acb7f9e9acdf4dc294ad72fce3aa8fba&token=1857725064&lang=zh_CN#rd)
   
 
 ###  :book:Java容器  ###
@@ -362,6 +363,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 - [「只需7分钟！我将抢走你的赞」大数据入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486604&idx=1&sn=fba7a7f34c8faf182b88b137ff85b3ed&chksm=ebd74d8ddca0c49b87fc50027d94b272b7df7ac11e966a6a85b7c1f9bafec846f25a3c6461ef&token=2140209384&lang=zh_CN#rd)
 - [什么是HDFS？算了，告诉你也不懂。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486743&idx=1&sn=658d90686b4b7e80d3042f4208bf07eb&chksm=ebd74c16dca0c5009f6e12750306ea55803b6e9d02d21017a429ac4e65bcbd12dbf8c925f1ec&token=1109491988&lang=zh_CN#rd)
+- [三歪学了几天Storm，上线了一版，全都是Bug](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487284&idx=1&sn=59a7683b2ca942f77384ddc35f662cf0&chksm=ebd74e35dca0c72350ddb05be6d06b2aaa29ff0e4f1d9aa3db3c5131decc71b18180e8c3cf17&token=1857725064&lang=zh_CN#rd)
 
 ### :lollipop:Docker
 
@@ -488,6 +490,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [程序员可以选择哪些平台写技术博客？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484656&idx=1&sn=9e1dd44bc50ddb370bfa607257ed43a2&chksm=ebd745f1dca0cce7ae67eedd77632ccbaf36d1c0970d66aa28f4db18f1878deb83323f9183a1###rd)
 - [IDEA使用总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=1&sn=82b0d1478c3b627c6a847d08c4a2f482&chksm=ebd740e7dca0c9f1efa7cfba144ce0ca49f83e8f583c61be352ec59bc31a9f1239431ee125d6&scene=21###wechat_redirect)
 - [Maven就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=2&sn=611da7804c1738453005c6a4e0f94561&chksm=ebd740e7dca0c9f1a3bbc086493d53b04c9953e4c81f9337a158f217c6f2f02fcbcff327a7ed&scene=21###wechat_redirect)
+- [敖丙这逼竟然连Maven都不会](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487419&idx=1&sn=c107911e52874e574a5aef874b046b1a&chksm=ebd74ebadca0c7ac7164191639b036fc132a1cf02c8d74460876086542b571fc794aad28344e&token=1857725064&lang=zh_CN#rd)
 - [SVN就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=3&sn=06a4c8258f1f1d4ccf2781c4a121e54e&chksm=ebd740e7dca0c9f1eb8e57991e701122aa61d2c94fed55aed2f0a5dff2c0e289b2120f1deb7d&scene=21###wechat_redirect)
 - [UML就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=4&sn=04b95b0762a7a4def8d7e4c2a625bfa4&chksm=ebd740e7dca0c9f156588bbf16eee2b0edaa799bbb164e23ce1f0920176a52c589de614e9369&scene=21###wechat_redirect)
 - [听说新版IDEA支持中文，三歪体验了一把](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487003&idx=1&sn=f16b4e53414562a121eff292e3e11937&chksm=ebd74f1adca0c60cb3fdb46ce15614cbaa08217a8d659d440a14c1d8421b154051e8c76e1725&token=306734573&lang=zh_CN#rd)
@@ -512,6 +515,8 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [毕业半年，买了一台MacBook Pro](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486285&idx=1&sn=073115f7efaba09c87a8e57f7d88e319&chksm=ebd74a4cdca0c35a28f8621d0750517572e39e722af99eec1b30dcbeb6d11fc0a595bc7cae33&token=1436027357&lang=zh_CN#rd)
 - [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
 - [三歪花了两周学到了P7的技能？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487030&idx=1&sn=6cf07ed04990779d01cde7866e5f274a&chksm=ebd74f37dca0c6219828eac4fe87e4107ff21d8f7a3155ce6b0cab88e0b52f8152bd97a0f452&token=306734573&lang=zh_CN#rd)
+- [三歪太难了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487127&idx=1&sn=58753cccfb429ad73a68efe41572a7be&chksm=ebd74f96dca0c680720088be395c74be3a653adc04ebefd8a13517f806f17d33c1be7ef812f5&token=1857725064&lang=zh_CN#rd)
+- [我核酸检测阴性，但被隔离了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487152&idx=1&sn=fb6d1d57ab1994389afa04ec46abe4ce&chksm=ebd74fb1dca0c6a7f99e9e1d759d577af676fab250bd4e1081a5c3ec42a030026a1d2c4f800f&token=1857725064&lang=zh_CN#rd)
   
 
 
