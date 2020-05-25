@@ -190,6 +190,14 @@ source ~/.zshrc
 如果要设置所有用户登录到 zsh 的时候都具备的 alias，可以在 /etc/zshrc 中设置
 
 
+eg:
+
+```java
+alias to='/etc/autojump/to'
+export MAVEN_HOME=/Users/3y/Downloads/apache-maven-3.6.3
+export PATH=$PATH:$MAVEN_HOME/bin
+```
+
 
 
 
