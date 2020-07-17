@@ -69,6 +69,9 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [小白入门学习打日志](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485532&idx=1&sn=4d64fba2114aa938f0076d604f3ad080&chksm=ebd7495ddca0c04b0bc738fb0f081e1192230546af56dff374366ab5b54a2af5587a71c386d8&token=1643292024&lang=zh_CN#rd)
 - [最近学到的Lambda表达式基础知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485692&idx=1&sn=a6b3f040b13fa2324992b11a927e34dc&chksm=ebd749fddca0c0eb1b05c08ede7ee4a44699584fbc0c3449ec2cac7642fd13819470ec7f44d8&token=1024331018&lang=zh_CN#rd)
 - [手把手带你体验Stream流](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485861&idx=3&sn=9f4a83c8c75b43ead7b4ec187fe031ca&chksm=ebd748a4dca0c1b2d8a1b16656ada30c92bcb6e099c54e6b5b6eebbb29dc8914e1244e77c1e4&token=2052427710&lang=zh_CN#rd)
+- [几个线上的Bug](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487997&idx=1&sn=49c53a5cd66a6abf6cdf261de501206a&chksm=ebd750fcdca0d9eab476e21dfae06a4a81da4732fdc8698536e6466a7c8843ab6d9dcfa3a003&token=1936697047&lang=zh_CN#rd)
+- [项目Module？二方包？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488900&idx=1&sn=976197eab15d531eaa1eb25b176b0628&chksm=ebd75485dca0dd93c90b6e85376428db160d0022909b133458f5ccf2a0382e4fd54517e03de9&token=1936697047&lang=zh_CN#rd)
+
 
 
 ###  :jack_o_lantern:拓展知识  ###
@@ -130,6 +133,8 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [三分钟学会门面模式！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484556&idx=1&sn=920d00416ef76669b59937c771526345&chksm=ebd7458ddca0cc9bdda893fa034da354d97cfd0e96bdaa6ccfc2a94a0ba85a564415efa3c6ba&token=1712662964&lang=zh_CN###rd)
 - [一分钟学会《模板方法模式》](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484572&idx=1&sn=29b09d74a30afe8df29bfb19990f3fb2&chksm=ebd7459ddca0cc8b410bb1bd91a967aed86b68257ab1b4983ec4999c33bb8edee7d5eb7d1540&token=1712662964&lang=zh_CN###rd)
 - [这就是『责任链模式』？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486593&idx=1&sn=c6f1ed857d1f60fec8575f19b3e46e6c&chksm=ebd74d80dca0c49616226259e7678a6544a3cbdc5dc5b27f94490640162c953a76886bd09d98&token=2140209384&lang=zh_CN#rd)
+- [责任链模式通用代码](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490601&idx=1&sn=741664a26e8c8d4d3255d19864249bff&chksm=ebd75d28dca0d43e62be820313971e139c24a7fa92b9beb1e91b79a1e3a73b4274acf8a8eec4&token=1936697047&lang=zh_CN#rd)
+- [建造者模式](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490723&idx=1&sn=c5f55b7d828818b3a6b823505888c5fe&chksm=ebd75da2dca0d4b4366463f59b0fcd90b80b8998ce55c9f8a07ad9dfe58f80eab9e17904505e&token=1936697047&lang=zh_CN#rd)
 
 
 
@@ -280,7 +285,8 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [Spring【依赖注入】就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483946&idx=1&sn=bb21dfd83cf51214b2789c9ae214410f&chksm=ebd7432bdca0ca3ded6ad9b50128d29267f1204bf5722e5a0501a1d38af995c1ee8e37ae27e7&scene=21###wechat_redirect)
 - [Spring【AOP模块】就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=1&sn=b34e385ed716edf6f58998ec329f9867&chksm=ebd74333dca0ca257a77c02ab458300ef982adff3cf37eb6d8d2f985f11df5cc07ef17f659d4&scene=21###wechat_redirect)
 - [Spring【DAO模块】知识要点](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483965&idx=1&sn=2cd6c1530e3f81ca5ad35335755ed287&chksm=ebd7433cdca0ca2a70cb8419306eb9b3ccaa45b524ddc5ea549bf88cf017d6e5c63c45f62c6e&scene=21###wechat_redirect)
-- [SpringMVC入门就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483973&idx=1&sn=dda2252f37e5eb6db90db636a65c40bf&chksm=ebd74344dca0ca52d671fc0fa072bcc80892bfb5801ceaab6a4754036d246f5bef960c1840bd&scene=21###wechat_redirect)
+- [Spring【DAO模块】知识要点](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487665&idx=1&sn=cffb9d634a8b770562557b72a833e591&chksm=ebd751b0dca0d8a604d89b1e3c5d1728f35b752368f5a878311066cbc09ff8a5905ad05690c7&token=1936697047&lang=zh_CN#rd)
+- [三歪肝出了期待已久的SpringMVC](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483973&idx=1&sn=dda2252f37e5eb6db90db636a65c40bf&chksm=ebd74344dca0ca52d671fc0fa072bcc80892bfb5801ceaab6a4754036d246f5bef960c1840bd&scene=21###wechat_redirect)
 - [SpringMVC【开发Controller】详解](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483973&idx=2&sn=483265ffa9087ca956ec2d637119a5f8&chksm=ebd74344dca0ca5298b894fbb706c26ee942a423e858e27679f06df4b83899e1a97cc9d5eb97&scene=21###wechat_redirect)
 - [SpringMVC【参数绑定、数据回显、文件上传】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484008&idx=2&sn=44e15b795eda5e1f112bf663cc146bf7&chksm=ebd74369dca0ca7fedadb2835d80896df76fa5279a9db38abccceb2b25c9ee95d549cc9010ed&scene=21###wechat_redirect)
 - [SpringMVC【校验器、统一处理异常、RESTful、拦截器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484008&idx=3&sn=5719448dab8d9c3d7e8c91261db4c1a2&chksm=ebd74369dca0ca7f51637c13b09579572d3e2960b5105decda4ecf7878f7b10346669f26e221&scene=21###wechat_redirect)
@@ -363,6 +369,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [「只需7分钟！我将抢走你的赞」大数据入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486604&idx=1&sn=fba7a7f34c8faf182b88b137ff85b3ed&chksm=ebd74d8ddca0c49b87fc50027d94b272b7df7ac11e966a6a85b7c1f9bafec846f25a3c6461ef&token=2140209384&lang=zh_CN#rd)
 - [什么是HDFS？算了，告诉你也不懂。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486743&idx=1&sn=658d90686b4b7e80d3042f4208bf07eb&chksm=ebd74c16dca0c5009f6e12750306ea55803b6e9d02d21017a429ac4e65bcbd12dbf8c925f1ec&token=1109491988&lang=zh_CN#rd)
 - [三歪学了几天Storm，上线了一版，全都是Bug](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487284&idx=1&sn=59a7683b2ca942f77384ddc35f662cf0&chksm=ebd74e35dca0c72350ddb05be6d06b2aaa29ff0e4f1d9aa3db3c5131decc71b18180e8c3cf17&token=1857725064&lang=zh_CN#rd)
+- [卧槽！三歪更新了HBase](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488766&idx=1&sn=f18350b152d51e464b9c5a55ff9e4bbf&chksm=ebd755ffdca0dce9429440b10f239263a979227edea1fee4c62082316140c29e0659e11e9ff1&token=1936697047&lang=zh_CN#rd)
 
 ### :lollipop:Docker
 
@@ -478,10 +485,14 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :ramen:工具使用  ###
 
+- [三歪给女朋友讲解什么是Git](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247489082&idx=1&sn=dbdd2e6f59c4fac19fbbbb1870d2ca93&chksm=ebd7573bdca0de2d0d5556d2c652df5de7e66dbb137c878c026efbad319cc5cafdc3b8700aa5&token=1936697047&lang=zh_CN#rd)
+- [三歪建议 去工作之前 最好学学Git](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490028&idx=1&sn=ce7dab3f5a08d54425e6fd54bafc5efc&chksm=ebd758eddca0d1fbc256f4cbfe90ee85a9e014c5d4e4e90af535907cbb25040df526c227be03&token=1936697047&lang=zh_CN#rd)
 - [我采访了同事，让他掏出了每天都会浏览的干货网站](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486306&idx=1&sn=c66f36376fa81bb2d42440dfda6cae64&chksm=ebd74a63dca0c375d9ad7031808feb7b11f5ec4350b1933001177d80697a35bd03c59684b8f7&token=1436027357&lang=zh_CN#rd)
 - [花了一天整理了一些我常用的工具](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485140&idx=1&sn=783d7a9bb272a81dfa5f182d4da231fc&chksm=ebd747d5dca0cec38b7d746b928bf762617ea114cbcd4559830f62c62572e7c84b9009fb226a&token=1230572157&lang=zh_CN###rd)
 - [拿到一台新的Windows电脑，我会做什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485373&idx=1&sn=65c962a6106300b43df8b065bd25ca22&chksm=ebd746bcdca0cfaab1c49151132bf37a69bd6991dfbda91d47780c4eef6c7245f1f96357aa46&token=1120664639&lang=zh_CN###rd)
+- [线上排查工具Arthas](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490413&idx=1&sn=8461b98e158c02b2fb229a8d9c5e26d7&chksm=ebd75a6cdca0d37a417f2991d33c8beb71b9a220815808aee436b5a2c3907a0ff48cb1906992&token=1936697047&lang=zh_CN#rd)
 - [你会换掉Postman吗？我正在用HTTP Client...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486321&idx=1&sn=5e5601d10a7cdaebe854ed5db974c351&chksm=ebd74a70dca0c366f87789351a0135147edb768371c8448edd271dc5f21d767f9f49523b5626&token=1436027357&lang=zh_CN#rd)
+- [curl 使用](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490103&idx=1&sn=7b3a2ba4eb8d6081ad9acfd8e237bc08&chksm=ebd75b36dca0d22055921108df16a3d9fa03be283317fb74d72840d5fb8853cb118174e9d661&token=1936697047&lang=zh_CN#rd)
 - [为什么需要Docker？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484584&idx=1&sn=9af3a77887595e53206ff4120b350d8d&chksm=ebd745a9dca0ccbf20e3c1979b232a2004c8156192ae20858599506d683120a95a2366f4e4be&token=1712662964&lang=zh_CN###rd)
 - [Docker入门为什么可以这么简单？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484631&idx=1&sn=ffca3c18cce7392ef96dce268cd7d6df&chksm=ebd745d6dca0ccc0964a4c99afaa030c997ee75379e14b5d7fc0beacc4c59f33318af266a7ce###rd)
 - [聊聊Docker镜像](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484674&idx=1&sn=e3ea5efe00fde6ebd3c73d5bf2155813&chksm=ebd74403dca0cd15bb3f5e288f28ce2058f8031ee18c2912cec05d886552c24e6e8d8e5ff1ce&token=1676899695&lang=zh_CN###rd)
@@ -516,6 +527,13 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [三歪花了两周学到了P7的技能？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487030&idx=1&sn=6cf07ed04990779d01cde7866e5f274a&chksm=ebd74f37dca0c6219828eac4fe87e4107ff21d8f7a3155ce6b0cab88e0b52f8152bd97a0f452&token=306734573&lang=zh_CN#rd)
 - [三歪太难了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487127&idx=1&sn=58753cccfb429ad73a68efe41572a7be&chksm=ebd74f96dca0c680720088be395c74be3a653adc04ebefd8a13517f806f17d33c1be7ef812f5&token=1857725064&lang=zh_CN#rd)
 - [我核酸检测阴性，但被隔离了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487152&idx=1&sn=fb6d1d57ab1994389afa04ec46abe4ce&chksm=ebd74fb1dca0c6a7f99e9e1d759d577af676fab250bd4e1081a5c3ec42a030026a1d2c4f800f&token=1857725064&lang=zh_CN#rd)
+- [三歪的读者，有点东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488343&idx=1&sn=3a0acf8811502d4ed4f5cefa42c0ebd4&chksm=ebd75256dca0db4019e26697f13a6418fbe01fbcc4bd99fe59e9bf4375f8a3ffb81cf6a86983&token=1936697047&lang=zh_CN#rd)
+- [大公司与小公司？校招？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488722&idx=1&sn=d56b47b71182b8739a4044e119fa7663&chksm=ebd755d3dca0dcc52b67bec51c85e55cb35ea2ff59e583dcd03df13d80419c3986fe6040a87e&token=1936697047&lang=zh_CN#rd)
+- [一个优秀的程序员应该具备什么能力？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247489875&idx=1&sn=07a775b11ce95db4ccf7a7c183c48115&chksm=ebd75852dca0d14447fdff2c4d969ca8ce38f1fcfccd11dc2d2fd57dda5eb0643d1f4bbf3524&token=1936697047&lang=zh_CN#rd)
+- [南京之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490299&idx=1&sn=b2cb86367a3ff77f7021460cb561c00a&chksm=ebd75bfadca0d2ecd00c1700ef26dc4acc719b422b110ae9cef2f8b8f1948efa1a50b63af222&token=1936697047&lang=zh_CN#rd)
+- [西安之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490674&idx=1&sn=988ad22b0845f15b51e24271eac0ea21&chksm=ebd75d73dca0d4657c54ae063d9d97f747d0968f876bfb2276c0ac8150fb125b49e38426c108&token=1936697047&lang=zh_CN#rd)
+
+
   
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
