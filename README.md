@@ -565,17 +565,12 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
 
 
-- :bell:**获取Java精美脑图**
-- :clipboard:**获取Java学习路线**
-- :sound:**获取开发常用工具**
-- :christmas_tree:**获取精美原创PDF**
-- :ramen:**加入微信交流群**
+精美脑图、学习路线、1000+页的原创电子书、开发交流群、简历模板等干货，在微信搜**【Java3y】**关注我回复『888』即可领取！！
 
 
-在公众号下回复「**888**」即可获取！！
+也可扫下面的码直接关注哦~
 
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
