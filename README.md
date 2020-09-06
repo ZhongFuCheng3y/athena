@@ -38,7 +38,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 - [揭秘！消息管理平台实现原理](#公众号)
 - [揭秘！广告系统..](#公众号)
-- [揭秘！待更新...](#公众号)
+- [揭秘！待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
 
 ###  :dollar: 面试系列
 
@@ -46,7 +46,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [《求求大厂给个Offer》List面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491557&idx=1&sn=3d2e237ba7a485322455556c1a2e4b24&chksm=ebd75ee4dca0d7f200fcf77d2a611273a6695fc5ff0881c4f59d2b0219a32f7a7b424914a56e&token=67449918&lang=zh_CN#rd)
 - [《求求大厂给个Offer》Map面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491738&idx=1&sn=6da7d0b7fdcbbf4142ae2cda0065d0a5&chksm=ebd4a19bdca3288d0bfd16548608a8c0f2b27050fd9fe1ce212bc1aadf40c43b56edf7af82ad&token=67449918&lang=zh_CN#rd)
 - [《求求大厂给个Offer》：多线程基础面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491964&idx=1&sn=7beba118a4a485f2c81151657c3a84f8&chksm=ebd4a07ddca3296b2638b70b1b57c19071ecfe31a45ed4281d137c90e98f4ecf38287de0a8fa&token=67449918&lang=zh_CN#rd)
-- [《求求大厂给个Offer》：待更新...](#公众号)
+- [《求求大厂给个Offer》：待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
 
 
 ###  :coffee: 原创电子书
