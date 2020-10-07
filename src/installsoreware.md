@@ -187,7 +187,7 @@ source ~/.zshrc
 
 ![](https://ws2.sinaimg.cn/large/006tNc79ly1g2a9nkedynj313m0ei774.jpg)
 
-如果要设置所有用户登录到 zsh 的时候都具备的 alias，可以在 /etc/zshrc 中设置
+如果要设置所有用户登录到 zsh 的时候都具备的 alias，可以在 /etc/zshrc 中设置，如果/etc/zshrc 不奏效，可以 尝试改`~/.zshrc`
 
 
 eg:
