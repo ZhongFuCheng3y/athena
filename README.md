@@ -36,7 +36,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 ###  :lollipop: 项目系列
 
-- [揭秘！消息管理平台实现原理](#公众号)
+- [揭秘！消息管理平台实现原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247492660&idx=1&sn=323c8fe0dff218d3233c019e547bb747&chksm=ebd4a535dca32c2343b36a92b310caac84d739662ea894409db97ffcdb4545e3677870353d8c&token=1570523904&lang=zh_CN#rd)
 - [揭秘！广告系统..](#公众号)
 - [揭秘！待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
 
@@ -74,6 +74,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 
 - [初学者学Java常遇到的问题，我都给你回答了！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486584&idx=1&sn=e5caa05ccb45722474bc84799c7949e3&chksm=ebd74d79dca0c46f34326dbdb39c0ef89c31305cf355aad28b6ba4e85d54b5f2453ee822cef6&token=2140209384&lang=zh_CN#rd)
 - [Java学习路线](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
+- [学完SSM，该学什么呢？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491682&idx=1&sn=316a54b5cc4bb51ea889de086e86b822&chksm=ebd4a163dca32875bf7b1bc921f8bc9965c4b05059f2b0c73d232c65b324b93e4535d5b2ccac&token=1570523904&lang=zh_CN#rd)
 - [泛型就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484109&idx=1&sn=ed48fa9216c260fb9b622d9f383d8c25&chksm=ebd743ccdca0cadad9e8e4a5cd9a7ce96b595ddaf6fb2e817a9a0d49d4d54c50bb93a97e56eb&scene=21###wechat_redirect)
 - [注解就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484113&idx=1&sn=f5fd35b2f7dc45a256fee170cad0cdc9&chksm=ebd743d0dca0cac6a8fed8caf09f0d561b0358dece9b8e746e1e6726bca093287cf515638349&scene=21###wechat_redirect)
 - [Object对象你真理解了吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484210&idx=1&sn=9d40e2e4c72f0727c7b7925cbe314fc0&chksm=ebd74233dca0cb2560677c7dc7746bf166195d793860c41ab477431af2cf0a6004477e27b814&scene=21###wechat_redirect)
@@ -559,6 +560,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [强势入驻B站！?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491412&idx=1&sn=f536499073b302a6259c99cc21734f2a&chksm=ebd75e55dca0d743469a72f9912baa7c8fbf23c26a5c3408dc5e57d94634126dee8f973c10e6&token=67449918&lang=zh_CN#rd)
 - [绍兴滑雪](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491477&idx=1&sn=fd67e8996a62ae4ac399e50ab390122f&chksm=ebd75e94dca0d7820fc79125db86cc09dbaf9ac1c5bc8cc5b2eea86bfb315a417500a67b43db&token=67449918&lang=zh_CN#rd)
 - [入职一年胖了？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491898&idx=1&sn=db4a4f9d5b7fbfc43e98f42d83cc3387&chksm=ebd4a03bdca3292d65feba4ef99c6fab65e485b6b296f5bce57dd84f3407d78180d8e2fdf3a3&token=67449918&lang=zh_CN#rd)
+- [适合互联网人看的一部电影](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493039&idx=1&sn=58b7c2397a0a4acee55001759fa0ea82&chksm=ebd4a4aedca32db8cce193126458b76067fdedaad3aa9b5e656e1f614d37abaceca3df8be991&token=1570523904&lang=zh_CN#rd)
 
 
   
