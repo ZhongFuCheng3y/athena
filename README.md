@@ -40,7 +40,8 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 ###  :lollipop: 项目系列
 
 - [揭秘！消息管理平台实现原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247492660&idx=1&sn=323c8fe0dff218d3233c019e547bb747&chksm=ebd4a535dca32c2343b36a92b310caac84d739662ea894409db97ffcdb4545e3677870353d8c&token=1570523904&lang=zh_CN#rd)
-- [揭秘！广告系统..](#公众号)
+- [广告系统基础入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493170&idx=1&sn=3b6c1f663673a69bf7f9e32b49fb9bb4&chksm=ebd4a733dca32e25f357bb6646438a79b0c704b0b169557c0ef53f9646b813fd0ec60648138b&token=42648559&lang=zh_CN#rd)
+- [CPS？淘宝客这项技术是什么实现的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494570&idx=1&sn=e539a2610bd042b6e0e98dd24ff5de70&chksm=ebd4aaabdca323bd182e8c31e5432f0048cda348e11dd3f6c3818cc478b16889a0adc001a041&token=42648559&lang=zh_CN#rd)
 - [揭秘！待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
 
 ###  :dollar: 面试系列
@@ -395,6 +396,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [三歪学了几天Storm，上线了一版，全都是Bug](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487284&idx=1&sn=59a7683b2ca942f77384ddc35f662cf0&chksm=ebd74e35dca0c72350ddb05be6d06b2aaa29ff0e4f1d9aa3db3c5131decc71b18180e8c3cf17&token=1857725064&lang=zh_CN#rd)
 - [卧槽！三歪更新了HBase](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488766&idx=1&sn=f18350b152d51e464b9c5a55ff9e4bbf&chksm=ebd755ffdca0dce9429440b10f239263a979227edea1fee4c62082316140c29e0659e11e9ff1&token=1936697047&lang=zh_CN#rd)
 - [各个中间件是如何实现持久化的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490818&idx=1&sn=ad64b3d80b3fd5060860588802a13fdb&chksm=ebd75c03dca0d515d67a04198a34e2a1a4857b5e319983ee62027f31997fee6308f227ca4562&token=67449918&lang=zh_CN#rd)
+- [kylin麒麟入门教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494370&idx=1&sn=0a64ec68a0850fa30b5c240851777d5c&chksm=ebd4abe3dca322f584d49676c6d5f11034c8484e95bec0c264d822cba8207bb02fac44c0f8ce&token=42648559&lang=zh_CN#rd)
 
 
 ### :lollipop:Docker
@@ -564,6 +566,9 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [绍兴滑雪](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491477&idx=1&sn=fd67e8996a62ae4ac399e50ab390122f&chksm=ebd75e94dca0d7820fc79125db86cc09dbaf9ac1c5bc8cc5b2eea86bfb315a417500a67b43db&token=67449918&lang=zh_CN#rd)
 - [入职一年胖了？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491898&idx=1&sn=db4a4f9d5b7fbfc43e98f42d83cc3387&chksm=ebd4a03bdca3292d65feba4ef99c6fab65e485b6b296f5bce57dd84f3407d78180d8e2fdf3a3&token=67449918&lang=zh_CN#rd)
 - [适合互联网人看的一部电影](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493039&idx=1&sn=58b7c2397a0a4acee55001759fa0ea82&chksm=ebd4a4aedca32db8cce193126458b76067fdedaad3aa9b5e656e1f614d37abaceca3df8be991&token=1570523904&lang=zh_CN#rd)
+- [每天我究竟在做什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493546&idx=1&sn=1c0bd7dbbc872f085f83a8ce9d6fceb9&chksm=ebd4a6abdca32fbdf38f1637321b66a631caa599be9b15b4a9e40c0cc9d7ac74486928f9a513&token=42648559&lang=zh_CN#rd)
+- [参加了同学的婚礼...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493952&idx=1&sn=e73206b5fb6c516247c687bc28c98a37&chksm=ebd4a841dca3215725224790021911b576d3a9a9d49db79ec57b237f88085961cdc17ec1690d&token=42648559&lang=zh_CN#rd)
+
 
 
   
