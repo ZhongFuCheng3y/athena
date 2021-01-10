@@ -1,6 +1,6 @@
 已经有**8756**个初学者都下载了！🔥三歪把【大厂面试知识点】、【简历模板】、【原创文章】全部整理成电子书，共有**1263**页！
 
-PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问我**（公众号有我的联系方式）。扫二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
+PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我（公众号有我的**私人的联系方式**）。扫下方二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gctsejip0mj31ks0u04qp.jpg)
 
@@ -8,7 +8,7 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 ![](https://user-gold-cdn.xitu.io/2020/4/6/1714ece9d8e51737?w=2062&h=1080&f=jpeg&s=206448)
 
 
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
 
 ***
@@ -22,10 +22,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - 能给你感受文章的温度
 - 能帮助你构建知识体系
 - ...
-
-<p align="center">
-  <span>广告位出租</span>
-</p>
 
 
 <p align="center">
