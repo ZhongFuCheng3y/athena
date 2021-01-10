@@ -37,20 +37,16 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
   <a href="https://space.bilibili.com/198434865"><img src="https://img.shields.io/badge/关注我的bilibili-blue.svg" alt="关注我的bilibili"></a>
 </p>
 
-###  :lollipop: 项目系列
 
-- [揭秘！消息管理平台实现原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247492660&idx=1&sn=323c8fe0dff218d3233c019e547bb747&chksm=ebd4a535dca32c2343b36a92b310caac84d739662ea894409db97ffcdb4545e3677870353d8c&token=1570523904&lang=zh_CN#rd)
-- [广告系统基础入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493170&idx=1&sn=3b6c1f663673a69bf7f9e32b49fb9bb4&chksm=ebd4a733dca32e25f357bb6646438a79b0c704b0b169557c0ef53f9646b813fd0ec60648138b&token=42648559&lang=zh_CN#rd)
-- [CPS？淘宝客这项技术是什么实现的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494570&idx=1&sn=e539a2610bd042b6e0e98dd24ff5de70&chksm=ebd4aaabdca323bd182e8c31e5432f0048cda348e11dd3f6c3818cc478b16889a0adc001a041&token=42648559&lang=zh_CN#rd)
-- [揭秘！待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
+###  :dollar: 对线面试官面试系列
 
-###  :dollar: 面试系列
-
-- [《求求大厂给个Offer》简历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491355&idx=1&sn=a89b627a9580c5234918dc56b212f1ff&chksm=ebd75e1adca0d70c47fd01dc5482abe69e627dad6836d1fd4da227f84195c80ebf3e05e2e4af&token=67449918&lang=zh_CN#rd)
-- [《求求大厂给个Offer》List面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491557&idx=1&sn=3d2e237ba7a485322455556c1a2e4b24&chksm=ebd75ee4dca0d7f200fcf77d2a611273a6695fc5ff0881c4f59d2b0219a32f7a7b424914a56e&token=67449918&lang=zh_CN#rd)
-- [《求求大厂给个Offer》Map面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491738&idx=1&sn=6da7d0b7fdcbbf4142ae2cda0065d0a5&chksm=ebd4a19bdca3288d0bfd16548608a8c0f2b27050fd9fe1ce212bc1aadf40c43b56edf7af82ad&token=67449918&lang=zh_CN#rd)
-- [《求求大厂给个Offer》：多线程基础面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491964&idx=1&sn=7beba118a4a485f2c81151657c3a84f8&chksm=ebd4a07ddca3296b2638b70b1b57c19071ecfe31a45ed4281d137c90e98f4ecf38287de0a8fa&token=67449918&lang=zh_CN#rd)
-- [《求求大厂给个Offer》：待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
+- [【对线面试官】简历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491355&idx=1&sn=a89b627a9580c5234918dc56b212f1ff&chksm=ebd75e1adca0d70c47fd01dc5482abe69e627dad6836d1fd4da227f84195c80ebf3e05e2e4af&token=67449918&lang=zh_CN#rd)
+- [【对线面试官】Java注解](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247496217&idx=1&sn=1eaef0756e218c96c1127f7f27b5e504&chksm=ebd4b318dca33a0e8f92ebbbabf19534149bfbd4676fd21e6cf2de448d46a52dd4868002ba7d&token=2053503009&lang=zh_CN#rd)
+- [【对线面试官】Java泛型](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247496243&idx=1&sn=76be30ee6887579f02d2c8aee8ed61cb&chksm=ebd4b332dca33a24f9c6534b2ac5898914d6b1500262302b0e9e9b1099d48cc923f331b0e0df&token=2053503009&lang=zh_CN#rd)
+- [【对线面试官】Java NIO](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247496334&idx=1&sn=c254489792ee2acf4c4eb7e4bee87ec4&chksm=ebd4b38fdca33a99e3487c107037e91ed2a1c1f9294c9d0fc18b57af1848f3ac4e40a1ad3f31&token=2053503009&lang=zh_CN#rd)
+- [【对线面试官】Java反射 && 动态代理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247496593&idx=1&sn=cb5decaf003ef3b53c8ec2ee0206b05b&chksm=ebd4b290dca33b868128ca078ce9f7e1efa1e5e3abbb095de8c405c67295ca76cf1efb26cf31&token=2053503009&lang=zh_CN#rd)
+- [【对线面试官】多线程基础](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247496624&idx=1&sn=623459c495692d4cbfecbdc6cf6d0836&chksm=ebd4b2b1dca33ba72bfcdc5c9d2e6daf587f4400310a114c01e34fc7eb55fc4a4b6ec70bafba&token=2053503009&lang=zh_CN#rd)
+- [一周两篇持续更新中，文章首发公众号](#公众号)
 
 
 ###  :coffee: 原创电子书
@@ -72,7 +68,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - Hibernate
 - AJAX
 - ......
-
 
 ###  :coffee:Java基础  ###
 
@@ -129,8 +124,9 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [Set集合就这么简单！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484165&idx=1&sn=fe2aaa3ced88e9fbe153f339be695797&chksm=ebd74204dca0cb12f2b2c7988adf778b1d828ec15543556dd917235c3d97d343fe8827a951bd&scene=21###wechat_redirect)
 - [Java集合总结【面试题+脑图】，将知识点一网打尽！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484172&idx=1&sn=4e9ea26b6b4b88dd9619c34ea07ba45c&chksm=ebd7420ddca0cb1b798bb6bce3b91216f242e7bc18c2170d26455ea632e4e14b9b250b8d1e8b&scene=21###wechat_redirect)
 - [CopyOnWriteArrayList你都不知道，怎么拿offer？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484380&idx=1&sn=c1aa61d29818005f886c61575d2a5d36&chksm=ebd742dddca0cbcb4c8d5792cccfb774a268e64d2b65a94dd0781c17a73bfadf4f930c33f4be&scene=21###wechat_redirect)
+- [《求求大厂给个Offer》List面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491557&idx=1&sn=3d2e237ba7a485322455556c1a2e4b24&chksm=ebd75ee4dca0d7f200fcf77d2a611273a6695fc5ff0881c4f59d2b0219a32f7a7b424914a56e&token=67449918&lang=zh_CN#rd)
+- [《求求大厂给个Offer》Map面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491738&idx=1&sn=6da7d0b7fdcbbf4142ae2cda0065d0a5&chksm=ebd4a19bdca3288d0bfd16548608a8c0f2b27050fd9fe1ce212bc1aadf40c43b56edf7af82ad&token=67449918&lang=zh_CN#rd)
 
-  
 
 ###  :memo:多线程  ###
 
@@ -146,7 +142,8 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [多线程之死锁就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484218&idx=1&sn=5e5d7859627ed2c30ee517cb64e0a930&chksm=ebd7423bdca0cb2d55528781e9d3d12cfb94bc566946069293d1fad3c788a7e617879ba66b9e&scene=21###wechat_redirect)
 - [Java多线程打辅助的三个小伙子](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484296&idx=1&sn=6bc82072500dda2798f567f1442f25ab&chksm=ebd74289dca0cb9fece89bedeede895b6058c46289b05b918ef5115b3204fbef2e38ac47d7b3&scene=21###wechat_redirect)
 - [还在用Synchronized？Atomic你了解不？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484416&idx=1&sn=540c0714263f8ee8b80ba90535162657&chksm=ebd74501dca0cc179e66c34cf3fa647f18860c670b47b0612fac0cb2c26b6cb17ad6824f0808&token=465096859&lang=zh_CN###rd)
-  
+- [《求求大厂给个Offer》：多线程基础面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491964&idx=1&sn=7beba118a4a485f2c81151657c3a84f8&chksm=ebd4a07ddca3296b2638b70b1b57c19071ecfe31a45ed4281d137c90e98f4ecf38287de0a8fa&token=67449918&lang=zh_CN#rd)
+
 
 ###  :ski:设计模式  ###
 
@@ -397,6 +394,10 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [卧槽！三歪更新了HBase](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488766&idx=1&sn=f18350b152d51e464b9c5a55ff9e4bbf&chksm=ebd755ffdca0dce9429440b10f239263a979227edea1fee4c62082316140c29e0659e11e9ff1&token=1936697047&lang=zh_CN#rd)
 - [各个中间件是如何实现持久化的](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490818&idx=1&sn=ad64b3d80b3fd5060860588802a13fdb&chksm=ebd75c03dca0d515d67a04198a34e2a1a4857b5e319983ee62027f31997fee6308f227ca4562&token=67449918&lang=zh_CN#rd)
 - [kylin麒麟入门教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494370&idx=1&sn=0a64ec68a0850fa30b5c240851777d5c&chksm=ebd4abe3dca322f584d49676c6d5f11034c8484e95bec0c264d822cba8207bb02fac44c0f8ce&token=42648559&lang=zh_CN#rd)
+- [Flink入门教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494829&idx=1&sn=a10a38a57c760fa33322a2af2fc25c63&chksm=ebd4adacdca324ba7f860ae89ffdfd58b17d40806ed8ca6b820758e17e57ab8b7d4301424653&token=2053503009&lang=zh_CN#rd)
+- [Flink的背压机制](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247495581&idx=1&sn=f83ad7fe5d8c1d73d5d9153d3e89138d&chksm=ebd4ae9cdca3278a53b855ade2ed7fc510cddcb68d1e61893ece3d0094e81740de0c0278184d&token=2053503009&lang=zh_CN#rd)
+- [Flink的CheckPoint机制](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247495992&idx=1&sn=2560f5c9d24e259f4955570acbd9cbe1&chksm=ebd4b039dca3392ffd6fc6a9121bded70d4982ea6abbb43c3f5e70d8cc1837521edbb6f80efc&token=2053503009&lang=zh_CN#rd)
+
 
 
 ### :lollipop:Docker
@@ -509,6 +510,13 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接**来问�
 - [网络层【第三篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=6&sn=bb77dadb64282f9d579ec97806525a00&chksm=ebd742a3dca0cbb5b4e926987f0f889a1684f833b3364d277329b18d6af046dbda20d96563e8&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+
+
+###  :lollipop: 项目系列
+
+- [揭秘！消息管理平台实现原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247492660&idx=1&sn=323c8fe0dff218d3233c019e547bb747&chksm=ebd4a535dca32c2343b36a92b310caac84d739662ea894409db97ffcdb4545e3677870353d8c&token=1570523904&lang=zh_CN#rd)
+- [广告系统基础入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493170&idx=1&sn=3b6c1f663673a69bf7f9e32b49fb9bb4&chksm=ebd4a733dca32e25f357bb6646438a79b0c704b0b169557c0ef53f9646b813fd0ec60648138b&token=42648559&lang=zh_CN#rd)
+- [CPS？淘宝客这项技术是什么实现的？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247494570&idx=1&sn=e539a2610bd042b6e0e98dd24ff5de70&chksm=ebd4aaabdca323bd182e8c31e5432f0048cda348e11dd3f6c3818cc478b16889a0adc001a041&token=42648559&lang=zh_CN#rd)
 
 
 ###  :ramen:工具使用  ###
