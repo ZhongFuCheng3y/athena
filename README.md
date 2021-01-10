@@ -538,43 +538,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [听说新版IDEA支持中文，三歪体验了一把](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487003&idx=1&sn=f16b4e53414562a121eff292e3e11937&chksm=ebd74f1adca0c60cb3fdb46ce15614cbaa08217a8d659d440a14c1d8421b154051e8c76e1725&token=306734573&lang=zh_CN#rd)
 
 
-###  :christmas_tree:个人成长 or 闲聊  ###
-
-- [找Java实习经历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484273&idx=1&sn=1eb9112e1ab1004b3040a66b76ad5646&chksm=ebd74270dca0cb663beb878ae31e39c3cc14bc56f1db62f426f5b4cb34b9a804a0bf7cbd9a27&mpshare=1&scene=1&srcid=03165YpvHAqLTO2urYx0OLVM###rd)
-- [两个月的Java实习结束，继续努力](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484339&idx=1&sn=245ded79611ef47e07e5f996ffc0d6c8&chksm=ebd742b2dca0cba4de49ce9302630d04dc68252f58213e8726344f98b412b8c61881896b5587&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [【Java】广州秋招之路](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484346&idx=1&sn=fbb1f63281cebe031a689fea58dee607&chksm=ebd742bbdca0cbadaa852dba5a953fc0e597fa64c25dd1fe67861b09dcad7e0dab2708fdcd8c&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [写博客的一些感想和想对读者说的话](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484424&idx=1&sn=2acbe1a65a93755bd368bd02c5c8a21e&chksm=ebd74509dca0cc1fb9f2ae96d76cbfdb8ff12303c574e77bc036cfc6d2c1ab0220f5f6f92bb2&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [2018再见，2019你好](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484564&idx=1&sn=2390075154749f89e85f4d410309cbd1&chksm=ebd74595dca0cc8357c4acc62c1f7f3c7f2198c320e8d5ca39df3e12dc5604ce6a029d6bd003&token=1712662964&lang=zh_CN###rd)
-- [过年了，给亲朋好友解释「啥是程序员」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484732&idx=1&sn=2f478a802024b648a2814ff2bd77c6f9&chksm=ebd7443ddca0cd2bb28bf6f923a6d96a54b491790bfa18d98dea67c4172b2a0bc36d29ce89d1&token=1676899695&lang=zh_CN###rd)
-- [嗯，我来杭州了。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484879&idx=1&sn=d048367a8fefdddb860d832a96bdbb0a&chksm=ebd744cedca0cdd8818c4bd6bf47244f67cdbd1587793245a21306c95541c5ee713b2a74d120###rd)
-- [近况](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485265&idx=1&sn=ac4c4b6c854991b963e9acb65b664ef0&chksm=ebd74650dca0cf46cbe7f7cd40b2fc617eab686a8feffbd7074e230dc202988fefd64cf2250a&token=1424412820&lang=zh_CN###rd)
-- [什么是保险](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485272&idx=1&sn=01a1d5b1949d2b50790ee782b8177f83&chksm=ebd74659dca0cf4f34f383890196337f99df40c8a61a3e73330033c79d0f4fb94f8419a4b759&token=1424412820&lang=zh_CN###rd)
-- [在公司做的项目和自己在学校做的有什么区别？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485368&idx=1&sn=59742409160a103eddaa6ca187a77256&chksm=ebd746b9dca0cfaffd61b35a810d806f7eea67c5a0dec820ae65be093d81abf49ac19ab1248b&token=1120664639&lang=zh_CN###rd)
-- [互联网/电商/广告常见的术语](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485378&idx=1&sn=801ec71dd44b1fc6099379e6e5acc8b8&chksm=ebd746c3dca0cfd55e4db80f2f6129244583c3ec2656604b33e2c228790e719d53b3df6c7101&token=1120664639&lang=zh_CN###rd)
-- [程序员的快乐就是这么朴素无华且枯燥](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485383&idx=1&sn=04cb857dc5636b28ecdaf51221e5798f&chksm=ebd746c6dca0cfd0f87ff338f09a0e3a102a729f503090a3305a2bad0ba7270503ea0c8fe39c&token=1120664639&lang=zh_CN###rd)
-- [我和我的公众号](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485997&idx=1&sn=d591519cc8ff3f42099a1067c37d31bc&chksm=ebd74b2cdca0c23a77ecb6d8d758e53b08866840050db7ac6535740081f7069c3e044a1a2f30&token=1008033209&lang=zh_CN#rd)
-- [如何写一篇技术文章，谈谈我的看法](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486087&idx=1&sn=1d4086485864cf833f00828b341158ed&chksm=ebd74b86dca0c2900c4e8bb57b15635e9362b6d7b5faf8dc4f42217ddc5703e9484b986ef76f&token=711412693&lang=zh_CN#rd)
-- [毕业半年，买了一台MacBook Pro](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486285&idx=1&sn=073115f7efaba09c87a8e57f7d88e319&chksm=ebd74a4cdca0c35a28f8621d0750517572e39e722af99eec1b30dcbeb6d11fc0a595bc7cae33&token=1436027357&lang=zh_CN#rd)
-- [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
-- [三歪花了两周学到了P7的技能？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487030&idx=1&sn=6cf07ed04990779d01cde7866e5f274a&chksm=ebd74f37dca0c6219828eac4fe87e4107ff21d8f7a3155ce6b0cab88e0b52f8152bd97a0f452&token=306734573&lang=zh_CN#rd)
-- [三歪太难了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487127&idx=1&sn=58753cccfb429ad73a68efe41572a7be&chksm=ebd74f96dca0c680720088be395c74be3a653adc04ebefd8a13517f806f17d33c1be7ef812f5&token=1857725064&lang=zh_CN#rd)
-- [我核酸检测阴性，但被隔离了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487152&idx=1&sn=fb6d1d57ab1994389afa04ec46abe4ce&chksm=ebd74fb1dca0c6a7f99e9e1d759d577af676fab250bd4e1081a5c3ec42a030026a1d2c4f800f&token=1857725064&lang=zh_CN#rd)
-- [三歪的读者，有点东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488343&idx=1&sn=3a0acf8811502d4ed4f5cefa42c0ebd4&chksm=ebd75256dca0db4019e26697f13a6418fbe01fbcc4bd99fe59e9bf4375f8a3ffb81cf6a86983&token=1936697047&lang=zh_CN#rd)
-- [大公司与小公司？校招？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488722&idx=1&sn=d56b47b71182b8739a4044e119fa7663&chksm=ebd755d3dca0dcc52b67bec51c85e55cb35ea2ff59e583dcd03df13d80419c3986fe6040a87e&token=1936697047&lang=zh_CN#rd)
-- [一个优秀的程序员应该具备什么能力？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247489875&idx=1&sn=07a775b11ce95db4ccf7a7c183c48115&chksm=ebd75852dca0d14447fdff2c4d969ca8ce38f1fcfccd11dc2d2fd57dda5eb0643d1f4bbf3524&token=1936697047&lang=zh_CN#rd)
-- [南京之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490299&idx=1&sn=b2cb86367a3ff77f7021460cb561c00a&chksm=ebd75bfadca0d2ecd00c1700ef26dc4acc719b422b110ae9cef2f8b8f1948efa1a50b63af222&token=1936697047&lang=zh_CN#rd)
-- [西安之旅](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490674&idx=1&sn=988ad22b0845f15b51e24271eac0ea21&chksm=ebd75d73dca0d4657c54ae063d9d97f747d0968f876bfb2276c0ac8150fb125b49e38426c108&token=1936697047&lang=zh_CN#rd)
-- [没想到，我的GitHub也有10K star了](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490955&idx=1&sn=b91d62f85d2b8d55b6a414f7504a94d1&chksm=ebd75c8adca0d59c8eb330b01ef3b6b77fa53d1b55ec28ced7de26d095ffa6771c0dda7718e0&token=67449918&lang=zh_CN#rd)
-- [三歪老色痞?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491199&idx=1&sn=8c288d5d655d3952f61d5d7b239af9ee&chksm=ebd75f7edca0d66816dbbc7aa6048a4bd102a78706cb3246563af63d2c2e1333348dab9c2b32&token=67449918&lang=zh_CN#rd)
-- [强势入驻B站！?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491412&idx=1&sn=f536499073b302a6259c99cc21734f2a&chksm=ebd75e55dca0d743469a72f9912baa7c8fbf23c26a5c3408dc5e57d94634126dee8f973c10e6&token=67449918&lang=zh_CN#rd)
-- [绍兴滑雪](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491477&idx=1&sn=fd67e8996a62ae4ac399e50ab390122f&chksm=ebd75e94dca0d7820fc79125db86cc09dbaf9ac1c5bc8cc5b2eea86bfb315a417500a67b43db&token=67449918&lang=zh_CN#rd)
-- [入职一年胖了？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491898&idx=1&sn=db4a4f9d5b7fbfc43e98f42d83cc3387&chksm=ebd4a03bdca3292d65feba4ef99c6fab65e485b6b296f5bce57dd84f3407d78180d8e2fdf3a3&token=67449918&lang=zh_CN#rd)
-- [适合互联网人看的一部电影](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493039&idx=1&sn=58b7c2397a0a4acee55001759fa0ea82&chksm=ebd4a4aedca32db8cce193126458b76067fdedaad3aa9b5e656e1f614d37abaceca3df8be991&token=1570523904&lang=zh_CN#rd)
-- [每天我究竟在做什么？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493546&idx=1&sn=1c0bd7dbbc872f085f83a8ce9d6fceb9&chksm=ebd4a6abdca32fbdf38f1637321b66a631caa599be9b15b4a9e40c0cc9d7ac74486928f9a513&token=42648559&lang=zh_CN#rd)
-- [参加了同学的婚礼...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247493952&idx=1&sn=e73206b5fb6c516247c687bc28c98a37&chksm=ebd4a841dca3215725224790021911b576d3a9a9d49db79ec57b237f88085961cdc17ec1690d&token=42648559&lang=zh_CN#rd)
-
-
-
   
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
