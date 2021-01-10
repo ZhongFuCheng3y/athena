@@ -593,5 +593,5 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 <img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuuckh3s4j30rc0yo7jr.jpg' width=200px height=200px />
 
 ***
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  有服务器购买需求的可以点击链接看看。
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  一年云服务器只需90块！。
 
