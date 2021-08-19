@@ -81,8 +81,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gctsejip0mj31ks0u04qp.jpg)
 
 
-![](https://user-gold-cdn.xitu.io/2020/4/6/1714ece9d8e51737?w=2062&h=1080&f=jpeg&s=206448)
-
 
 <img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
 
