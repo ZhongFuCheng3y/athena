@@ -27,7 +27,7 @@ austin项目的介绍可以看**[我隔壁的仓库](https://gitee.com/zhongfuch
 - [05、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
 - [06、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
 - [07、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- 
+- ..
 
 如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式。
 
