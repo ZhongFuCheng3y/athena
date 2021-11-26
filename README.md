@@ -14,7 +14,7 @@
 
 ### :guitar: austin项目系列
 
-austin项目的介绍可以看**[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)**，梦想是成为**每个Java初学者**能够写在简历上的项目。
+austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，梦想是成为**每个Java初学者**能够写在简历上的项目。
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gwpeu4g5ofj31m80ruwhw.jpg)
 
@@ -39,7 +39,7 @@ austin项目的介绍可以看**[我隔壁的仓库](https://gitee.com/zhongfuch
 
 ###  :dollar: 对线面试官面试系列
 
-《对线面试官》是我连载了**近一年**一个**讲人话**面试系列
+《对线面试官》是我连载了**近一年**一个**讲人话**面试系列，我曾经通过这些资料去斩获了不少的公司的offer，基本涵盖了Java常问的知识点。
 
 - 简历
   - [《对线面试官》如何写简历](http://javainterview.gitee.io/luffy/2021/10/30/00-%E9%9D%A2%E8%AF%95%E5%89%8D%E5%87%86%E5%A4%87/01.%E7%AE%80%E5%8E%86/)
