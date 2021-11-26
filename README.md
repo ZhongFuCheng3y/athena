@@ -1,73 +1,109 @@
-从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库的文章都是我**个人原创**，公众号发过的技术文章（干货）也会有相关的目录整理，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号">【Java3y公众号】</a>
-及时获取最新文章
 
-:sparkling_heart:我希望这个开源仓库：
 
-- 能给你学习时带来帮助
-- 能给你感受文章的温度
-- 能帮助你构建知识体系
-- ...
-
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gwswhfks1uj30p00anjro.jpg)
 
 <p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
-     <a href="http://javainterview.gitee.io/luffy/"><img src="https://img.shields.io/badge/对线面试官-文字版-brightgreen.svg" alt="对线面试官"></a>
-  <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-    <a href="https://space.bilibili.com/198434865"><img src="https://img.shields.io/badge/关注-bilibili-critical.svg" alt="关注我的bilibili"></a>
-      <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
-  <a href="https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ"><img src="https://img.shields.io/badge/90块购买-云服务-brightgreen.svg" alt="云服务"></a>
-
+  <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
+  <a href="https://gitee.com/zhongfucheng/Java3y"><img src="https://gitee.com/zhongfucheng/Java3y/badge/star.svg?theme=dark" alt="gitee Starts"></a>
+  <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/Java3y/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
+  <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/3y.svg?style=flat&label=GithubFork"></a> 
+  <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/stars/ZhongFuCheng3y/3y.svg?style=flat&label=GithubStars"></a> 
 </p>
+
+
+
+### :guitar: austin项目系列
+
+austin项目的介绍可以看**[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)**，梦想是成为**每个Java初学者**能够写在简历上的项目。
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gwpeu4g5ofj31m80ruwhw.jpg)
+
+**Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
+
+- [01、项目背景以及技术架构介绍](http://javainterview.gitee.io/luffy/2021/11/01/12-austin%E9%A1%B9%E7%9B%AE/00.%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/)
+- [02、SpringBoot+Maven环境搭建架子](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- [03、使用logback记录项目的运行时信息](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/02.%E6%97%A5%E5%BF%97/)
+- [04、接入common/guava/Hutool/Lombok/fastjson/OkHttp工具包](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/03.%E5%B7%A5%E5%85%B7%E5%8C%85/)
+- [05、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
+- [06、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- [07、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- 
+
+如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式。
+
+
+
+<img align="center" src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=300px height=300px />
+
 
 
 ###  :dollar: 对线面试官面试系列
 
-《对线面试官》系列目前已经连载**38**篇啦（一周两篇，首发公众号）。这是一个**讲人话**面试系列
+《对线面试官》是我连载了**近一年**一个**讲人话**面试系列
 
+- 简历
+  - [《对线面试官》如何写简历](http://javainterview.gitee.io/luffy/2021/10/30/00-%E9%9D%A2%E8%AF%95%E5%89%8D%E5%87%86%E5%A4%87/01.%E7%AE%80%E5%8E%86/)
+- 计算机网络
+  - [《对线面试官》TCP三次握手和四次挥手](http://javainterview.gitee.io/luffy/2021/10/13/10-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/02.TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/)
+  - [《对线面试官》HTTP](http://javainterview.gitee.io/luffy/2021/08/25/10-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/01.%20HTTP/)
+- Java基础
+  - [《对线面试官》注解](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/01.%20%E6%B3%A8%E8%A7%A3/)
+  - [《对线面试官》泛型](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/02.%20%E6%B3%9B%E5%9E%8B/)
+  - [《对线面试官》NIO](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/03.%20JavaNIO/)
+  - [《对线面试官》反射与动态代理](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/04.%20%E5%8F%8D%E5%B0%84%E5%92%8C%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/)
+- Java并发
+  - [《对线面试官》多线程基础](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/01.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/)
+  - [《对线面试官》CAS](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/02.%20CAS/)
+  - [《对线面试官》synchronized](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/03.%20synchronized/)
+  - [《对线面试官》AQS和ReentrantLock](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/04.%20AQS%E5%92%8CReentrantLock/)
+  - [《对线面试官》线程池](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/05.%20%E7%BA%BF%E7%A8%8B%E6%B1%A0/)
+  - [《对线面试官》TheadLocal](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/06.%20ThreadLocal/)
+  - [《对线面试官》CountDownLatch和CyclicBarrier](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/07.%20CountDownLatch%E5%92%8CCyclicBarrier/)
+  - [《对线面试官》为什么需要Java内存模型](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/08.%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/)
+  - [《对线面试官》深入浅出Java内存模型](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/09.%20%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAJava%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/)
+- Java容器
+  - [《对线面试官》List集合](http://javainterview.gitee.io/luffy/2021/08/19/03-Java%E5%AE%B9%E5%99%A8/01.%20List%E9%9B%86%E5%90%88/)
+  - [《对线面试官》Map集合](http://javainterview.gitee.io/luffy/2021/08/19/03-Java%E5%AE%B9%E5%99%A8/02.%20Map%E9%9B%86%E5%90%88/)
+- Java虚拟机
+  - [《对线面试官》Java编译到执行的过程](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/01.%20Java%E7%BC%96%E8%AF%91%E5%88%B0%E6%89%A7%E8%A1%8C%E7%9A%84%E8%BF%87%E7%A8%8B/)
+  - [《对线面试官》双亲委派机制](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/02.%20%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%9C%BA%E5%88%B6/)
+  - [《对线面试官》JVM内存结构](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/03.%20JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84/)
+  - [《对线面试官》垃圾回收机制](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/04.%20%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
+  - [《对线面试官》CMS垃圾收集器](http://javainterview.gitee.io/luffy/2021/08/20/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/05.%20CMS%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
+  - [《对线面试官》G1垃圾收集器](http://javainterview.gitee.io/luffy/2021/08/20/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/06.%20G1%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
+  - [《对线面试官》JVM调优](http://javainterview.gitee.io/luffy/2021/08/24/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/07.%20JVM%E8%B0%83%E4%BC%98/)
+- Spring
+  - [《对线面试官》SpringMVC](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/01.%20SpringMVC/)
+  - [《对线面试官》Spring基础](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/02.%20Spring%E5%9F%BA%E7%A1%80/)
+  - [《对线面试官》SpringBean生命周期](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/03.%20SpringBean%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
+- Redis
+  - [《对线面试官》Redis基础](http://javainterview.gitee.io/luffy/2021/08/19/06-Redis/01.%20Redis%E5%9F%BA%E7%A1%80/)
+  - [《对线面试官》Redis持久化](http://javainterview.gitee.io/luffy/2021/08/19/06-Redis/02.%20Redis%E6%8C%81%E4%B9%85%E5%8C%96/)
+  - [《对线面试官》Redis主从架构](http://javainterview.gitee.io/luffy/2021/08/20/06-Redis/03.%20Redis%E4%B8%BB%E4%BB%8E%E6%9E%B6%E6%9E%84/)
+  - [《对线面试官》Redis分片集群](http://javainterview.gitee.io/luffy/2021/08/20/06-Redis/04.%20Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/)
+- 消息队列
+  - [《对线面试官》Kafka基础](http://javainterview.gitee.io/luffy/2021/08/19/07-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/01.%20Kafka%E5%9F%BA%E7%A1%80/)
+  - [《对线面试官》使用Kafka需要考虑的问题](http://javainterview.gitee.io/luffy/2021/08/19/07-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/02.%20%E4%BD%BF%E7%94%A8Kafka%E4%BC%9A%E8%80%83%E8%99%91%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98/)
+- MySQL
+  - [《对线面试官》MySQL索引](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/01.%20MySQL%E7%B4%A2%E5%BC%95/)
+  - [《对线面试官》MySQL事务和锁机制和MVCC](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/02.%20MySQL%E4%BA%8B%E5%8A%A1%E5%92%8C%E9%94%81%E6%9C%BA%E5%88%B6%E5%92%8CMVCC/)
+  - [《对线面试官》MySQL调优](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/03.%20MySQL%E8%B0%83%E4%BC%98/)
+- 项目场景类
+  - [《对线面试官》如何实现去重和幂等](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/01.%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8E%BB%E9%87%8D%E5%92%8C%E5%B9%82%E7%AD%89/)
+  - [《对线面试官》系统需求多变如何设计](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/02.%20%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E5%A4%9A%E5%8F%98%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1/)
+  - [《对线面试官》项目常用到的设计模式](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/03.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
+- 算法
+  - [《对线面试官》排序算法](http://javainterview.gitee.io/luffy/2021/09/01/11-%E7%AE%97%E6%B3%95/01.%20%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
+  - [《对线面试官》LeetCode easy](http://javainterview.gitee.io/luffy/2021/09/02/11-%E7%AE%97%E6%B3%95/02.%20LeetCode%20Easy/)
+  - [《对线面试官》 LeetCode Medium](http://javainterview.gitee.io/luffy/2021/09/02/11-%E7%AE%97%E6%B3%95/02.%20LeetCode%20Medium/)
 
-- [【对线面试官】HTTP](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247485055&idx=1&sn=4aab3ca14e013c031fb0a9617d5049a7&chksm=fdf0ee20ca8767360e9f07b8fd70a2d83d0745575012629b5b4d6e4ca8efb69232c1a6f1d679&token=711031528&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Java注解](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483821&idx=1&sn=e9003410a8d3c8a092de0c4d2002bedd&scene=21#wechat_redirect)
-- [【对线面试官】Java泛型](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483823&idx=1&sn=cc887dc2c7e68a69e8d4d141c2ca9b5e&scene=21#wechat_redirect)
-- [【对线面试官】 Java NIO](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483854&idx=1&sn=aa450a03ac0d6e8cf12cf13d4719ede3&scene=21#wechat_redirect)
-- [【对线面试官】Java反射 && 动态代理](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483893&idx=1&sn=af51e626f2c2baec8cae4f4a15425957&scene=21#wechat_redirect)
-- [【对线面试官】多线程基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483918&idx=1&sn=ab8550bb284edcf7cf0c6d0b41e0c2f6&scene=21#wechat_redirect)
-- [【对线面试官】 CAS](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483977&idx=1&sn=1a3aa3aec27073aa3b422bc41d7fbe2d&chksm=fdf0ea16ca8763005aff64834eeb7bef08bf4ee2d8febb7e8d4d8e5d1542336e13fac71e2881&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
-- [【对线面试官】synchronized](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483980&idx=1&sn=c9b620834adb889ad8ccedb6afdcaed1&scene=21#wechat_redirect)
-- [【对线面试官】AQS&&ReentrantLock](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484035&idx=1&sn=ccaec352e192f1fd40020d9a984e9461&chksm=fdf0eadcca8763ca5c44bd19118fd00e843c163deb40cda444b3fc08430c57760db15eca1ea6&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
-- [【对线面试官】线程池](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484036&idx=1&sn=75e9e93a82a811e9c71b8127cf7ac677&chksm=fdf0eadbca8763cd7ab74757f9472d061c0244d2373a1ea85b1cbc833941441fdb1e91ead5b4&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
-- [【对线面试官】ThreadLocal](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484118&idx=1&sn=9526a1dc0d42926dd9bcccfc55e6abc2&scene=21#wechat_redirect)
-- [【对线面试官】CountDownLatch和CyclicBarrier](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484363&idx=1&sn=743dcdfb84f83cfc38882407f87c7c6d&chksm=fdf0eb94ca87628296d86d16769f25e10acd052bcd78f4a4608f4218e4948aff610b04a41f60&token=960279204&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】为什么需要Java内存模型？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484535&idx=1&sn=af9676b6defcfd862db297b1ee3f4aea&chksm=fdf0ec28ca87653e84aedd1b5db916d776c46c158afb727467d42a941af85d948046da24b5e5&token=1812893887&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】深入浅出 Java 内存模型](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484606&idx=1&sn=42212c0ac1c123ebee1903d07f88b6db&chksm=fdf0ece1ca8765f7e623d2a3d19ff637d8f2449db0dea2bb63d87e11f63b482cf16c0a007faf&token=2087444891&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Java从编译到执行，发生了什么？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484557&idx=1&sn=6fb103a2a322effc564fbb04c3b93a6c&chksm=fdf0ecd2ca8765c4eacc22e54b4bc57888555efee99f1c7e57ee611e07d220b35b2aa658a4ca&token=830702193&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】双亲委派机制](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484581&idx=1&sn=887268251772f4f8fc737d7e4354b5b8&chksm=fdf0ecfaca8765ec656ca3ea2ae57b33226eef3cbcc2c107168619aa6be37db5b3416ead43b5&token=1009822517&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】JVM内存结构](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484635&idx=1&sn=4ca6f32917ee42a5b5e0443d2262c2ec&chksm=fdf0ec84ca876592e1c58dbd4d7535f9bb11df1cba5c4e7cd045b87e790cb2ec7ea35302bbd1&token=399434818&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】垃圾回收机制](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484705&idx=1&sn=9955b0cec5acb6b5dc977b949aea9e63&chksm=fdf0ed7eca876468aed985743371b6fc647b26c7e9c66fd0612b34991c01b28f16b273721201&token=334164983&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】CMS垃圾回收器](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484764&idx=1&sn=67b0e576a4e7660bec0d3e9ac947954d&chksm=fdf0ed03ca876415f3f0c05f8670497f39a934742012204f18d4c0a79d3d492a1be53859f442&token=1837416809&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】G1垃圾收集器](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484826&idx=1&sn=ed423fab3a263dc05ff022977ea94536&chksm=fdf0edc5ca8764d3649fce9dfc745bb488ae16b3ddd8268e2305ce3602b54f022d8ed0cf25d6&token=1672285925&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】JVM调优](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247485031&idx=1&sn=d1a456a1dde946eb8001a5f0b04f6533&chksm=fdf0ee38ca87672e3ddffe98fbdae813e31dd63419c25bd7387282fe4665af4f6d5826c46b9b&token=711031528&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】List](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484253&idx=1&sn=532db3941f47502582295cbb003f753d&chksm=fdf0eb02ca8762145c66b33bbb429399f1f0f27b31c22f7cf6c693c235e9a7cffdafb6ce2fdc&token=57394744&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Map](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484280&idx=1&sn=87cfede653dabc26c909823a1dafd615&chksm=fdf0eb27ca876231095ff99f0b3e30acd7b2ee4cdc7ddb16da0bb6a3b02f531e27324059cf58&token=100834666&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】SpringMVC](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484064&idx=1&sn=3a59514a8262ab61036fc89cf0b0a27e&chksm=fdf0eaffca8763e90002ce1daf365f717a4bda3e50878f65943f52d14bee78fc65e837ef32f9&token=664255414&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Spring基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484147&idx=1&sn=ef282cd54351436fc33c47534b4c2ac1&chksm=fdf0eaacca8763ba9b6c69acdba6b0ae8801405c98295842a0b5d891fe80246d76a2a0470bea&token=1998524575&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】SpringBean生命周期](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484187&idx=1&sn=8f831c40dca9b2a57fdfbd051e4eab44&chksm=fdf0eb44ca87625253ea831471110860d3f27e04488b2748ba90ad442b079aca3d6b95d31bbe&token=1998524575&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Redis基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484227&idx=1&sn=4a124a2dd5ef6ce062abdadf247b5cff&chksm=fdf0eb1cca87620a8679473dfdd50421eb6ccba2459a7cb59ae1652138f7bb508558f3d4649e&token=57394744&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Redis持久化](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484323&idx=1&sn=c3306b3f9abb6f880e2672f169202a42&chksm=fdf0ebfcca8762eaf9b4873e79cd3445857b1f4476a854acdf9c19fb81e1a02146c65cff5078&token=610975656&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Redis主从架构](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484884&idx=1&sn=b944c10afced15b47098853b0ee5456b&chksm=fdf0ed8bca87649d691703ed5935e8302769c794a1c30b492c10ad890ff92d90969cd5b71fb2&token=869444578&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Redis分片集群](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484915&idx=1&sn=c50e991f750615c09bb67b2acfa05458&chksm=fdf0edacca8764ba5487496933956ed53937de742d74e6530e93b370b0f7461959162dd9a402&token=869444578&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】Kafka基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484387&idx=1&sn=5bb2ba58776e65f53b091a4bcdb73755&chksm=fdf0ebbcca8762aadc359066ecd70274fa23ee846f9ba9114017402dcbed415f25f97d3020a6&token=1131755397&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】使用Kafka会考虑什么问题？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484411&idx=1&sn=9c4aaeb44f4d9e09cc796805ada29921&chksm=fdf0eba4ca8762b234c3f101bb88c5d134554a831cbf4e80b08dc0bfa829e363a4e1e49a8b50&token=649285067&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】MySQL索引](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484431&idx=1&sn=17b9e88233282469481e214a0cd2dc56&chksm=fdf0ec50ca8765460a20af19101855c859a6350a8dfd6680e7f47c2e73f03de48288184a1bf3&token=310857929&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】MySQL 事务&&锁机制&&MVCC](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484480&idx=1&sn=3571b89575e8c37c114c9f290b953a1c&chksm=fdf0ec1fca87650913e6673a453d0ba1614341433aa67dd9977fef7231a3d825f7da4e4a132a&token=1651214636&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】MySQL调优](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484508&idx=1&sn=4e81d365409bf32c08e4ea985e3ca593&chksm=fdf0ec03ca876515d59c49f033cf83f72b62fafe356e678b4d162ad3623d31bf60fb6620176f&token=336229290&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】如何实现幂等和去重？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484848&idx=1&sn=936898b5e5a2cb1a82b4b017a7c811d5&chksm=fdf0edefca8764f9b14525354cb701354a59d62619ed7e7c99050e9a53f153d1cb320998a24b&token=1672285925&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】系统需求多变时，如何设计](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484954&idx=1&sn=d084fdd34d70ece3c3e50931e7394e32&chksm=fdf0ee45ca876753f59e56f3688d92aecc84eb130f66521642c061a0f52153f0aeb4cbd774ff&token=1443639712&lang=zh_CN&scene=21#wechat_redirect)
-- [【对线面试官】设计模式](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484979&idx=1&sn=f7ccdc3874e5f966f4bf1db0117115f9&chksm=fdf0ee6cca87677a95c157c62111303ade115de06890cd1018db169e38d78024c8349658ad21&token=1443639712&lang=zh_CN&scene=21#wechat_redirect)
-- ...
+八股文不再是背诵！在**对线面试官**公众号内还有一份图文版，会更加幽默有趣些，需要准备面试的可以关注下对线面试官这个公众号。已有不少的同学**通过对线面试官公众号的分享**得到BATTMD等一线大厂的的offer
 
-###  :coffee: 原创电子书
+<img align="center" src='https://tva1.sinaimg.cn/large/008i3skNgy1gtlvty8zo5j60u00u0q5602.jpg' width=300px height=300px />
 
-> 下面的文章都有对应的**原创精美**PDF，在持续更新中，可以来找我催更~
+###  :coffee: 我的原创电子书
+
+在自学之路上，我已经把【**基础重要的知识点**】、【**简历模板**】、【**思维导图**】等等全部整理成电子书，共有**1263**页！已经有**8756**个初学者都下载了！🔥
 
 - [47页的SpringMVC](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487665&idx=1&sn=cffb9d634a8b770562557b72a833e591&chksm=ebd751b0dca0d8a604d89b1e3c5d1728f35b752368f5a878311066cbc09ff8a5905ad05690c7&token=1936697047&lang=zh_CN#rd)
 - [92页的Mybatis](https://mp.weixin.qq.com/s/0_zTBooRV4RTWQa8VOwiWg)
@@ -80,20 +116,10 @@
 - [142页的Spring](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487013&idx=1&sn=f0d8c292738eb49bcd09cb2f6458dc69&chksm=ebd74f24dca0c632fa3ef8f205a2dd5c96531f78a68eae805e15b84de0b59774196a188aed14&token=306734573&lang=zh_CN#rd)
 - [58页的过滤器和监听器](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487054&idx=1&sn=25f92798050d092027931e2ae0379e90&chksm=ebd74f4fdca0c6595bc795fd00354cf683d4593550cdd38ba7103893dd622606fc8f55fe6631&token=306734573&lang=zh_CN#rd)
 - [30页的HTTP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487071&idx=1&sn=511459730b3114fc77c60b82b54159b8&chksm=ebd74f5edca0c648c9b0c572fbc7fdbc26179ddcd7c45de37c06b6a2906a8ffc207f145b66f2&token=480724592&lang=zh_CN#rd)
-- [xxxx页的Redis：待更新...(最新首发公众号，导航更新可能有延迟)](#公众号)
-- Hibernate
-- AJAX
-- ......
 
-已经有**8756**个初学者都下载了！🔥三歪把【大厂面试知识点】、【简历模板】、【原创文章】全部整理成电子书，共有**1263**页！
+电子书文档的内容**均为手打**，有任何的不懂都可以直接来问我（公众号有我的**私人的联系方式**）。扫下方二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
-PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我（公众号有我的**私人的联系方式**）。扫下方二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
-
-![](https://tva1.sinaimg.cn/large/00831rSTly1gctsejip0mj31ks0u04qp.jpg)
-
-
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqmhzmnwg308c052nk8.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=300px height=300px />
 
 
 ***
@@ -121,8 +147,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [几个线上的Bug](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487997&idx=1&sn=49c53a5cd66a6abf6cdf261de501206a&chksm=ebd750fcdca0d9eab476e21dfae06a4a81da4732fdc8698536e6466a7c8843ab6d9dcfa3a003&token=1936697047&lang=zh_CN#rd)
 - [项目Module？二方包？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488900&idx=1&sn=976197eab15d531eaa1eb25b176b0628&chksm=ebd75485dca0dd93c90b6e85376428db160d0022909b133458f5ccf2a0382e4fd54517e03de9&token=1936697047&lang=zh_CN#rd)
 
-
-
 ###  :jack_o_lantern:拓展知识  ###
 
 - [最近学到的限流知识](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485652&idx=1&sn=dbcc843869bd94228cb71980cd84cc8c&chksm=ebd749d5dca0c0c30c0b11c0535005a9def3c66aa3f5c56d816256122b53f367de5f5ba6a6c3&token=1948873548&lang=zh_CN#rd)
@@ -137,7 +161,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&chksm=ebd74d32dca0c42414cfc32cf4cfc06880c59602b1cdcb578ab31bab884748b618cbbb532247&token=1963867963&lang=zh_CN#rd)
 - [为什么PUSH推送经常出事故？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487092&idx=1&sn=15ab7e0d1b9536f44e5635ea59dc6bb8&chksm=ebd74f75dca0c6631c471fb538289e5efb60df04d5917612799e8a7e41e1ccb086e685593fcd&token=480724592&lang=zh_CN#rd)
 - [三歪用了10分钟写完了一个需求](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487140&idx=1&sn=ac15c9701c129d9d1e0dd61237568778&chksm=ebd74fa5dca0c6b3f45685f125a7aae7ac3d832bf999acb7f9e9acdf4dc294ad72fce3aa8fba&token=1857725064&lang=zh_CN#rd)
-  
 
 ###  :book:Java容器  ###
 
@@ -187,8 +210,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [责任链模式通用代码](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490601&idx=1&sn=741664a26e8c8d4d3255d19864249bff&chksm=ebd75d28dca0d43e62be820313971e139c24a7fa92b9beb1e91b79a1e3a73b4274acf8a8eec4&token=1936697047&lang=zh_CN#rd)
 - [建造者模式](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247490723&idx=1&sn=c5f55b7d828818b3a6b823505888c5fe&chksm=ebd75da2dca0d4b4366463f59b0fcd90b80b8998ce55c9f8a07ad9dfe58f80eab9e17904505e&token=1936697047&lang=zh_CN#rd)
 
-
-
 ###  :guitar:HTTP+JSON+XML  ###
 
 - [30页的HTTP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487071&idx=1&sn=511459730b3114fc77c60b82b54159b8&chksm=ebd74f5edca0c648c9b0c572fbc7fdbc26179ddcd7c45de37c06b6a2906a8ffc207f145b66f2&token=480724592&lang=zh_CN#rd)
@@ -199,18 +220,24 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [JSON就是这么简单](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=3&sn=264ee1f0fa88d5b3d5f9edd0903a73cb&chksm=ebd74709dca0ce1f163d51065539f1dcf7376836787c2e845416bfc545d836d6b6f8582d51c3###rd)
 - [XML+JSON面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484936&idx=4&sn=be318e764c90f978d9935430c96f7f45&chksm=ebd74709dca0ce1f493d36423da7b1e276cf55146276df12c29a66852fc9d6264bc2b6abfbbc###rd)
 
-  
-
 ###  :dollar:Servlet+Tomcat  ###
 
 - [Servlet总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486798&idx=1&sn=ce900e97a495ffd681cd0ad9b78aa5ca&chksm=ebd74c4fdca0c559d0a32a3f3ddb3f579d3a16b47f70234c46ac2e5df315e7df90f93d1715b9&token=1109491988&lang=zh_CN#rd)
+
 - [Tomcat就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=2&sn=b09e747bd0af5e1899a47911f92d1afe&chksm=ebd74452dca0cd44ebbcdacab7373a72d0c769746eaa2bfa454d1dbc8295e3f93b0645c0ac58###rd)
+
 - [Servlet第一篇【介绍Servlet、HTTP协议、WEB目录结构、编写入门Servlet程序、Servlet生命周期】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=3&sn=109e71815ba6474a1e0f5120ab7e0d10&chksm=ebd74452dca0cd449e12c3bd6b8bb59b917f2c26c2e028c80e416e9eef2e9badf76a3f33e3ee###rd)
+
 - [Servlet第二篇【Servlet调用图、Servlet细节、ServletConfig、ServletContext】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=4&sn=01aa36130bc5b2d5ff5b9f67375d9ac5&chksm=ebd74452dca0cd447ed0845e12746e4c8828ec858ce24db0cd890c7e2fc95f8569f729e1fb36###rd)
+
 - [Servlet第三篇【request和response简介、response的常见应用】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484081&idx=2&sn=06d118f2976a1f2cf98e5fca47af252a&chksm=ebd743b0dca0caa6895f25f0eaaac66bec5f5f8141e1a869bfc8562f8c4e933ef8c1fe807dfd&scene=21###wechat_redirect)
+
 - [Servlet第四篇【request对象常用方法、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=5&sn=cf96abda9fe364ba2ac90d5d786d78d7&chksm=ebd74452dca0cd44c9e76525a43dda2dff4fd8c730843da7e587733ea5d129a88e489fecead6###rd)
+
 - [Servlet第五篇【介绍会话技术、Cookie的API、详解、应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=6&sn=3a370551b0ee800f3bcad8ff37a72b9d&chksm=ebd74452dca0cd44f454ca8aa006d352c6994bb7ea955b5ca5f2ec2b227792010939bfa25532###rd)
+
 - [Servlet第六篇【Session介绍、API、生命周期、应用、与Cookie区别】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=7&sn=fb35232f3c15e2b4336498ac9f8804f1&chksm=ebd74452dca0cd44942721a159088a2f286d4e5c5f2bcdc7e264f0dccc8f9928d66858e475d4###rd)
+
 - [Tomcat+Servlet面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=8&sn=cc121c65aebe4f8403cab99017180cd3&chksm=ebd74452dca0cd44dcbabac26e82d1db6280abc6aef8c7347bd4502e925ccb0b61a48edd229d###rd)
 
   
@@ -218,13 +245,21 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :ledger:JSP  ###
 
 - [JSP总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486854&idx=1&sn=fd77a6225b898b69c4f0e1a7e66cf105&chksm=ebd74c87dca0c5910a923a443ea6f694dd554b68df8cc00506570555b9cf7718a2ef2a058754&token=1109491988&lang=zh_CN#rd)
+
 - [JSP第一篇【JSP介绍、工作原理、生命周期、语法、指令、行为】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=2&sn=b32e2d5160b952522e1b1ebd1705821f&chksm=ebd74498dca0cd8e2448a048136bee1bb3aba9c0b57407b06764803d581a359a1e21829104c6###rd)
+
 - [JSP第二篇【内置对象的介绍、4种属性范围、应用场景】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=3&sn=9f6e750b83ebe2e73eed9c4a4b75114b&chksm=ebd74498dca0cd8e948da9b61aa299e8817fd8503e21f5a6acce38c90cf4faa59c27514bb1b9###rd)
+
 - [JSP第三篇【JavaBean的介绍、JSP的行为--JavaBean】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=4&sn=0ed63ec461cd8d0246c5c9cdb470e0ee&chksm=ebd74498dca0cd8eaffaf90fd4b05949702d28679fbb7696802c12519220eef7660fa5c5cc2f###rd)
+
 - [JSP第四篇【EL表达式介绍、获取各类数据、11个内置对象、执行运算、回显数据、自定义函数、fn方法库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=5&sn=f040dd4bc1c47e28607fb8e8f61f09df&chksm=ebd74498dca0cd8e80b9986b687535f25f0be0bcd6b219e0f39bf011ae0b0c58529b15afe006###rd)
+
 - [JSP第五篇【JSTL的介绍、core标签库、fn方法库、fmt标签库】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=6&sn=0303f8be4cdbafc550bd4aad73178f1b&chksm=ebd74498dca0cd8e88c31a852fb1a6cd9591cc5179a0f821070262ff722115b82d826ddbe3ab###rd)
+
 - [JSP第六篇【自定义标签之传统标签】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=7&sn=61b094aea4613458571f1faa147d2406&chksm=ebd74498dca0cd8ea6d8ff42b93180ab94becafd11b3275813ec6e9222ded0c96bd0441dba25###rd)
+
 - [JSP第七篇【简单标签、应用、DynamicAttribute接口】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484825&idx=8&sn=bf190004c90acf18c511619ae535805b&chksm=ebd74498dca0cd8e9e9059fb9447abcb904f336f1c63ed48d988966be33a2f5ea2666f04cf44###rd)
+
 - [JSP面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484873&idx=3&sn=95099551f6cea7718287e5083d165491&chksm=ebd744c8dca0cddeb04c4c8bdef3370819db6772391aef06ecb9007d6dfd6f24e15309c15d95###rd)
 
   
@@ -232,10 +267,15 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :microscope:监听器和过滤器  ###
 
 - [过滤器和监听器总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487054&idx=1&sn=25f92798050d092027931e2ae0379e90&chksm=ebd74f4fdca0c6595bc795fd00354cf683d4593550cdd38ba7103893dd622606fc8f55fe6631&token=306734573&lang=zh_CN#rd)
+
 - [过滤器第一篇【介绍、入门、简单应用】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=2&sn=6fed09e5d4cf2e243965053238541a28&chksm=ebd744bfdca0cda91b57b5db82193efd7407aeca87fe6a9e07e794e162bca463e37675a56bfe###rd)
+
 - [过滤器第二篇【编码、敏感词、压缩、转义过滤器】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=3&sn=f53c22e52dae6a0b315d84fdc4553c05&chksm=ebd744bfdca0cda9c29a60d052b71edcaf0b7b5d0e23630af045a36f8927776504cc85338737###rd)
+
 - [监听器第一篇【基本概念、Servlet各个监听器】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=4&sn=14cbb3bc2d91696adc5d5ba7318c19c2&chksm=ebd744bfdca0cda90cf1753c2aca06fd78012698e016fd6fb5ea26d24f2faac6772e223f05e3###rd)
+
 - [监听器第二篇【统计网站人数、自定义session扫描器、踢人小案例】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=5&sn=e4547d42de48c3d562cd97cc437879f2&chksm=ebd744bfdca0cda9dabc6c4d9083a73a4630cfe376c4e84dcbab1f1e1ff3106084cb17d51178###rd)
+
 - [过滤器监听器面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484862&idx=6&sn=c192dd27d42ca59a17f07164882d1d26&chksm=ebd744bfdca0cda926af724aa8d45423be71f9c52354b78017f3d08daa821d38e8a26a020112###rd)
 
   
@@ -244,17 +284,29 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 
 
 - [在工作中常用到的SQL](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485472&idx=1&sn=5ddf518cb23e7dcbdf697085a9736377&chksm=ebd74921dca0c03769baf0aa76ce44b8e52c61facc12223fb9ff67203e6b1c87f4d1b43e4b29&token=2078489135&lang=zh_CN###rd)
+
 - [原来MySQL面试还会问这些...](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486783&idx=1&sn=5d794bbb97b09a9b097200ac4790d058&chksm=ebd74c3edca0c5288742261c856c907022e4524d70ef535986da3492ce4af8e84936a2555d8c&token=1109491988&lang=zh_CN#rd)
+
 - [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=1&sn=ea1c06f0852d3bca3b98b64d8589598e&chksm=ebd740d1dca0c9c77ed1bb07a96bd0fbe147a13515797cf71597de821dbe3357e3eef5f741dc&scene=21###wechat_redirect)
+
 - [数据库两大神器【索引和锁】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=1&sn=410dea1863ba823bec802769e1e6fe8a&chksm=ebd74430dca0cd265a9a91dcb2059e368f43a25f3de578c9dbb105e1fba0947e1fd0b9c2f4ef&token=1676899695&lang=zh_CN###rd)
+
 - [面试前必须知道的MySQL命令【expalin】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484461&idx=2&sn=5469534e2f370aba86c3a24a2ff52b70&chksm=ebd7452cdca0cc3ad456d695a78f48e72c245f85b4afb210fb7b62218e89785d964d72ec4891&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
+
 - [Druid数据库连接池就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484075&idx=1&sn=ca6f0f19c32eb3276a8b562888e49120&chksm=ebd743aadca0cabc934b891fdc4e116d573042f72ae87893df5c2883e46b96affac7c1923cab&scene=21###wechat_redirect)
+
 - [数据库原理](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=4&sn=5c0522bdc0f0ea8946354c9c633fe1d7&chksm=ebd740dbdca0c9cd6ba6b332f753b6472c4e32d9f79b3d8a062b8b2ddab650bd21b616bf3a99&scene=21###wechat_redirect)
+
 - [Oracle总结【SQL细节、多表查询、分组查询、分页】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=1&sn=e54943e5abbbe1b98ee7aeaf12c685ad&chksm=ebd740dbdca0c9cdd3f943f6b28efb70603f84b9bc2af0aa8a4143468a0a325cac58b319b52f&scene=21###wechat_redirect)
+
 - [Oracle总结【视图、索引、事务、用户权限、批量操作】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=2&sn=875f073fe972cef7e1f02d111f1dfc96&chksm=ebd740dbdca0c9cdfc84a483134f7ad99d6dc8ebb15ddaa8e04ac37025417cf3f84c3169a248&scene=21###wechat_redirect)
+
 - [Oracle总结【PLSQL学习】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483866&idx=3&sn=dfaf9fe2eb2675fa0873548f95105fad&chksm=ebd740dbdca0c9cdf2e77187fa86f24b785208ce197d80eb3abe9ea952e9f40b9c780a31a950&scene=21###wechat_redirect)
+
 - [Mysql免安装配置教程（图文版)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=2&sn=d894e869f574201bddc88add79808a33&chksm=ebd740d1dca0c9c7ac76f62b721711b471d7cd9ef1ba3ff539e2f4bafe45186e4c6278002b1f&scene=21###wechat_redirect)
+
 - [Oracle11安装和卸载教程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=3&sn=eaf0503a06b96edc8368f5190d33637a&chksm=ebd740d1dca0c9c79eeb70dc2612cc8542d90ba0f0b3967fc5505c6364b09f8557de913835a8&scene=21###wechat_redirect)
+
 - [SqlServer安装和连接JDBC资料](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483856&idx=4&sn=03e55de6586f8ac749995c288742fbf0&chksm=ebd740d1dca0c9c74fb455b33f97bec0c8c5836802e5bedb463cc3651ded45b945726aa198d8&scene=21###wechat_redirect)
 
   
@@ -262,11 +314,17 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :tshirt:JDBC  ###
 
 - [JDBC总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486905&idx=1&sn=67fcd0558cfbdf6cd36de98cbd93afaf&chksm=ebd74cb8dca0c5ae052e6d216ed13458a9a17fa1b0f245bf740379b1d4b04b4e55fcbfb5adb4&token=1109491988&lang=zh_CN#rd)
+
 - [JDBC【介绍JDBC、使用JDBC连接数据库、简单的工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=2&sn=1de97cc6680fbb04a464cbfe37a000ce&chksm=ebd744e1dca0cdf7b8bcda78ec516f3873f72fe62af593c9abfb60cccdbf0d11250db822d573###rd)
+
 - [JDBC【PreparedStatment、批处理、处理二进制、自动主键、调用存储过程、函数】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=3&sn=ebe11114c8e75108bae2b7454c36e96f&chksm=ebd744e1dca0cdf7387328260e886a67ee563ee4303504caaee581df97c2a6f086e8d0ac031b###rd)
+
 - [JDBC【事务、元数据、改造JDBC工具类】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=4&sn=6cd7718e6d630247ed0b532efecae996&chksm=ebd744e1dca0cdf7484a802d729bae21a6fef0d7fa4a8188335529f94eae9c24dabba8ade8a3###rd)
+
 - [JDBC【数据库连接池、DbUtils框架、分页】](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=5&sn=69d043db785086bb309145f074d9e9e6&chksm=ebd744e1dca0cdf705ebc6c5c1ec98d30e1cafb37f67ab93013a8ae43b4a1c74eb5a8ff0211e###rd)
+
 - [JDBC面试题都在这里](http://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484896&idx=6&sn=538737998a28571e18ec1ac3b8c3d3d7&chksm=ebd744e1dca0cdf7b5f327f9c9d8d81496763c8ab8e789d39892b85d131b897a06a921cd7eba###rd)
+
 - [Druid数据库连接池就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484075&idx=1&sn=ca6f0f19c32eb3276a8b562888e49120&chksm=ebd743aadca0cabc934b891fdc4e116d573042f72ae87893df5c2883e46b96affac7c1923cab&scene=21###wechat_redirect)
 
   
@@ -304,15 +362,21 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [Hibernate【与Spring整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483906&idx=8&sn=080a5eb746769c9f27d5f0150d177174&chksm=ebd74303dca0ca1554f00e5873eb88481f1760cbe35a814df97f768a9d0b902edc15abf65f29&scene=21###wechat_redirect)
 - [Hibernate面试题大全](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483906&idx=1&sn=16e43bebd697ad451e685038219ae2b9&chksm=ebd74303dca0ca1554311b16939713b4b23a9634ae614b302b8d748431aba6bc9aad83fadfbc&scene=21###wechat_redirect)
 
- 
+
 ###  :page_facing_up:Struts2  ###
 
 - [Struts2【入门】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=1&sn=8dad0b63d416fd01f3619a9fb573ab52&chksm=ebd74314dca0ca02d4a46fa3bced4fa5e032c6c4fafee58d3ce8ba7bdfae25e0d1ecc13bfc9c&scene=21###wechat_redirect)
+
 - [Struts2【配置】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=2&sn=e4f967ad559428f6dd11f30756b7bab6&chksm=ebd74314dca0ca02278d3de5c8802127c8b9b6d96ed44ef8f95cf333af392f6c35ea45e28580&scene=21###wechat_redirect)
+
 - [Struts2【开发Action】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=3&sn=193022078f80ce248ec44f17a148cec8&chksm=ebd74314dca0ca02381a11e06c5a878bc498908db7d8e4eebcfe431721b42893ea3301a8da6e&scene=21###wechat_redirect)
+
 - [Struts2【拦截器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=4&sn=be49636ea484e2813ce28379e7249ff5&chksm=ebd74314dca0ca025cef018e46ccb365582dc1d71678f29a2a55a4581c8c6ab36611c527962f&scene=21###wechat_redirect)
+
 - [Struts2【UI标签、数据回显、资源国际化】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=5&sn=4455f9f652f90dbe2b061681d7a864f7&chksm=ebd74314dca0ca02eeb067d22008c3b45e473bc97d836ae477ec26e48ea0660348099bb2788a&scene=21###wechat_redirect)
+
 - [Struts2【OGNL、ValueStack】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=6&sn=7b7a54254e83e1adb3ec84e411f577f3&chksm=ebd74314dca0ca025b7a624fad2c8ac076f7dff63433a8e8606c4c04985d93ab5b4e51fdad56&scene=21###wechat_redirect)
+
 - [Struts2【整合Spring】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483925&idx=7&sn=db75b295a785701d37d0e9d7db6aed4c&chksm=ebd74314dca0ca024eb749187c499d6cdaa6cd853e3fe19c3c41e052fdad084b47cd69204321&scene=21###wechat_redirect)
 
   
@@ -320,11 +384,17 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :pencil:Mybatis  ###
 
 - [Mybatis总结](https://mp.weixin.qq.com/s/0_zTBooRV4RTWQa8VOwiWg)
+
 - [Mybatis【入门】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=2&sn=28c7827639bb6ac0296746c4c4343c59&chksm=ebd74320dca0ca36b763b3975665fc38a7e921f9ecaef1aaea3a7c757063a29222cd00b3d3b6&scene=21###wechat_redirect)
+
 - [Mybatis【配置文件】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=3&sn=977f8e1eeb0d4e46bab6d6140e856c83&chksm=ebd74320dca0ca3648e351f2f3d5196842e64d2e8ba14722ec2548da46df7e88832765e67f87&scene=21###wechat_redirect)
+
 - [Mybatis【关联映射】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=4&sn=ef076c8a0eb26ae19a969a2c0238d850&chksm=ebd74320dca0ca36d49663e30d7d065340268a3b8d49e54949fef07b041fe7836c5689febdf3&scene=21###wechat_redirect)
+
 - [Mybatis【缓存、代理、逆向工程】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=5&sn=4a049d7461b67c4135183db09ec97bcb&chksm=ebd74320dca0ca3691081597ac9db2447d51250d7aa819009231760977dd932b43a116fe44ba&scene=21###wechat_redirect)
+
 - [Mybatis【与Spring整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=6&sn=13a9c31fe0e43d0986d4e2186b442202&chksm=ebd74320dca0ca3614eefd6dab6c4a0b965262e72f352ec48e5e19992a6c7a1d9cf7ca802103&scene=21###wechat_redirect)
+
 - [Mybatis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483937&idx=1&sn=85727e94ad3d1af1ef99cfefa420520c&chksm=ebd74320dca0ca367f869427202eb029bf3cf8dd4dc71dae26d925aaaabc2c8ea704735b3b87&scene=21###wechat_redirect)
 
   
@@ -359,24 +429,43 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :lollipop:SSM项目  ###
 
 - [SSM【史上最详细整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=3&sn=d4dd684f759320438c6a0c11866f1c6c&chksm=ebd74333dca0ca2550b0db08e48987aec52d5d85a83ff29068cd2b52d9d6fe470dd0fbbda688&scene=21###wechat_redirect)
+
 - [Java高并发秒杀系统【观后总结】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483965&idx=2&sn=3714c57815d6a25f1a3060d592bcf7a8&chksm=ebd7433cdca0ca2acb3c46454908d078f13fe80752e82e63fc4641100839fe56833752887bea&scene=21###wechat_redirect)
+
 - [阅读SSM项目之scm](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483965&idx=3&sn=55435bb94e6493fd838414d18167dfbb&chksm=ebd7433cdca0ca2a01a5ae989938521397c507046e8b268398ba4db7472c19c3118e6b3d523e&scene=21###wechat_redirect)
+
 - [移动商城第一篇【搭建项目环境+数据模型】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=2&sn=ba2724d8c7e9f36d0865cd6fc7cc5923&chksm=ebd74395dca0ca83aeed913a0ed3360193b31149f72e1c3c3f0aaac2b87e212337bb61f563a4&scene=21###wechat_redirect)
+
 - [移动商城第二篇（品牌管理模块）【文件上传、数据校验、CRUD】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=3&sn=ce83a2f7bbfb4241f5c671bf4f07e69e&chksm=ebd74395dca0ca831c8b692ae9a0914d7eaa992632d8e503456b500ae6e22b6d1f8515057155&scene=21###wechat_redirect)
+
 - [移动商城第三篇（商品管理）【查询商品、添加商品】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=4&sn=7a6d3fc199f3698147fd079ef93e842b&chksm=ebd74395dca0ca8350274062a800bf5c9db67066e2cf8e35f1e353782d23940b9e005734dcac&scene=21###wechat_redirect)
+
 - [移动商城第四篇（商品管理）【添加商品续篇、商品审核和上下架、前台展示、后台筛选】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=5&sn=b66b3d58b761666051675c6a8b85de2b&chksm=ebd74395dca0ca837fd6af5284e65c6ac4bc54301c8ddeb718168e2aa01e6c924f016e5c60b7&scene=21###wechat_redirect)
+
 - [移动商城第五篇（用户模块）【用户登陆、回显用户、拦截器、收货地址】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=6&sn=fb1b4041392fd3d3745dfe8b53ad31b0&chksm=ebd74395dca0ca83cc3136cfe48dc9ec4e43126d10421a23758a64989956d3352ff129f55955&scene=21###wechat_redirect)
+
 - [移动商城第六篇【单品查询、静态化页面】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=7&sn=4fd357a5d656a01edaa962185bfb0001&chksm=ebd74395dca0ca83c3ddf0a32c5aef874a35663305bad05d6eecee44bfdec0a558061f694bc0&scene=21###wechat_redirect)
+
 - [移动商城第七篇【购物车增删改查、提交订单】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=8&sn=6dfbdaa7ddfe9fc2feffadc5d7336b7f&chksm=ebd74395dca0ca832e6bedf0c360e484657370fd8b326758d742112fb65140834f946e599573&scene=21###wechat_redirect)
+
 - [移动商城项目总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484052&idx=1&sn=379f23d7d759658eb1d85cc5363b84a0&chksm=ebd74395dca0ca8351ba28b299afbf2ecb6a40338f62b05cfe8faa0e5b53cfd67926aed43530&scene=21###wechat_redirect)
+
 - [从零开始写项目第一篇【搭建环境】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=2&sn=6c4c3f40489804efca12a2023df69226&chksm=ebd743c8dca0cade2d07ef36e6296c82d17f8dbeea552db71a6fbe90d33600f350e19aa1d36d&scene=21###wechat_redirect)
+
 - [从零开始写项目第二篇【登陆注册、聊天、收藏夹模块】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=3&sn=eabfc5f350b5684fe8bfa561cd5164ac&chksm=ebd743c8dca0cadeb2c6a81e3f19e911ad7a52b2c5e98ea8310becefc9e3d17985a383c83a32&scene=21###wechat_redirect)
+
 - [从零开始写项目第三篇【在线聊天和个人收藏夹】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=4&sn=45ff7f185ff8192a99a6421d92e3f916&chksm=ebd743c8dca0cade069a06b8ae038caa0b75ff13ac7a2b8b66fe3a4ed6fdc9a78f1f86a404e9&scene=21###wechat_redirect)
+
 - [从零开始写项目第四篇【搭建Linux环境】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=5&sn=da9aaeb093adf1cfa6cda9e65defd8bc&chksm=ebd743c8dca0cade6ad7f520948a000510c608bbde16a71a6d7e9d374f62672073b07041a081&scene=21###wechat_redirect)
+
 - [从零开始写项目第五篇【评论功能、备忘录】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=6&sn=9996db4b394e7578f5a44452f487ef79&chksm=ebd743c8dca0cade9c87ce2e99d946a92a575f56b2693fb733ed81a07951381a7cf5c7ab91c8&scene=21###wechat_redirect)
+
 - [从零开始写项目终极【维护网站、修复Bug】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=7&sn=2dccb666fc59cf29ea865d1fef4b7f7c&chksm=ebd743c8dca0cade4a8c84224d830cc0275837c07c3f2859892750fba979e7c23382a15d3771&scene=21###wechat_redirect)
+
 - [从零开始写项目【总结】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484105&idx=1&sn=ad9be2a936621346361bb32fd6e7cd15&chksm=ebd743c8dca0cadedf6aa6ad9c417d1d28604f6a6f4b0d32f19d71a84e2b32f976b256abc3ff&scene=21###wechat_redirect)
+
 - [带你搭一个SpringBoot+SpringData JPA的Demo](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484997&idx=1&sn=96bf73ae24307aa800faeb71769d675c&chksm=ebd74744dca0ce525a24af4fd2bb3d975346a0c90c0f36af6ffc6f540f6462384cf678f74b6a###rd)
+
 - [【极简版】SpringBoot+SpringData JPA 管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485046&idx=1&sn=5b4e5f6f4123b11ccdc021905f64f1f5&chksm=ebd74777dca0ce61fc54b9d0183550f75dffc27f1f495c25cfadaa2b3512821c7b78e0d2f10a&token=1755043505&lang=zh_CN###rd)
 
   
@@ -384,15 +473,25 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 ###  :jack_o_lantern:SSH项目  ###
 
 - [SSH【史上最详细整合】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=2&sn=9ced4f7fc184503b401b3b50630c13bb&chksm=ebd74333dca0ca25cf402253711d85e709fc76b1e695e264b40c24d88407e7781b1745073824&scene=21###wechat_redirect)
+
 - [【SSH测试整合Demo】企业人事管理系统](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483954&idx=4&sn=fd607d79a9a12ab5e6759527c707a59e&chksm=ebd74333dca0ca254ea6d1bd080586a6422168e920a9e21aa26b2f720dab2539a999fc90eeaa&scene=21###wechat_redirect)
+
 - [阅读SSH项目之ERP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483965&idx=4&sn=de8ea16b46a8bb2598373a16482a3101&chksm=ebd7433cdca0ca2a4007cea384ccade12cb82a649d75557638c84cfccd0917d356990af15624&scene=21###wechat_redirect)
+
 - [纳税服务系统一（用户模块）【简单增删改查、日期组件、上传和修改头像】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=2&sn=3b637234b3911d94cfb291b01329027b&chksm=ebd74361dca0ca77d9208dee547374613e0b8d09a49c9580580f35d0154a6e116dc0e69a463f&scene=21###wechat_redirect)
+
 - [纳税服务系统二（用户模块）【POI、用户唯一性校验】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=3&sn=01c3acd7ae24cee1c1a608df7a004e21&chksm=ebd74361dca0ca7786d54f9e70507c7472cca02c8f5d506d76ccee394b4be643fb0de1ce27a7&scene=21###wechat_redirect)
+
 - [纳税服务系统三(优化处理)【异常处理、抽取BaseAction】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=4&sn=e832cad131b63b150ea372a414c82436&chksm=ebd74361dca0ca77348a604ffba6880d0302ac5052c6fe0b6ffa41d951cf7f71978500ae972a&scene=21###wechat_redirect)
+
 - [纳税服务系统四（角色模块）【角色与权限、角色与用户】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=5&sn=feab77a450feaa805cb5b4e8dad22b74&chksm=ebd74361dca0ca77794e40dfb28289b658922c8e2ca34d0ac897cd7efdf53d43ca066282c180&scene=21###wechat_redirect)
+
 - [纳税服务系统五（登陆与系统拦截）【配置系统、子系统首页、登陆与拦截】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=6&sn=2e51fff489d778a8eee656e4e54361d5&chksm=ebd74361dca0ca77475ed3cf2080533106dcbf61629d1dfbb43486b11b9be89b7ff2e1ed6eb8&scene=21###wechat_redirect)
+
 - [纳税服务系统六（信息发布管理模块）【Ueditor、异步信息交互、抽取BaseService、条件查询、分页】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=7&sn=9ecf5932232658f8263cf9282433ec69&chksm=ebd74361dca0ca7789eb016b9cef31ac4ac9666798a15f2a5e585c4f1a6b2991ca9d727845e2&scene=21###wechat_redirect)
+
 - [纳税服务系统七（投诉管理模块）【显示投诉信息、处理回复、我要投诉、Quartz自动受理、统计图FusionCharts】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=8&sn=15b91ba39935e4a38bf168726e7d22da&chksm=ebd74361dca0ca77497ebc37fe6ad26fb346e84a659774ccc411adc7262cf274bfa153f11ab4&scene=21###wechat_redirect)
+
 - [纳税服务系统总结](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484000&idx=1&sn=dd8b96b94942001150143c877a773f53&chksm=ebd74361dca0ca7796bd25f176697692d46025cfeb37cb6a23ad4617ef0f74c9b76633379681&scene=21###wechat_redirect)
 
   
@@ -427,8 +526,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [Flink的背压机制](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247495581&idx=1&sn=f83ad7fe5d8c1d73d5d9153d3e89138d&chksm=ebd4ae9cdca3278a53b855ade2ed7fc510cddcb68d1e61893ece3d0094e81740de0c0278184d&token=2053503009&lang=zh_CN#rd)
 - [Flink的CheckPoint机制](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247495992&idx=1&sn=2560f5c9d24e259f4955570acbd9cbe1&chksm=ebd4b039dca3392ffd6fc6a9121bded70d4982ea6abbb43c3f5e70d8cc1837521edbb6f80efc&token=2053503009&lang=zh_CN#rd)
 
-
-
 ### :lollipop:Docker
 
 - [为什么需要Docker？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484584&idx=1&sn=9af3a77887595e53206ff4120b350d8d&chksm=ebd745a9dca0ccbf20e3c1979b232a2004c8156192ae20858599506d683120a95a2366f4e4be&token=1712662964&lang=zh_CN###rd)
@@ -456,8 +553,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [Shiro第二篇【授权、整合Spirng、过滤器】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=3&sn=3aafcd5622d1d4583c339c1950ead637&chksm=ebd74386dca0ca908e68b3f60c66abc3d364f7f8c3a4b89eeff951a56771d77c035322983c42&scene=21###wechat_redirect)
 - [Shiro第三篇【授权过滤器、与ehcache整合、验证码、记住我】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484039&idx=4&sn=3627e8fb5f86032e5b6a42073542d269&chksm=ebd74386dca0ca901d13dfb79b6827118b6cb58593572e6d798f7b0c1e8473ea9f22af8062bb&scene=21###wechat_redirect)
 
-
-
 ###   :flags:其他框架or补充知识点
 
 - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485230&idx=1&sn=7c32a09e4b4b72a3565bfa05ae899d92&chksm=ebd7462fdca0cf39c2282dfd02b3f9d4dc3984c3103645ab5b112755cd89e8ee577eb35062e6&token=1230572157&lang=zh_CN###rd)
@@ -475,8 +570,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [TensorFlow读写数据](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484984&idx=1&sn=b11d353aa5aa9e7964c715f5ab7d4ddd&chksm=ebd74739dca0ce2f82f21586531a03effe69d78ab21671d116ffb56aa6f1220e5a3028d1bc5e###rd)
 - [如何理解axis？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485014&idx=1&sn=b04029123cdb067c113a83fc9470e348&chksm=ebd74757dca0ce416b8d8b2f514245f0f8be4c00a68b0b3e9934b615184e530794ed6a0879ab&token=1755043505&lang=zh_CN###rd)
 - [什么是TensorBoard？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485132&idx=2&sn=341daeab9fa307fac07423635630d52b&chksm=ebd747cddca0cedb07e3ae8dc60fd4db5497a854af38cbaad23113b24f03e40941b9e53e0c9c&token=1230572157&lang=zh_CN###rd)
-
-
 
 
 ###  :gift_heart:数据结构与算法  ###
@@ -527,8 +620,6 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [操作系统第六篇【存储器管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=7&sn=3e027ee134e65c5cfae67218ce69a06a&chksm=ebd7421bdca0cb0d29437cad1483f5f59cf1ea9da57bf64900e52a2cd3d63e8fbaaeef9f2c51&scene=21###wechat_redirect)
 - [操作系统第七篇【设备管理】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484186&idx=8&sn=01562e2dee725260460898e31edd8d29&chksm=ebd7421bdca0cb0d9011b0e63154b0052ede92030537c9be3fcf3a34dac059f79926bdaf98ca&scene=21###wechat_redirect)
 
-  
-
 ###  :tophat:计算机网络  ###
 
 - [计算机网络【开山篇】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=1&sn=3b5502e5ce0cad773a595360705e8d56&chksm=ebd742a3dca0cbb5e61f1140876f7a8d12b500914881ef0911d38837e58f337eb757a6233d3f&scene=21###wechat_redirect)
@@ -568,26 +659,4 @@ PDF文档的内容**均为手打**，有任何的不懂都可以直接来问我�
 - [敖丙这逼竟然连Maven都不会](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487419&idx=1&sn=c107911e52874e574a5aef874b046b1a&chksm=ebd74ebadca0c7ac7164191639b036fc132a1cf02c8d74460876086542b571fc794aad28344e&token=1857725064&lang=zh_CN#rd)
 - [SVN就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=3&sn=06a4c8258f1f1d4ccf2781c4a121e54e&chksm=ebd740e7dca0c9f1eb8e57991e701122aa61d2c94fed55aed2f0a5dff2c0e289b2120f1deb7d&scene=21###wechat_redirect)
 - [UML就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=4&sn=04b95b0762a7a4def8d7e4c2a625bfa4&chksm=ebd740e7dca0c9f156588bbf16eee2b0edaa799bbb164e23ce1f0920176a52c589de614e9369&scene=21###wechat_redirect)
-- [听说新版IDEA支持中文，三歪体验了一把](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487003&idx=1&sn=f16b4e53414562a121eff292e3e11937&chksm=ebd74f1adca0c60cb3fdb46ce15614cbaa08217a8d659d440a14c1d8421b154051e8c76e1725&token=306734573&lang=zh_CN#rd)
-
-
-  
-
-#### :sparkling_heart:<a name="公众号">加入公众号</a> ###
-
-
-精美脑图、学习路线、1000+页的原创电子书、开发交流群、简历模板等干货，在微信搜【**Java3y**】关注我回复『888』即可领取！！
-
-也可扫下面的码直接关注哦~
-
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gctqs4ehdjg308c052nk7.gif' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=200px height=200px />
-
-
-
-如果你觉得有帮助，想要打赏作者，那么可以通过这个收款码打赏我，**金额不重要，心意最重要**。主要是我可以通过这个打赏情况来看我的心血有没有价值，嘻嘻。
-
-<img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuu0j4wwqj30u014qako.jpg' width=200px height=200px /><img src='https://tva1.sinaimg.cn/large/00831rSTly1gcuuckh3s4j30rc0yo7jr.jpg' width=200px height=200px />
-
-***
-### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/qu-DNA5CUQWkKPEZF5s3aQ)  一年云服务器只需90块！。
 
