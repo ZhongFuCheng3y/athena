@@ -1,6 +1,6 @@
 
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwswhfks1uj30p00anjro.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gwtfr458t6j30p00anwes.jpg)
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
@@ -20,13 +20,12 @@ austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfuchen
 
 **Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
 
-- [01、项目背景以及技术架构介绍](http://javainterview.gitee.io/luffy/2021/11/01/12-austin%E9%A1%B9%E7%9B%AE/00.%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/)
-- [02、SpringBoot+Maven环境搭建架子](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- [03、使用logback记录项目的运行时信息](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/02.%E6%97%A5%E5%BF%97/)
-- [04、接入common/guava/Hutool/Lombok/fastjson/OkHttp工具包](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/03.%E5%B7%A5%E5%85%B7%E5%8C%85/)
-- [05、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
-- [06、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- [07、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- [01、SpringBoot+Maven环境搭建架子](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- [02、使用logback记录项目的运行时信息](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/02.%E6%97%A5%E5%BF%97/)
+- [03、接入common/guava/Hutool/Lombok/fastjson/OkHttp工具包](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/03.%E5%B7%A5%E5%85%B7%E5%8C%85/)
+- [04、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
+- [05、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
+- [06、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
 - ..
 
 如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式。
