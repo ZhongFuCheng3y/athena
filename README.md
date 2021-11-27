@@ -4,11 +4,12 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
-  <a href="https://gitee.com/zhongfucheng/Java3y"><img src="https://gitee.com/zhongfucheng/Java3y/badge/star.svg?theme=dark" alt="gitee Starts"></a>
-  <a href="https://gitee.com/zhongfucheng/austin"><img src="https://gitee.com/zhongfucheng/Java3y/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
+  <a href="https://gitee.com/zhongfucheng/athena"><img src="https://gitee.com/zhongfucheng/athena/badge/star.svg?theme=dark" alt="gitee Starts"></a>
+  <a href="https://gitee.com/zhongfucheng/athena"><img src="https://gitee.com/zhongfucheng/athena/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
   <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/3y.svg?style=flat&label=GithubFork"></a> 
   <a href="https://github.com/ZhongFuCheng3y/austin"><img src="https://img.shields.io/github/stars/ZhongFuCheng3y/3y.svg?style=flat&label=GithubStars"></a> 
 </p>
+
 
 
 ### :guitar: austin项目系列
