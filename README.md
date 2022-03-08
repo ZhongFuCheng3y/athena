@@ -16,10 +16,33 @@
 
 austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，梦想是成为**每个Java初学者**能够写在简历上的项目。
 
-项目里程碑：[三个月已完成的内容](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247503562&idx=1&sn=99ba92325ae5e8f8054700e770f0898d&chksm=ebd48fcbdca306dd65f2a56c2febd0ef5e6227aa8166183b9fe7edc1ba09ef6066ef3d797af6&token=1246005878&lang=zh_CN#rd)
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f99631fe25c42b39cbfb6e59cccec85~tplv-k3u1fbpfcp-watermark.image?)
+- [x] Maven+SpringBoot项目搭建
+- [x] logback日志记录项目运行时信息，引入common/guava/Hutool/Lombok/fastjson/OkHttp工具包
+- [x] 接入腾讯云渠道发送一条短信
+- [x] 使用SpringData JPA将短信发送记录存储至MySQL
+- [x] 使用SpringBoot接入Kafka
+- [x] 利用责任链完成对接入层的请求进行封装（责任链模式）
+- [x] 消费层实现数据隔离（线程池：生产者与消费者模式）
+- [x] 通用去重消息功能（SpringBoot接入Redis并使用pipeline减少网络请求）
+- [x] 配置服务器和docker容器以及SpringBoot应用的监控（prometheus+Grafana+auctuator）
+- [x] 接入分布式配置中心完成 丢失消息、白名单以及账号配置（Apollo分布式配置中心）
+- [x] 邮件渠道接入
+- [x] 日志链路数据追踪 + 注解式打印日志（优雅打印日志以及数据埋点）
+- [x] 接入GrayLog分布式日志收集框架
+- [x] 引入前端低代码平台AMIS搭建后台管理页面
+- [x] 接入分布式定时任务框架定时发送任务（xxl-job定时任务框架），编写上传文件接口并使用LazyPending批处理人群文件数据
+- [x] 接入实时流计算平台（Flink），实时日志数据根据用户维度和消息模板维度清洗至Redis
+- [x] 通过AMIS低代码平台接入echarts图表展示实时聚合后的数据
+- [ ] 优化现有的代码：优雅停机、动态配置等等
+- [ ] 接入微信服务号渠道
+- [ ] 接入微信小程序渠道
+- [ ] 接入PUSH渠道
+- [ ] 持续提高消息推送系统的影响力，让更多的业务方了解其功能，进而挖掘更多拉新和唤醒用户的玩法，提高站内的次留率和转化率
 
+**近期更新时间**：2022年3月8日
+
+**近期更新功能**：动态线程池、优雅停机相关（未完成）
 
 **Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
 
@@ -29,7 +52,7 @@ austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfuchen
 - [04、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
 - [05、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
 - [06、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- ..已更新至16篇！
+- ..已更新至20篇！
 
 如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式。
 
