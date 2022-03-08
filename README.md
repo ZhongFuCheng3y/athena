@@ -606,3 +606,18 @@ austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfuchen
 - [SVN就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=3&sn=06a4c8258f1f1d4ccf2781c4a121e54e&chksm=ebd740e7dca0c9f1eb8e57991e701122aa61d2c94fed55aed2f0a5dff2c0e289b2120f1deb7d&scene=21###wechat_redirect)
 - [UML就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483878&idx=4&sn=04b95b0762a7a4def8d7e4c2a625bfa4&chksm=ebd740e7dca0c9f156588bbf16eee2b0edaa799bbb164e23ce1f0920176a52c589de614e9369&scene=21###wechat_redirect)
 
+
+
+### 项目交流
+
+可以添加我的**个人微信**备注：【**项目**】，我会空闲的时候拉进项目交流群
+
+
+<img align="center" src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5eae548196934599a7cb3637aedf381d~tplv-k3u1fbpfcp-zoom-1.image' width=300px height=300px />
+
+**Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
+
+
+如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式
+
+<img align="center" src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e109cdb8d064c1e87541d7b6c17957d~tplv-k3u1fbpfcp-zoom-1.image' width=300px height=300px />
