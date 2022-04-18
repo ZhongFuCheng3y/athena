@@ -131,9 +131,6 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hm83zplj217r0u0tcs.jpg)
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hmzpzssj21780u0n1p.jpg)
-八股文不再是背诵！在**对线面试官**公众号内还有一份图文版，会更加幽默有趣些，需要准备面试的可以关注下对线面试官这个公众号。已有不少的同学**通过对线面试官公众号的分享**得到BATTMD等一线大厂的的offer
-
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f48cee2bbd44476f93dfcdd8aaf8a4eb~tplv-k3u1fbpfcp-watermark.image?)
 
 想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
 
