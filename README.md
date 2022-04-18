@@ -15,62 +15,122 @@
 
 《对线面试官》是我连载了**近一年**一个**讲人话**面试系列，我曾经通过这些资料去斩获了不少的公司的offer，基本涵盖了Java常问的知识点。
 
-- 简历
-  - [《对线面试官》如何写简历](http://javainterview.gitee.io/luffy/2021/10/30/00-%E9%9D%A2%E8%AF%95%E5%89%8D%E5%87%86%E5%A4%87/01.%E7%AE%80%E5%8E%86/)
-- 计算机网络
-  - [《对线面试官》TCP三次握手和四次挥手](http://javainterview.gitee.io/luffy/2021/10/13/10-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/02.TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/)
-  - [《对线面试官》HTTP](http://javainterview.gitee.io/luffy/2021/08/25/10-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/01.%20HTTP/)
-- Java基础
-  - [《对线面试官》注解](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/01.%20%E6%B3%A8%E8%A7%A3/)
-  - [《对线面试官》泛型](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/02.%20%E6%B3%9B%E5%9E%8B/)
-  - [《对线面试官》NIO](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/03.%20JavaNIO/)
-  - [《对线面试官》反射与动态代理](http://javainterview.gitee.io/luffy/2021/08/19/01-Java%E5%9F%BA%E7%A1%80/04.%20%E5%8F%8D%E5%B0%84%E5%92%8C%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/)
-- Java并发
-  - [《对线面试官》多线程基础](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/01.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/)
-  - [《对线面试官》CAS](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/02.%20CAS/)
-  - [《对线面试官》synchronized](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/03.%20synchronized/)
-  - [《对线面试官》AQS和ReentrantLock](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/04.%20AQS%E5%92%8CReentrantLock/)
-  - [《对线面试官》线程池](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/05.%20%E7%BA%BF%E7%A8%8B%E6%B1%A0/)
-  - [《对线面试官》TheadLocal](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/06.%20ThreadLocal/)
-  - [《对线面试官》CountDownLatch和CyclicBarrier](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/07.%20CountDownLatch%E5%92%8CCyclicBarrier/)
-  - [《对线面试官》为什么需要Java内存模型](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/08.%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/)
-  - [《对线面试官》深入浅出Java内存模型](http://javainterview.gitee.io/luffy/2021/08/19/02-Java%E5%B9%B6%E5%8F%91/09.%20%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAJava%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/)
-- Java容器
-  - [《对线面试官》List集合](http://javainterview.gitee.io/luffy/2021/08/19/03-Java%E5%AE%B9%E5%99%A8/01.%20List%E9%9B%86%E5%90%88/)
-  - [《对线面试官》Map集合](http://javainterview.gitee.io/luffy/2021/08/19/03-Java%E5%AE%B9%E5%99%A8/02.%20Map%E9%9B%86%E5%90%88/)
-- Java虚拟机
-  - [《对线面试官》Java编译到执行的过程](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/01.%20Java%E7%BC%96%E8%AF%91%E5%88%B0%E6%89%A7%E8%A1%8C%E7%9A%84%E8%BF%87%E7%A8%8B/)
-  - [《对线面试官》双亲委派机制](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/02.%20%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%9C%BA%E5%88%B6/)
-  - [《对线面试官》JVM内存结构](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/03.%20JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84/)
-  - [《对线面试官》垃圾回收机制](http://javainterview.gitee.io/luffy/2021/08/19/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/04.%20%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
-  - [《对线面试官》CMS垃圾收集器](http://javainterview.gitee.io/luffy/2021/08/20/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/05.%20CMS%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
-  - [《对线面试官》G1垃圾收集器](http://javainterview.gitee.io/luffy/2021/08/20/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/06.%20G1%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
-  - [《对线面试官》JVM调优](http://javainterview.gitee.io/luffy/2021/08/24/04-Java%E8%99%9A%E6%8B%9F%E6%9C%BA/07.%20JVM%E8%B0%83%E4%BC%98/)
-- Spring
-  - [《对线面试官》SpringMVC](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/01.%20SpringMVC/)
-  - [《对线面试官》Spring基础](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/02.%20Spring%E5%9F%BA%E7%A1%80/)
-  - [《对线面试官》SpringBean生命周期](http://javainterview.gitee.io/luffy/2021/08/19/05-Spring/03.%20SpringBean%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
-- Redis
-  - [《对线面试官》Redis基础](http://javainterview.gitee.io/luffy/2021/08/19/06-Redis/01.%20Redis%E5%9F%BA%E7%A1%80/)
-  - [《对线面试官》Redis持久化](http://javainterview.gitee.io/luffy/2021/08/19/06-Redis/02.%20Redis%E6%8C%81%E4%B9%85%E5%8C%96/)
-  - [《对线面试官》Redis主从架构](http://javainterview.gitee.io/luffy/2021/08/20/06-Redis/03.%20Redis%E4%B8%BB%E4%BB%8E%E6%9E%B6%E6%9E%84/)
-  - [《对线面试官》Redis分片集群](http://javainterview.gitee.io/luffy/2021/08/20/06-Redis/04.%20Redis%E5%88%86%E7%89%87%E9%9B%86%E7%BE%A4/)
-- 消息队列
-  - [《对线面试官》Kafka基础](http://javainterview.gitee.io/luffy/2021/08/19/07-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/01.%20Kafka%E5%9F%BA%E7%A1%80/)
-  - [《对线面试官》使用Kafka需要考虑的问题](http://javainterview.gitee.io/luffy/2021/08/19/07-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/02.%20%E4%BD%BF%E7%94%A8Kafka%E4%BC%9A%E8%80%83%E8%99%91%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98/)
-- MySQL
-  - [《对线面试官》MySQL索引](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/01.%20MySQL%E7%B4%A2%E5%BC%95/)
-  - [《对线面试官》MySQL事务和锁机制和MVCC](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/02.%20MySQL%E4%BA%8B%E5%8A%A1%E5%92%8C%E9%94%81%E6%9C%BA%E5%88%B6%E5%92%8CMVCC/)
-  - [《对线面试官》MySQL调优](http://javainterview.gitee.io/luffy/2021/08/19/08-MySQL/03.%20MySQL%E8%B0%83%E4%BC%98/)
-- 项目场景类
-  - [《对线面试官》如何实现去重和幂等](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/01.%20%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8E%BB%E9%87%8D%E5%92%8C%E5%B9%82%E7%AD%89/)
-  - [《对线面试官》系统需求多变如何设计](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/02.%20%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E5%A4%9A%E5%8F%98%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1/)
-  - [《对线面试官》项目常用到的设计模式](http://javainterview.gitee.io/luffy/2021/08/20/09-%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E7%B1%BB/03.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
-- 算法
-  - [《对线面试官》排序算法](http://javainterview.gitee.io/luffy/2021/09/01/11-%E7%AE%97%E6%B3%95/01.%20%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
-  - [《对线面试官》LeetCode easy](http://javainterview.gitee.io/luffy/2021/09/02/11-%E7%AE%97%E6%B3%95/02.%20LeetCode%20Easy/)
-  - [《对线面试官》 LeetCode Medium](http://javainterview.gitee.io/luffy/2021/09/02/11-%E7%AE%97%E6%B3%95/02.%20LeetCode%20Medium/)
 
+### **《对线面试官 第一季》纯文版**
+
+- 简历
+  - [【对线面试官】如何写简历](https://mp.weixin.qq.com/s/8xT80Ih0KtrngMdjX4ncTQ)
+- Java基础
+  - [【对线面试官】Java注解](https://mp.weixin.qq.com/s/KCp3jEFKCG1_sFWLH7ytNQ)
+  - [【对线面试官】Java泛型](https://mp.weixin.qq.com/s/eTtaGsx48T-lVAk5mGG3Xg)
+  - [【对线面试官】 Java NIO](https://mp.weixin.qq.com/s/hw0u_wmiVbZ5-U9xjjPXsg)
+  - [【对线面试官】Java反射 && 动态代理](https://mp.weixin.qq.com/s/-dJzaG6CndWLXLpsqCo8Uw)
+- Java并发
+  - [【对线面试官】多线程基础](https://mp.weixin.qq.com/s/La7MH_uRVfSNDJOGVQIv4w)
+  - [【对线面试官】 CAS](https://mp.weixin.qq.com/s/20IQ_7huX2iIt_nbVPNqAQ)
+  - [【对线面试官】synchronized](https://mp.weixin.qq.com/s/YilCUO-uUliXE4Bg6e_8Vg)
+  - [【对线面试官】AQS&&ReentrantLock](https://mp.weixin.qq.com/s/HoL-_U-JHw5x7OE0MuAkhw)
+  - [【对线面试官】线程池](https://mp.weixin.qq.com/s/wqN_VikdX-mDwOj98MPgJg)
+  - [【对线面试官】ThreadLocal](https://mp.weixin.qq.com/s/qSUi_bQ3trRUKEC84UvQVA)
+  - [【对线面试官】CountDownLatch和CyclicBarrier](https://mp.weixin.qq.com/s/9v6AqB1waqvRj2hOR9WjTw)
+  - [【对线面试官】为什么需要Java内存模型？](https://mp.weixin.qq.com/s/DnZElICmvVwt2-V8lmEo0w)
+  - [【对线面试官】深入浅出 Java 内存模型](https://mp.weixin.qq.com/s/uqVkA74v_WDeNKoj5M-A6A)
+- Java虚拟机
+  - [【对线面试官】Java从编译到执行，发生了什么？](https://mp.weixin.qq.com/s/PCNAOXMUb3Wn_SkTYttKRw)
+  - [【对线面试官】双亲委派机制](https://mp.weixin.qq.com/s/9mojzm8URjNRBg3r8BamdQ)
+  - [【对线面试官】JVM内存结构](https://mp.weixin.qq.com/s/Sw2KASvm36m5b7u-SZO4ZA)
+  - [【对线面试官】垃圾回收机制](https://mp.weixin.qq.com/s/lexdGEd1G8y44xoL2x-F9Q)
+  - [【对线面试官】CMS垃圾回收器](https://mp.weixin.qq.com/s/r-aRx_ez13a6dZKNLG-0Aw)
+  - [【对线面试官】G1垃圾收集器](https://mp.weixin.qq.com/s/hrzSmb68n5rO4EN3vl3IeA)
+  - [【对线面试官】JVM调优](https://mp.weixin.qq.com/s/jp5gU28t8MSuY9PWhokRaQ)
+- Java集合
+  - [【对线面试官】List](https://mp.weixin.qq.com/s/Izoum2QZVhbzmXoC4hvf1Q)
+  - [【对线面试官】Map](https://mp.weixin.qq.com/s/sgiQiVx_c5fON1IylVlq9A)
+- Spring
+  - [【对线面试官】SpringMVC](https://mp.weixin.qq.com/s/6IOTuk8s-rEwxwbvpNR00A)
+  - [【对线面试官】Spring基础](https://mp.weixin.qq.com/s/Ww7VLA1hC15YyV7L3A3TqA)
+  - [【对线面试官】SpringBean生命周期](https://mp.weixin.qq.com/s/jtQLDAJ21T-A18W4Gpu_Sg)
+- Redis
+  - [【对线面试官】Redis基础](https://mp.weixin.qq.com/s/SdE6MR9g-v93ZtJPme9e8Q)
+  - [【对线面试官】Redis持久化](https://mp.weixin.qq.com/s/HqQxSkGZUT3-gveOswq5dA)
+  - [【对线面试官】Redis主从架构](https://mp.weixin.qq.com/s/jqNldrHhJv9GZhoirhtRyA)
+  - [【对线面试官】Redis分片集群](https://mp.weixin.qq.com/s/Kc94yEcoVguO9iZtqJVCYQ)
+- 消息队列
+  - [【对线面试官】Kafka基础](https://mp.weixin.qq.com/s/BD_nYDs037kE58Z6SOn0Pw)
+  - [【对线面试官】使用Kafka会考虑什么问题？](https://mp.weixin.qq.com/s/5L4mODPQZrfwz94qcFNYuQ)
+- MySQL
+  - [【对线面试官】MySQL索引](https://mp.weixin.qq.com/s/74lPw8-keqM_niBDoOXSCQ)
+  - [【对线面试官】MySQL 事务&&锁机制&&MVCC](https://mp.weixin.qq.com/s/K3GVxpK_RZ80IcBNpoJdQw)
+  - [【对线面试官】MySQL调优](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484508&idx=1&sn=4e81d365409bf32c08e4ea985e3ca593&chksm=fdf0ec03ca876515d59c49f033cf83f72b62fafe356e678b4d162ad3623d31bf60fb6620176f&token=336229290&lang=zh_CN&scene=21#wechat_redirect)
+- 项目场景相关
+  - [【对线面试官】如何实现幂等和去重？](https://mp.weixin.qq.com/s/E-pykbZRH5DP2DLvlrbhFQ)
+  - [【对线面试官】系统需求多变时，如何设计](https://mp.weixin.qq.com/s/Js0D8vyJE3AVCbnybH9E2A)
+  - [【对线面试官】设计模式](https://mp.weixin.qq.com/s/Ft-eQwBn5CUN8EGjrWdj3A)
+- 计算机网络
+  - [【对线面试官】TCP](https://mp.weixin.qq.com/s/ko9LnbSbgdATRBActvEzaA)
+  - [【对线面试官】HTTP](https://mp.weixin.qq.com/s/mjjK8opWUKc0mjzx0v9QXw)
+
+
+
+### **《对线面试官 第一季》图片版**
+
+- 简历
+  - [【对线面试官】如何写简历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247501366&idx=1&sn=e8392d90aa6abccbe4978b8aced394fe&chksm=ebd48737dca30e213e708c577b6d8b5ed7b93ec796c4deae159563a48a5cb26a5d3289337e71&token=1979417434&lang=zh_CN&scene=21#wechat_redirect)
+- Java基础
+  - [【对线面试官】Java注解](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483821&idx=1&sn=e9003410a8d3c8a092de0c4d2002bedd&scene=21#wechat_redirect)
+  - [【对线面试官】Java泛型](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483823&idx=1&sn=cc887dc2c7e68a69e8d4d141c2ca9b5e&scene=21#wechat_redirect)
+  - [【对线面试官】 Java NIO](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483854&idx=1&sn=aa450a03ac0d6e8cf12cf13d4719ede3&scene=21#wechat_redirect)
+  - [【对线面试官】Java反射 && 动态代理](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483893&idx=1&sn=af51e626f2c2baec8cae4f4a15425957&scene=21#wechat_redirect)
+- Java并发
+  - [【对线面试官】多线程基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483918&idx=1&sn=ab8550bb284edcf7cf0c6d0b41e0c2f6&scene=21#wechat_redirect)
+  - [【对线面试官】 CAS](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483977&idx=1&sn=1a3aa3aec27073aa3b422bc41d7fbe2d&chksm=fdf0ea16ca8763005aff64834eeb7bef08bf4ee2d8febb7e8d4d8e5d1542336e13fac71e2881&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
+  - [【对线面试官】synchronized](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247483980&idx=1&sn=c9b620834adb889ad8ccedb6afdcaed1&scene=21#wechat_redirect)
+  - [【对线面试官】AQS&&ReentrantLock](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484035&idx=1&sn=ccaec352e192f1fd40020d9a984e9461&chksm=fdf0eadcca8763ca5c44bd19118fd00e843c163deb40cda444b3fc08430c57760db15eca1ea6&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
+  - [【对线面试官】线程池](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484036&idx=1&sn=75e9e93a82a811e9c71b8127cf7ac677&chksm=fdf0eadbca8763cd7ab74757f9472d061c0244d2373a1ea85b1cbc833941441fdb1e91ead5b4&scene=21&cur_album_id=1657204970858872832#wechat_redirect)
+  - [【对线面试官】ThreadLocal](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484118&idx=1&sn=9526a1dc0d42926dd9bcccfc55e6abc2&scene=21#wechat_redirect)
+  - [【对线面试官】CountDownLatch和CyclicBarrier](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484363&idx=1&sn=743dcdfb84f83cfc38882407f87c7c6d&chksm=fdf0eb94ca87628296d86d16769f25e10acd052bcd78f4a4608f4218e4948aff610b04a41f60&token=960279204&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】为什么需要Java内存模型？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484535&idx=1&sn=af9676b6defcfd862db297b1ee3f4aea&chksm=fdf0ec28ca87653e84aedd1b5db916d776c46c158afb727467d42a941af85d948046da24b5e5&token=1812893887&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】深入浅出 Java 内存模型](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484606&idx=1&sn=42212c0ac1c123ebee1903d07f88b6db&chksm=fdf0ece1ca8765f7e623d2a3d19ff637d8f2449db0dea2bb63d87e11f63b482cf16c0a007faf&token=2087444891&lang=zh_CN&scene=21#wechat_redirect)
+- Java虚拟机
+  - [【对线面试官】Java从编译到执行，发生了什么？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484557&idx=1&sn=6fb103a2a322effc564fbb04c3b93a6c&chksm=fdf0ecd2ca8765c4eacc22e54b4bc57888555efee99f1c7e57ee611e07d220b35b2aa658a4ca&token=830702193&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】双亲委派机制](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484581&idx=1&sn=887268251772f4f8fc737d7e4354b5b8&chksm=fdf0ecfaca8765ec656ca3ea2ae57b33226eef3cbcc2c107168619aa6be37db5b3416ead43b5&token=1009822517&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】JVM内存结构](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484635&idx=1&sn=4ca6f32917ee42a5b5e0443d2262c2ec&chksm=fdf0ec84ca876592e1c58dbd4d7535f9bb11df1cba5c4e7cd045b87e790cb2ec7ea35302bbd1&token=399434818&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】垃圾回收机制](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484705&idx=1&sn=9955b0cec5acb6b5dc977b949aea9e63&chksm=fdf0ed7eca876468aed985743371b6fc647b26c7e9c66fd0612b34991c01b28f16b273721201&token=334164983&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】CMS垃圾回收器](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484764&idx=1&sn=67b0e576a4e7660bec0d3e9ac947954d&scene=21#wechat_redirect)
+  - [【对线面试官】G1垃圾收集器](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484826&idx=1&sn=ed423fab3a263dc05ff022977ea94536&scene=21#wechat_redirect)
+  - [【对线面试官】JVM调优](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247485031&idx=1&sn=d1a456a1dde946eb8001a5f0b04f6533&scene=21#wechat_redirect)
+- Java集合
+  - [【对线面试官】List](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484253&idx=1&sn=532db3941f47502582295cbb003f753d&chksm=fdf0eb02ca8762145c66b33bbb429399f1f0f27b31c22f7cf6c693c235e9a7cffdafb6ce2fdc&token=57394744&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】Map](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484280&idx=1&sn=87cfede653dabc26c909823a1dafd615&chksm=fdf0eb27ca876231095ff99f0b3e30acd7b2ee4cdc7ddb16da0bb6a3b02f531e27324059cf58&token=100834666&lang=zh_CN&scene=21#wechat_redirect)
+- Spring
+  - [【对线面试官】SpringMVC](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484064&idx=1&sn=3a59514a8262ab61036fc89cf0b0a27e&chksm=fdf0eaffca8763e90002ce1daf365f717a4bda3e50878f65943f52d14bee78fc65e837ef32f9&token=664255414&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】Spring基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484147&idx=1&sn=ef282cd54351436fc33c47534b4c2ac1&chksm=fdf0eaacca8763ba9b6c69acdba6b0ae8801405c98295842a0b5d891fe80246d76a2a0470bea&token=1998524575&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】SpringBean生命周期](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484187&idx=1&sn=8f831c40dca9b2a57fdfbd051e4eab44&chksm=fdf0eb44ca87625253ea831471110860d3f27e04488b2748ba90ad442b079aca3d6b95d31bbe&token=1998524575&lang=zh_CN&scene=21#wechat_redirect)
+- Redis
+  - [【对线面试官】Redis基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484227&idx=1&sn=4a124a2dd5ef6ce062abdadf247b5cff&chksm=fdf0eb1cca87620a8679473dfdd50421eb6ccba2459a7cb59ae1652138f7bb508558f3d4649e&token=57394744&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】Redis持久化](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484323&idx=1&sn=c3306b3f9abb6f880e2672f169202a42&chksm=fdf0ebfcca8762eaf9b4873e79cd3445857b1f4476a854acdf9c19fb81e1a02146c65cff5078&token=610975656&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】Redis主从架构](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484884&idx=1&sn=b944c10afced15b47098853b0ee5456b&scene=21#wechat_redirect)
+  - [【对线面试官】Redis分片集群](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484915&idx=1&sn=c50e991f750615c09bb67b2acfa05458&scene=21#wechat_redirect)
+- 消息队列
+  - [【对线面试官】Kafka基础](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484387&idx=1&sn=5bb2ba58776e65f53b091a4bcdb73755&chksm=fdf0ebbcca8762aadc359066ecd70274fa23ee846f9ba9114017402dcbed415f25f97d3020a6&token=1131755397&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】使用Kafka会考虑什么问题？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484411&idx=1&sn=9c4aaeb44f4d9e09cc796805ada29921&chksm=fdf0eba4ca8762b234c3f101bb88c5d134554a831cbf4e80b08dc0bfa829e363a4e1e49a8b50&token=649285067&lang=zh_CN&scene=21#wechat_redirect)
+- MySQL
+  - [【对线面试官】MySQL索引](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484431&idx=1&sn=17b9e88233282469481e214a0cd2dc56&chksm=fdf0ec50ca8765460a20af19101855c859a6350a8dfd6680e7f47c2e73f03de48288184a1bf3&token=310857929&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】MySQL 事务&&锁机制&&MVCC](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484480&idx=1&sn=3571b89575e8c37c114c9f290b953a1c&chksm=fdf0ec1fca87650913e6673a453d0ba1614341433aa67dd9977fef7231a3d825f7da4e4a132a&token=1651214636&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】MySQL调优](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484508&idx=1&sn=4e81d365409bf32c08e4ea985e3ca593&chksm=fdf0ec03ca876515d59c49f033cf83f72b62fafe356e678b4d162ad3623d31bf60fb6620176f&token=336229290&lang=zh_CN&scene=21#wechat_redirect)
+- 项目场景相关
+  - [【对线面试官】如何实现幂等和去重？](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484848&idx=1&sn=936898b5e5a2cb1a82b4b017a7c811d5&scene=21#wechat_redirect)
+  - [【对线面试官】系统需求多变时，如何设计](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484954&idx=1&sn=d084fdd34d70ece3c3e50931e7394e32&scene=21#wechat_redirect)
+  - [【对线面试官】设计模式](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247484979&idx=1&sn=f7ccdc3874e5f966f4bf1db0117115f9&scene=21#wechat_redirect)
+- 计算机网络
+  - [【对线面试官】TCP](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247501744&idx=1&sn=c822bdaf1e062f1dff3ae2f5862f7be9&chksm=ebd486b1dca30fa70876a40858eccc9ea35de210081ffbe34423a1269a7d29323d6a939edd4b&token=1979417434&lang=zh_CN&scene=21#wechat_redirect)
+  - [【对线面试官】HTTP](https://mp.weixin.qq.com/s?__biz=MzU4NzA3MTc5Mg==&mid=2247485055&idx=1&sn=4aab3ca14e013c031fb0a9617d5049a7&scene=21#wechat_redirect)
+
+### **《对线面试官 第一季》离线版**
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hm83zplj217r0u0tcs.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hmzpzssj21780u0n1p.jpg)
 八股文不再是背诵！在**对线面试官**公众号内还有一份图文版，会更加幽默有趣些，需要准备面试的可以关注下对线面试官这个公众号。已有不少的同学**通过对线面试官公众号的分享**得到BATTMD等一线大厂的的offer
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f48cee2bbd44476f93dfcdd8aaf8a4eb~tplv-k3u1fbpfcp-watermark.image?)
@@ -107,17 +167,19 @@ austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfuchen
 - [x] 企业微信渠道接入
 - [x] 夜间屏蔽次日早晨推送（xxl-job定时任务框架，另类的延时队列）
 - [x] 钉钉渠道接入
-- [ ] 工作流引擎实现对消息工单审核
+- [x] 单机限流实现
+- [ ] 引入单测框架，编写部分单测用例
+- [ ] 持续提高消息推送系统的影响力，让更多的业务方了解其功能，进而挖掘更多拉新和唤醒用户的玩法，提高站内的次留率和转化率
 - [ ] 优化代码
 - [ ] 接入微信服务号渠道
 - [ ] 接入微信小程序渠道
 - [ ] 接入PUSH渠道
-- [ ] 持续提高消息推送系统的影响力，让更多的业务方了解其功能，进而挖掘更多拉新和唤醒用户的玩法，提高站内的次留率和转化率
+- [ ] 接入工作流引擎实现对消息工单审核
 
 
-**近期更新时间**：2022年3月30日
+**近期更新时间**：2022年4月18日
 
-**近期更新功能**：钉钉群自定义机器人与工作消息渠道接入完成
+**近期更新功能**：单机限流实现
 
 
 **Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
