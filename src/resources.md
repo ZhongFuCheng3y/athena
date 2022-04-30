@@ -1,6 +1,6 @@
 # 资源分享 #
 
-- [视频资源](resource.md)
+
 - [思维导图](mindmap.md)
 - [2018快速学Java](learnjava.md)
 - [程序员可技术博客平台](blogplatform.md)
