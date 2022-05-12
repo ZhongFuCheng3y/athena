@@ -137,64 +137,17 @@
 <img align="center" src='https://tva1.sinaimg.cn/large/008i3skNgy1gtlvty8zo5j60u00u0q5602.jpg' width=300px height=300px />
 
 
-
 ### :guitar: austin项目系列
 
-austin项目的介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是成为**每个Java初学者**能够写在简历上的项目。
+austin项目**核心功能**：统一的接口发送各种类型消息，对消息生命周期全链路追踪
 
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5436b2e3d6cd471db9aafbd436198ca7~tplv-k3u1fbpfcp-zoom-1.image)
 
-- [x] Maven+SpringBoot项目搭建
-- [x] logback日志记录项目运行时信息，引入common/guava/Hutool/Lombok/fastjson/OkHttp工具包
-- [x] 接入腾讯云渠道发送一条短信
-- [x] 使用SpringData JPA将短信发送记录存储至MySQL
-- [x] 使用SpringBoot接入Kafka
-- [x] 利用责任链完成对接入层的请求进行封装（责任链模式）
-- [x] 消费层实现数据隔离（线程池：生产者与消费者模式）
-- [x] 通用去重消息功能（SpringBoot接入Redis并使用pipeline减少网络请求）
-- [x] 配置服务器和docker容器以及SpringBoot应用的监控（prometheus+Grafana+auctuator）
-- [x] 接入分布式配置中心完成 丢失消息、白名单以及账号配置（Apollo分布式配置中心）
-- [x] 邮件渠道接入
-- [x] 日志链路数据追踪 + 注解式打印日志（优雅打印日志以及数据埋点）
-- [x] 接入GrayLog分布式日志收集框架
-- [x] 引入前端低代码平台AMIS搭建后台管理页面
-- [x] 接入分布式定时任务框架定时发送任务（xxl-job定时任务框架），编写上传文件接口并使用LazyPending批处理人群文件数据
-- [x] 接入实时流计算平台（Flink），实时日志数据根据用户维度和消息模板维度清洗至Redis
-- [x] 通过AMIS低代码平台接入echarts图表展示实时聚合后的数据
-- [x] 优雅停机、动态线程池参数配置
-- [x] 企业微信渠道接入
-- [x] 夜间屏蔽次日早晨推送（xxl-job定时任务框架，另类的延时队列）
-- [x] 钉钉渠道接入
-- [x] 单机限流实现
-- [x] 引入单测框架，编写部分单测用例
-- [ ] 持续提高消息推送系统的影响力，让更多的业务方了解其功能，进而挖掘更多拉新和唤醒用户的玩法，提高站内的次留率和转化率
-- [ ] 优化代码
-- [ ] 接入微信服务号渠道
-- [ ] 接入微信小程序渠道
-- [ ] 接入PUSH渠道
-- [ ] 接入工作流引擎实现对消息工单审核
+**项目出现意义**：只要公司内有发送消息的需求，都应该要有类似`austin`的项目，对各类消息进行统一发送处理。这有利于对功能的收拢，以及提高业务需求开发的效率
 
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c267ebb2ff234243b8665312dbb46310~tplv-k3u1fbpfcp-zoom-1.image)
 
-**近期更新时间**：4月30号
-
-**近期更新功能**：引入单测框架，编写部分单测用例
-
-
-**Java3y**公众号在持续更新austin系列文章，**保姆级**讲解搭建项目的过程（包括技术选型以及一些业务的探讨）以及相关环境的搭建。**扫下面的码直接关注，带你了解整个项目**
-
-- [01、SpringBoot+Maven环境搭建架子](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/01.%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- [02、使用logback记录项目的运行时信息](http://javainterview.gitee.io/luffy/2021/10/30/12-austin%E9%A1%B9%E7%9B%AE/02.%E6%97%A5%E5%BF%97/)
-- [03、接入common/guava/Hutool/Lombok/fastjson/OkHttp工具包](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/03.%E5%B7%A5%E5%85%B7%E5%8C%85/)
-- [04、接入腾讯云发送一条短信](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/05.%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B/)
-- [05、使用SpringData JPA将短信发送记录至MySQL](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/06.MySQL%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- [06、项目接入Kafka](http://javainterview.gitee.io/luffy/2021/11/24/12-austin%E9%A1%B9%E7%9B%AE/07.Kafka%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
-- ..已更新至20篇！
-
-如果你需要用这个项目写在简历上，**强烈建议关注公众号看实现细节的思路**。如果⽂档中有任何的不懂的问题，都可以直接来找我询问，我乐意帮助你们！公众号下有我的联系方式。
-
-
-
-<img align="center" src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=300px height=300px />
-
+austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
 
 
 ###  :coffee: 我的原创电子书
