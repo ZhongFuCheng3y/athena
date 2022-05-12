@@ -648,3 +648,8 @@ austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhong
 4、除了项目，还可以问我些学习经验、学习路线、简历编写、面试经验等等问题，技术和学习上的知识**知无不言**
 
 详情可以看戳：[我开通了付费渠道](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247505577&idx=1&sn=5114f8f583755899c2946fbea0b22e4b&chksm=ebd497a8dca31ebe8f98344483a00c860863dfc3586e51eed95b25988151427fee8101311f4f&token=319992632&lang=zh_CN#rd)
+
+不需要付费服务的同学**欢迎**扫描下方二维码添加我的**个人微信**备注：【**项目**】，我会空闲的时候拉进消息推送平台项目交流群
+       
+ 
+<img align="center" src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5eae548196934599a7cb3637aedf381d~tplv-k3u1fbpfcp-zoom-1.image' width=300px height=300px />
