@@ -1,6 +1,6 @@
 
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwtfr458t6j30p00anwes.jpg)
+![](https://p.ipic.vip/nehecz.jpg)
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
@@ -128,24 +128,24 @@
 
 ### **《对线面试官 第一季》离线版**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hm83zplj217r0u0tcs.jpg)
+![](https://p.ipic.vip/ci7o8x.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18hmzpzssj21780u0n1p.jpg)
+![](https://p.ipic.vip/kbr7fp.jpg)
 
 想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
 
-<img align="center" src='https://tva1.sinaimg.cn/large/008i3skNgy1gtlvty8zo5j60u00u0q5602.jpg' width=300px height=300px />
+<img align="center" src='https://p.ipic.vip/9flycl.gif02.jpg' width=300px height=300px />
 
 
 ### :guitar: austin项目系列
 
 austin项目**核心功能**：统一的接口发送各种类型消息，对消息生命周期全链路追踪
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5436b2e3d6cd471db9aafbd436198ca7~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p.ipic.vip/6ffunr.jpg)
 
 **项目出现意义**：只要公司内有发送消息的需求，都应该要有类似`austin`的项目，对各类消息进行统一发送处理。这有利于对功能的收拢，以及提高业务需求开发的效率
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c267ebb2ff234243b8665312dbb46310~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p.ipic.vip/lz9is7.jpg)
 
 austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
 
@@ -168,7 +168,7 @@ austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhong
 
 电子书文档的内容**均为手打**，有任何的不懂都可以直接来问我（公众号有我的**私人的联系方式**）。扫下方二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
-<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=300px height=300px />
+<img src='https://p.ipic.vip/199kap.gif' width=300px height=300px />
 
 
 ***
@@ -633,23 +633,20 @@ austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhong
 
 ### 会员服务
 
-消息推送平台项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
-
 收费课程是以**项目**为主，代码在Gitee和GitHub上都是开源的，项目没有商业版，后面也不会有。那么，付费跟我自己去拉Git仓库拉代码下来看有什么区别？
 
 1、有很多人的自学能力和基础确实不太行，不知道怎么开始学习，从哪开始看起，学习项目的过程中会走很多弯路，很容易就迷茫了。付费最跟自学最主要的区别就是**我的服务会更周到**。
 
 我会告诉你怎么开始学这个开源项目，哪些是重点需要掌握的，如何利用最短的时间把握整个系统架构和编码的设计，把时间节省下来去做其他事情。
 
-2、一个生产环境的系统肯定会依赖各种中间件，《消息推送平台-Austin》也是一样的。我专门买了两台服务器已经搭建好必要的依赖，付费的可以**使用我的远程服务器**，在**本地就可以直接启动运行体验和学习**
+2、一个生产环境的系统肯定会依赖各种中间件，《消息推送平台-Austin》也是一样的。我专门买了两台服务器已经搭建好必要的依赖，付费的可以**使用我的远程服务器**，在**本地就能直接启动运行体验和学习**
 
-3、项目在编写的过程中也经历多次的重构迭代，迭代的内容我是不会将以往文章内容重新修正发布，但语雀的文档内容一定是**及时同步**，文档跟代码是保持一致的
+3、项目在编写的过程中也经历多次的重构迭代，迭代的内容我是不会将以往文章内容重新修正发布，但**语雀的文档**内容一定是**及时同步**，文档跟代码是保持一致的
 
-4、除了项目，还可以问我些学习经验、学习路线、简历编写、面试经验等等问题，技术和学习上的知识**知无不言**
+4、干练清爽的项目commit，可一步一步跟着commit还原整个系统的过程
 
-详情可以看戳：[我开通了付费渠道](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247505577&idx=1&sn=5114f8f583755899c2946fbea0b22e4b&chksm=ebd497a8dca31ebe8f98344483a00c860863dfc3586e51eed95b25988151427fee8101311f4f&token=319992632&lang=zh_CN#rd)
+5、除了项目，还可以问我些学习经验、学习路线、简历编写、面试经验等等问题，技术和学习上的知识**知无不言**
 
-不需要付费服务的同学**欢迎**扫描下方二维码添加我的**个人微信**备注：【**项目**】，我会空闲的时候拉进消息推送平台项目交流群
-       
- 
-<img align="center" src='https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5eae548196934599a7cb3637aedf381d~tplv-k3u1fbpfcp-zoom-1.image' width=300px height=300px />
+详情可以看戳：[我开通了付费渠道](https://mp.weixin.qq.com/s/4cOhNG5JBSvBkbSKTfw7eQ)
+
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2d6dd728e9d4427ab6a47c647f4bdb78~tplv-k3u1fbpfcp-zoom-1.image)
