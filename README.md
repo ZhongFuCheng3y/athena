@@ -139,13 +139,12 @@
 
 ### :guitar: austin项目系列
 
-austin项目**核心功能**：统一的接口发送各种类型消息，对消息生命周期全链路追踪
+**核心功能**：统一的接口发送各种类型消息，对消息生命周期全链路追踪。
 
-![](https://p.ipic.vip/6ffunr.jpg)
+**意义**：只要公司内部有发送消息的需求，都应该要有类似`austin`的项目。消息推送平台对各类消息进行统一发送处理，这有利于对功能的收拢，以及提高业务需求开发的效率。
 
-**项目出现意义**：只要公司内有发送消息的需求，都应该要有类似`austin`的项目，对各类消息进行统一发送处理。这有利于对功能的收拢，以及提高业务需求开发的效率
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c267ebb2ff234243b8665312dbb46310~tplv-k3u1fbpfcp-zoom-1.image)
 
-![](https://p.ipic.vip/lz9is7.jpg)
 
 austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
 
