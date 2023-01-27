@@ -134,7 +134,7 @@
 
 想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
 
-<img align="center" src='https://p.ipic.vip/9flycl.gif02.jpg' width=300px height=300px />
+![](https://p.ipic.vip/yncorb.jpg)
 
 
 ### :guitar: austin项目系列
@@ -632,6 +632,9 @@ austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhong
 
 
 ### 会员服务
+
+消息推送平台项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
+
 
 收费课程是以**项目**为主，代码在Gitee和GitHub上都是开源的，项目没有商业版，后面也不会有。那么，付费跟我自己去拉Git仓库拉代码下来看有什么区别？
 
