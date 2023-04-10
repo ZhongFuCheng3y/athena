@@ -1,5 +1,3 @@
-
-
 ![](https://p.ipic.vip/nehecz.jpg)
 
 <p align="center">
@@ -8,7 +6,18 @@
   <a href="https://gitee.com/zhongfucheng/athena"><img src="https://gitee.com/zhongfucheng/athena/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
   <a href="https://github.com/ZhongFuCheng3y/athena"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/3y.svg?style=flat&label=GithubFork"></a> 
   <a href="https://github.com/ZhongFuCheng3y/athena"><img src="https://img.shields.io/github/stars/ZhongFuCheng3y/3y.svg?style=flat&label=GithubStars"></a> 
+  <a href="https://space.bilibili.com/198434865"><img src="https://img.shields.io/badge/B站-视频-orange.svg" alt="作者"></a> 
 </p>
+
+### 开源项目austin
+
+如果想学Java项目的，我还是强烈推荐我的开源项目**[消息推送平台Austin（8K stars）](https://gitee.com/zhongfucheng/austin)**，可以用作毕业设计，可以用作校招，可以看看生产环境是怎么推送消息的。
+
+仓库地址（可点击阅读原文跳转）：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
+
+:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509165&idx=1&sn=3e3d9f8646da79e546d551cbf993ddae&chksm=ebd4e5acdca36cba400f4927b3144e3dbf42d69ae38022a315722c9d33b5369e8ba9b212c685&token=1580829198&lang=zh_CN#rd)
+
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
 
 
 ###  :dollar: 对线面试官面试系列
@@ -134,19 +143,8 @@
 
 想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
 
-![](https://p.ipic.vip/yncorb.jpg)
 
-
-### :guitar: austin项目系列
-
-**核心功能**：统一的接口发送各种类型消息，对消息生命周期全链路追踪。
-
-**意义**：只要公司内部有发送消息的需求，都应该要有类似`austin`的项目。消息推送平台对各类消息进行统一发送处理，这有利于对功能的收拢，以及提高业务需求开发的效率。
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c267ebb2ff234243b8665312dbb46310~tplv-k3u1fbpfcp-zoom-1.image)
-
-
-austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
+<img src='https://p.ipic.vip/yncorb.jpg' width=300px height=300px />
 
 
 ###  :coffee: 我的原创电子书
@@ -630,25 +628,8 @@ austin项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhong
 
 
 
-### 会员服务
+### 开源项目austin文档
 
-消息推送平台项目的详细介绍可以看[我隔壁的仓库](https://gitee.com/zhongfucheng/austin)，希望它是能成为**每个Java初学者**能够写在简历上的项目。
+:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509165&idx=1&sn=3e3d9f8646da79e546d551cbf993ddae&chksm=ebd4e5acdca36cba400f4927b3144e3dbf42d69ae38022a315722c9d33b5369e8ba9b212c685&token=1580829198&lang=zh_CN#rd)
 
-
-收费课程是以**项目**为主，代码在Gitee和GitHub上都是开源的，项目没有商业版，后面也不会有。那么，付费跟我自己去拉Git仓库拉代码下来看有什么区别？
-
-1、有很多人的自学能力和基础确实不太行，不知道怎么开始学习，从哪开始看起，学习项目的过程中会走很多弯路，很容易就迷茫了。付费最跟自学最主要的区别就是**我的服务会更周到**。
-
-我会告诉你怎么开始学这个开源项目，哪些是重点需要掌握的，如何利用最短的时间把握整个系统架构和编码的设计，把时间节省下来去做其他事情。
-
-2、一个生产环境的系统肯定会依赖各种中间件，《消息推送平台-Austin》也是一样的。我专门买了两台服务器已经搭建好必要的依赖，付费的可以**使用我的远程服务器**，在**本地就能直接启动运行体验和学习**
-
-3、项目在编写的过程中也经历多次的重构迭代，迭代的内容我是不会将以往文章内容重新修正发布，但**语雀的文档**内容一定是**及时同步**，文档跟代码是保持一致的
-
-4、干练清爽的项目commit，可一步一步跟着commit还原整个系统的过程
-
-5、除了项目，还可以问我些学习经验、学习路线、简历编写、面试经验等等问题，技术和学习上的知识**知无不言**
-
-详情可以看戳：[我开通了付费渠道](https://mp.weixin.qq.com/s/4cOhNG5JBSvBkbSKTfw7eQ)
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2d6dd728e9d4427ab6a47c647f4bdb78~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
