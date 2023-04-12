@@ -15,7 +15,7 @@
 
 仓库地址（可点击阅读原文跳转）：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
 
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509165&idx=1&sn=3e3d9f8646da79e546d551cbf993ddae&chksm=ebd4e5acdca36cba400f4927b3144e3dbf42d69ae38022a315722c9d33b5369e8ba9b212c685&token=1580829198&lang=zh_CN#rd)
+:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
 
@@ -630,6 +630,6 @@
 
 ### 开源项目austin文档
 
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509165&idx=1&sn=3e3d9f8646da79e546d551cbf993ddae&chksm=ebd4e5acdca36cba400f4927b3144e3dbf42d69ae38022a315722c9d33b5369e8ba9b212c685&token=1580829198&lang=zh_CN#rd)
+:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
