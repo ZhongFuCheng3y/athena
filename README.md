@@ -11,7 +11,7 @@
 
 ### 开源项目austin
 
-想学Java项目的，我强烈推荐我的开源项目[消息推送平台Austin（9K stars）](https://gitee.com/zhongfucheng/austin)，可以用作毕业设计，可以用作校招，可以看看生产环境是怎么推送消息的，已经有不少同学通过这个项目拿到字节/菜鸟/vivo等大厂的offer了！
+想学Java项目的，我强烈推荐我的开源项目[消息推送平台Austin（9K stars）](https://gitee.com/zhongfucheng/austin)，可以用作**毕业设计**/**校招**，可以看看**线上生产环境**是怎么推送消息的。已经有不少同学**通过这个项目拿到字节/菜鸟/vivo等大厂**的offer了！
 
 :fire:项目仓库地址：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
 
