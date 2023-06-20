@@ -6,19 +6,19 @@
   <a href="https://gitee.com/zhongfucheng/athena"><img src="https://gitee.com/zhongfucheng/athena/badge/fork.svg?theme=dark" alt="gitee Starts"></a>
   <a href="https://github.com/ZhongFuCheng3y/athena"><img src="https://img.shields.io/github/forks/ZhongFuCheng3y/3y.svg?style=flat&label=GithubFork"></a> 
   <a href="https://github.com/ZhongFuCheng3y/athena"><img src="https://img.shields.io/github/stars/ZhongFuCheng3y/3y.svg?style=flat&label=GithubStars"></a> 
-  <a href="https://space.bilibili.com/198434865"><img src="https://img.shields.io/badge/B站-视频-orange.svg" alt="作者"></a> 
+
 </p>
 
 ### 开源项目austin
 
-如果想学Java项目的，我还是强烈推荐我的开源项目[消息推送平台Austin（8K stars）](https://gitee.com/zhongfucheng/austin)，可以用作毕业设计，可以用作校招，可以看看生产环境是怎么推送消息的。
+想学Java项目的，我强烈推荐我的开源项目[消息推送平台Austin（9K stars）](https://gitee.com/zhongfucheng/austin)，可以用作毕业设计，可以用作校招，可以看看生产环境是怎么推送消息的，已经有不少同学通过这个项目拿到字节/菜鸟/vivo等大厂的offer了！
 
-仓库地址（可点击阅读原文跳转）：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
+:fire:项目仓库地址：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
 
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:项目在线演示地址：[http://139.9.66.219:3000/](http://139.9.66.219:3000/)
 
-![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
-
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
 
 ###  :dollar: 对线面试官面试系列
 
@@ -630,6 +630,6 @@
 
 ### 开源项目austin文档
 
-:fire:**10W+字，共97个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
 
-![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e314973589d14d51a5dc280a95c7a48a~tplv-k3u1fbpfcp-watermark.image?)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
