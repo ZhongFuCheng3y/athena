@@ -17,7 +17,7 @@
 
 :fire:项目在线演示地址：[http://139.9.66.219:3000/](http://139.9.66.219:3000/)
 
-:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
 
 ###  :dollar: 对线面试官面试系列
@@ -630,6 +630,6 @@
 
 ### 开源项目austin文档
 
-:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247509248&idx=1&sn=804eb5f6471521e1ea6eaec9f74ddf09&chksm=ebd4e401dca36d175494337bc18ff71c265e4e07ad3ecd22f4b5b5f73efe7e247de2c614ad8a&token=888257127&lang=zh_CN#rd)
+:fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
