@@ -1,4 +1,4 @@
-![](https://p.ipic.vip/nehecz.jpg)
+![](doc/images/1.jpg)
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Author-3y-orange.svg" alt="作者"></a>
@@ -18,7 +18,7 @@
 :fire:项目在线演示地址：[http://139.9.66.219:3000/](http://139.9.66.219:3000/)
 
 :fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
+![](doc/images/2.png)
 
 ###  :dollar: 对线面试官面试系列
 
@@ -137,14 +137,14 @@
 
 ### **《对线面试官 第一季》离线版**
 
-![](https://p.ipic.vip/ci7o8x.jpg)
+![](doc/images/3.jpg)
 
-![](https://p.ipic.vip/kbr7fp.jpg)
+![](doc/images/4.jpg)
 
 想要获取这份电子书，**点击关注**下方公众号，回复「**对线**」得到我的联系方式即可进群获取电子书
 
 
-<img src='https://p.ipic.vip/yncorb.jpg' width=300px height=300px />
+<img src='doc/images/5.jpg' width=300px height=300px />
 
 
 ###  :coffee: 我的原创电子书
@@ -165,7 +165,7 @@
 
 电子书文档的内容**均为手打**，有任何的不懂都可以直接来问我（公众号有我的**私人的联系方式**）。扫下方二维码或者**微信搜索Java3y**，在公众号下回复「**888**」即可获取！！
 
-<img src='https://p.ipic.vip/199kap.gif' width=300px height=300px />
+<img src='doc/images/6.gif' width=300px height=300px />
 
 
 ***
@@ -632,4 +632,4 @@
 
 :fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
+![](doc/images/2.png)
