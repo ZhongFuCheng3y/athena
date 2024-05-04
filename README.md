@@ -11,11 +11,11 @@
 
 ### 开源项目austin
 
-想学Java项目的，我强烈推荐我的开源项目[消息推送平台Austin（9K stars）](https://gitee.com/zhongfucheng/austin)，可以用作**毕业设计**/**校招**，可以看看**线上生产环境**是怎么推送消息的。已经有不少同学**通过这个项目拿到字节/菜鸟/vivo等大厂**的offer了！
+想学Java项目的，我强烈推荐我的开源项目[消息推送平台Austin（11K+ stars）](https://gitee.com/zhongfucheng/austin)，可以用作**毕业设计**/**校招**，可以看看**线上生产环境**是怎么推送消息的。已经有不少同学**通过这个项目拿到字节/菜鸟/vivo等大厂**的offer了！
 
 :fire:项目仓库地址：[https://gitee.com/zhongfucheng/austin](https://gitee.com/zhongfucheng/austin)
 
-:fire:项目在线演示地址：[http://139.9.66.219:3000/](http://139.9.66.219:3000/)
+:fire:项目在线演示地址：[http://117.50.186.19:3000/](http://117.50.186.19:3000/)
 
 :fire:**11W+字，共107个文档，带你玩转austin**，详情可戳：[消息推送平台文档](https://www.yuque.com/u1047901/eg5qvy/hh0gk5p4uwie8bva)
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7e69fb77ee74fbe8073adfefbe9e54c~tplv-k3u1fbpfcp-watermark.image?)
